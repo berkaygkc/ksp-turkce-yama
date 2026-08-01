@@ -76,6 +76,12 @@ for alt in Squad MakingHistory Serenity SquadRoot; do
 done
 [ "$n" -gt 0 ] && ok "KSPedia geri alındı ($n dosya)"
 
+# Bayrak yamanın kendi klasöründe; oyunun dosyası değil, silmek güvenli.
+if [ -d "$OYUN/GameData/TurkceYama" ]; then
+  rm -rf "$OYUN/GameData/TurkceYama"
+  ok "Türk bayrağı kaldırıldı"
+fi
+
 baslik "Yama kaldırıldı"
 echo "  Oyun tekrar İngilizce."
 echo "  Yedek klasörü duruyor; istersen ./kur.sh ile tekrar kurabilirsin."

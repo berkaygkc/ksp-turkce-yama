@@ -2,7 +2,7 @@
 
 Kerbal Space Program 1.12.5'in **tamamını** Türkçeleştiren yama. Menüler, ayarlar,
 parça adları, bilim raporları, sözleşmeler, uyarılar — ve oyun içi ansiklopedi
-**KSPedia** dahil.
+**KSPedia** dahil. Ayrıca oyuna **Türk bayrağı** ekler.
 
 > **macOS'ta yapıldı ve test edildi.** Kurulum betikleri macOS için yazıldı.
 > Windows/Linux için aşağıda [elle kurulum](#windows--linux) var; çeviri
@@ -16,6 +16,7 @@ parça adları, bilim raporları, sözleşmeler, uyarılar — ve oyun içi ansi
 |---|---|
 | Oyun arayüzü (sözlük) | **12.656 metnin tamamı işlendi** — %93,8'i Türkçe, %6,2'si kasıtlı İngilizce |
 | KSPedia (ansiklopedi) | **1.642 metnin tamamı** — %100 |
+| Türk bayrağı | eklendi |
 | Toplam | **~817.000 karakter** |
 
 **Kasıtlı İngilizce kalanlar** (%6,2): gezegen ve karakter adları (Kerbin, Mun,
@@ -70,20 +71,37 @@ bash yama/kur.sh "/oyunun/tam/yolu/Kerbal Space Program"
 
 ---
 
+## Türk bayrağı
+
+Yama oyuna Türk bayrağı ekler. Roketlerine ve istasyonlarına takabilirsin.
+
+**Nerede bulunur:** Uzay Merkezi > Yönetim Binası'ndan varsayılan bayrağı
+seçebilir, ya da araç yaparken bayrak parçasına sağ tıklayıp *Bayrak Seç*
+diyebilirsin.
+
+Bayrak, Türk Bayrağı Kanunu'ndaki resmî geometriyle çizildi — ay ve yıldızın
+çapları, konumları ve yıldızın dönüşü standarda birebir uyuyor (`#e30a17`).
+KSP dokuları 2:1, bayrağın gerçek oranı 3:2 olduğu için bayrak gerdirilmedi;
+gerçek oranıyla çizilip tuvale ortalandı, yoksa ay elips olurdu.
+
+Oyunun kendi dosyalarına dokunulmaz — bayrak `GameData/TurkceYama/` altına
+kendi klasörüne konur.
+
 ## Kurulum ne yapıyor?
 
-Üç adım, hepsi geri alınabilir:
+Dört adım, hepsi geri alınabilir:
 
 1. **Yedek alır.** Orijinal İngilizce dosyalar oyunun içindeki
    `_ksp-tr-yedek/` klasörüne kopyalanır. Yama tekrar kurulsa bile bu yedeğin
    **üstüne asla yazılmaz** — İngilizce'ye dönüş yolu kalıcıdır.
 2. **Sözlüğü kurar.** `dictionary.cfg` dosyalarını Türkçe sürümleriyle değiştirir.
    Oyunun bütün arayüzü budur.
-3. **KSPedia'yı yamalar.** Ansiklopedi sayfaları Unity asset bundle'ı olduğu için
+3. **Türk bayrağını ekler.** Kendi klasörüne; oyunun dosyalarını değiştirmez.
+4. **KSPedia'yı yamalar.** Ansiklopedi sayfaları Unity asset bundle'ı olduğu için
    metin doğrudan değiştirilemiyor; yama bunu senin kendi dosyalarının üzerinde
    yapar (aşağıda [neden](#neden-kspedia-hazır-gelmiyor)).
 
-**Bu adım için Python gerekiyor.** Yoksa yama onu atlar ve söyler — oyunun geri
+**Sadece 4. adım (KSPedia) için Python gerekiyor.** Yoksa yama o adımı atlar ve söyler — oyunun geri
 kalanı yine de Türkçe olur. Python'u kurmak için Terminal'de:
 
 ```bash
@@ -145,7 +163,13 @@ bağımsız.** Elle kurmak için:
 
 Bu kadarı oyunun arayüzünü Türkçeleştirir.
 
-**2. KSPedia** (isteğe bağlı)
+**2. Türk bayrağı** (isteğe bağlı)
+
+`yama/bayrak/TurkBayragi.png` dosyasını oyunun içinde
+`GameData/TurkceYama/Flags/` klasörü açıp oraya kopyala. Kendin üretmek
+istersen: `python3 gelistirme/bayrak_uret.py TurkBayragi.png`
+
+**3. KSPedia** (isteğe bağlı)
 
 ```bash
 python3 -m pip install UnityPy Pillow

@@ -97,7 +97,7 @@ mkdir -p "$YEDEK/kspedia"
 # ——————————————————————————————————————————————
 # 2. Yedek al  (yalnızca ilk kurulumda — sonra asla dokunma)
 # ——————————————————————————————————————————————
-baslik "1/3  Orijinal dosyalar yedekleniyor"
+baslik "1/4  Orijinal dosyalar yedekleniyor"
 
 # Yedek YALNIZCA yoksa alınır. Yama kurulu bir oyunun üstüne tekrar kurulunca
 # Türkçe dosyaları "orijinal" diye kaydetmek felaket olurdu — İngilizce'ye
@@ -141,7 +141,7 @@ echo "     Bu klasörü silme — İngilizce'ye dönmenin tek yolu."
 # ——————————————————————————————————————————————
 # 3. Sözlüğü kur  (asıl iş — oyunun tüm arayüzü)
 # ——————————————————————————————————————————————
-baslik "2/3  Türkçe sözlük kuruluyor"
+baslik "2/4  Türkçe sözlük kuruluyor"
 
 cp "$KOK/sozluk/squad-dictionary.cfg" \
    "$OYUN/GameData/Squad/Localization/dictionary.cfg"
@@ -156,9 +156,22 @@ else
 fi
 
 # ——————————————————————————————————————————————
-# 4. KSPedia  (isteğe bağlı — Python gerektiriyor)
+# 4. Türk bayrağı
+# Kendi GameData klasörüne konur; oyunun dosyalarına dokunulmaz, Steam
+# doğrulaması bozmaz. Kaldırırken bu klasörü silmek yeterli.
 # ——————————————————————————————————————————————
-baslik "3/3  KSPedia (oyun içi ansiklopedi)"
+baslik "3/4  Türk bayrağı"
+
+mkdir -p "$OYUN/GameData/TurkceYama/Flags"
+cp "$KOK/bayrak/TurkBayragi.png" "$OYUN/GameData/TurkceYama/Flags/"
+ok "Bayrak eklendi"
+echo "     Oyunda: Uzay Merkezi > Yönetim Binası, ya da araç yaparken"
+echo "     bayrak parçasına sağ tık > Bayrak Seç"
+
+# ——————————————————————————————————————————————
+# 5. KSPedia  (isteğe bağlı — Python gerektiriyor)
+# ——————————————————————————————————————————————
+baslik "4/4  KSPedia (oyun içi ansiklopedi)"
 
 if [ "${KSPEDIA:-evet}" = "hayir" ]; then
   uyari "Atlandı (KSPEDIA=hayir dendi)"
