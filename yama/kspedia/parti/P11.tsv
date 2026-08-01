@@ -1,0 +1,67 @@
+idx	kutu_w	font	kapasite	EN
+421	654.3	70	18	Cargo System
+422	362.37	40	18	Stacking
+423	362.37	40	18	Storage
+424	362.37	40	18	Kerbals
+425	752	40	37	Any pilot, or any scientist or engineer Level 1 or higher can use their EVA chute when they have one in their inventory.  It can be deployed and repackaged, just like vessel chutes.\r\n\r\nThese chutes are vastly more advanced through the use of ram air cells and control handles to allow the kerbal to adjust their glide angle like a plane!\r\n
+426	1926.5	40	96	Kerbals with sufficient experience can now enjoy the feeling of flight (without crashing at the end) by using their EVA chute.
+427	800.31	70	22	Kerbal Parachute
+428	335.6	40	16	Pitch Backward\n
+429	335.6	40	16	Pitch Forward\n
+430	335.6	40	16	Turn Left\n
+431	335.6	40	16	Turn Right
+432	335.6	40	16	Deploy\n
+433	1251.45	40	62	Here you will find out about CommNet and KerbNet functionality.
+434	809.58	70	23	Communications Network
+435	1961.12	40	98	Communication Networks allow your vessels to transmit data between each other and Kerbin. You can \ncreate a CommNet with antennas which connect back to Kerbin’s Deep Space Network (DSN).\n\nThese links are used for Control and for Science. You can extend the range and Signal Strength of DSN \nconnections by upgrading the Tracking Station and can increase coverage and Signal Strength further \nwith Relays.
+436	300.76	40	15	Remote Control\nPoint
+437	305.91	40	15	Occluded Signal
+438	289.43	40	14	Signal Strength
+439	293.55	40	14	Ground Station
+440	131.84	40	6	Orbital\nRelay
+441	263.68	40	13	Science Rover
+442	303.85	70	8	CommNet
+443	114.33	40	5	Probe
+444	1972.45	40	98	A control link is a connection from the vessel back to a control source. This control source is either a \nPilot Kerbal in a vessel that offers remote control, or any of the ground stations on Kerbin (which are \npresumably staffed by ace pilots). A vessel which requires but lacks a control source will suffer reduced \ncontrol abilities.
+445	1911.68	40	95	Any vessel which lacks a Pilot Kerbal requires a control source for full control. Other kerbals can add \nsome control ability but cannot provide full control.
+446	1972.45	30	131	Partial Control\n(Crew+Probe)
+447	1972.45	30	131	Partial Control\n(Crewed)
+448	1972.45	30	131	Partial Control\n(Probes)
+449	1972.45	36	109	Add/Edit/Maneuver Nodes
+450	1972.45	36	109	Existing Maneuver Nodes
+451	1972.45	36	109	ToggleRCS/Lighting/Gear
+452	596.5	36	33	Part Action Window
+453	1972.45	36	109	Full/Zero Throttle
+454	1972.45	36	109	Throttle Up/Down
+455	1972.45	36	109	Yaw/Pitch/Roll
+456	1972.45	36	109	SAS/Autopilot
+457	415.09	70	11	Control Links
+458	281.7	30	18	Full Control
+459	1972.45	30	131	No Control
+460	174.07	50	6	Staging
+461	1950.82	40	97	The current control path, as well as all potential links, and the whole network can be visualized in map \nview and the tracking station. A panel shows relevant CommNet information including control level, \nsignal strength, and destination type.
+462	574.74	40	28	You will also see relevant \nCommNet info in the editor \nand map views as shown here
+463	605.64	70	17	CommNet Interface
+464	297.67	40	14	Links to Display
+465	273.98	40	13	Data Direction
+466	249.26	40	12	Control State
+467	169.95	40	8	Last Hop
+468	1980.69	40	99	The maximum range at which two antennas can communicate is the square root of the product of their \npowers (the geometric mean). Antenna powers are divided into six classes, Class 0 through Class 5. \n\nClass 0 antennas are the internal antennas on pod and probe cores; the other classes are standalone \nparts. The DSN also has three power levels, one for each Tracking Station level.\n\nMost antennas can combine their power with each other on the same vessel. However, doing so has \ndiminishing returns.
+469	579.89	70	16	<size=60><color=#2a7fff>Effective Range Table</color></size>
+470	194.3	40	9	Level1TS
+471	194.3	40	9	Level2TS
+472	194.3	40	9	Level3TS
+473	192.39	40	9	Class 4\n
+474	192.39	40	9	Class 2\n
+475	192.39	40	9	Class 3\n
+476	192.39	40	9	Class 1
+477	192.39	40	9	Class 4
+478	192.39	40	9	Class 5
+479	192.39	40	9	Class 3
+480	192.39	40	9	Class 2
+481	192.39	40	9	Class 0
+482	196.73	70	5	Range
+483	1786.02	40	89	Sometimes, you are unable to get to a control point either due to extreme range, or because \nsomething is in the way (terrain, or another orbital body).  Relay antennas allow a signal to be \n‘bounced’ from a vessel, to a relay, then onto a control point or even another relay!
+484	599.46	40	29	Or boost signal strength by \nhaving a low power antenna \ntransmit via a high power relay.
+485	660.23	40	33	This can solve occlusion problems.
+486	210.12	70	6	Relays

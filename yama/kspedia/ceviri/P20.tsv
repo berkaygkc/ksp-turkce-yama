@@ -1,0 +1,47 @@
+994	Burada bir aracın altı aşamasını \nve her aşamaya atanan \nparçaları görüyoruz. \n\nBir aşama etkinleştirildiğinde, \no aşamaya atanan parçalar \netkinleşir.
+995	<b>Etkin Aşama Kaynakları:</b>\n<size=35>Bu etkin aşamanın tükettiği \nkaynakları gösterir.</size>
+996	<b>Boş Aşama:</b>\n<size=35>İçine parça sürüklenmeye hazır.</size>
+997	Aşamalama Yığını
+998	Çoğu parçanın, onlarla etkileşim kurmanı \nsağlayan bağlamsal bir menüsü vardır. Parçanın \nayrıntılarını ve gerçekleştirebileceğin eylemleri görürsün.
+999	Zaman kontrollerini kullanarak zamanı ayarlayabilir ya da "hızlandırabilir", ayrıca \ngörevden geçen süre (MET) ile evren zamanı (UT) arasında geçiş yapabilirsin.
+1000	EVA yapan kerballerin de gerçekleştirebileceği \nbağlamsal eylemleri vardır. Buradaki resimde \nbirkaç örnek bulunuyor.
+1001	Zaman Kontrolleri ve Eylem Menüleri
+1002	Parça Eylem Menüleri
+1003	EVA Eylem Menüleri
+1004	Aşağıda ana uçuş arayüzü var. Burada çok zaman geçireceksin, bu yüzden etiketlenen her alan \nhakkında daha fazla bilgiye sonraki sayfalarda yer veriliyor.
+1005	Uçuş Arayüzü
+1006	Mod Kontrolleri
+1007	Aşamalama\nYığını
+1008	Eylem\nMenüsü
+1009	Altimetre
+1010	NavBall
+1011	Uzay programında ısıyı yönetmek zorunda kalman kaçınılmaz. Umarız bu bilgiler yardımcı olur.
+1012	Ortalık Kızışıyor
+1013	Her iki radyatör türü de pompaları \nçalıştırmak için EC gerektirir, ancak ısıl \nkontrol sistemleri açılabilir parçalardır, \nbu yüzden onları uzatmak için de EC gerekir.
+1014	Bunlar da radyatör panelleri gibi hem parçalardan \nhem de çekirdek modüllerinden ısı pompalar, ancak \naynı "yakındaki" parça sınırlamasına sahip değildir.
+1015	Bu örnekte TCS radyatörü, aracın tüm parçalarından "borular" aracılığıyla ısı çeker ve bunu çevreye yayar.
+1016	<i><color=#ef2929><i>Not: </i></color>En büyük boy TCS burada gösterilemeyecek kadar büyük.</i>
+1017	Bu parçalar, ısıyı panellere çekmek için sıvıyı \naracın tamamına pompalar. 
+1018	Biraz Isıdan Kurtulmak (devamı)
+1019	Isıl Kontrol Sistemleri
+1020	Parçadan Çevreye
+1021	Isı Akışı Sembolleri
+1022	Isı Enjeksiyonu
+1023	Parçadan Parçaya 
+1024	TCS\nRadyatörü
+1025	Borular
+1026	ISRU'yu örnek alırsak, çekirdeği Cevheri eriterek kaynak \nüreten bir fırın gibi düşünebilirsin. Bu sürecin \nüç önemli ısıl noktası vardır:\n • Çekirdeğin bir optimum sıcaklığı vardır; yetersiz soğutmada aşırı \n     ısınır (ve verimi düşer);\n • Süreç, ısıl enerjinin büyük bir kısmını egzoz yoluyla doğrudan çevreye atar \n     (matkaplar için bunu delme işleminin atığı gibi düşünebilirsin);\n • Isının bir kısmı da parçanın iç bileşenine "sızar";
+1027	Isı üreten başka bir parça türü daha vardır. Bazı parçaların, başka \nönemli bir işlevi olan bir çekirdek bileşeni bulunur (örneğin \nmatkaplar ve ISRU dönüştürücüleri).
+1028	Çekirdeğin aşırı ısınmasını önlemek için \nradyatörlere ihtiyacın olacak, çünkü parça sızması tek \nbaşına bir sorunu önlemeye yetmez.\n\nNeyse ki sırada tam da bu var.
+1029	<i><color=#ef2929><i>Not: </i></color>Isı akışı anlık değildir. Enerji transferi zaman içinde gerçekleşir.</i>
+1030	* Yer kazanmak için gök cismi radyasyonu gösterilmemiştir.
+1031	Çekirdeğe İnmek
+1032	Çekirdek Isısı Olan Parçalar
+1033	Egzoz\n/ Atık
+1034	Convert-O-Tron
+1035	ISRU\nModülü
+1036	İç Kısımlar
+1037	Yakıt Tankı
+1038	Yüzey
+1039	Motorlar kaynak tüketip bunu itkiye dönüştürür ve bu sırada \nçok fazla ısı üretilir. Bu ısının çoğu araçtan egzoz olarak \nayrılır, dolayısıyla bunu dert etmemize gerek yok, ama bir kısmı \nmotor parçasının kendisine "sızar".
+1040	Isı üretimini, iç kısımların içinde bir modül \nolarak düşünmek yardımcı olabilir (yanma \nodası gibi). \n\nEgzoz çok fazla ısı alıp götürür, ama \nbir kısmı da parçaya sızar.

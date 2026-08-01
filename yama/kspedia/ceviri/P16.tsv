@@ -1,0 +1,88 @@
+739	NavBall görünürlüğünü aç/kapat
+740	Hata ayıklama/hile penceresini aç
+741	Önceki öğeye odaklan
+742	Fizik hızlandırmasını azalt
+743	Fizik hızlandırmasını artır
+744	Harita ve Zaman Kontrolleri
+745	Sonraki öğeye odaklan
+746	Zaman hızlandırmasını azalt
+747	Zaman Hızlandırma Kontrolleri
+748	Zaman hızlandırmasını artır
+749	Harita modunu aç/kapat
+750	Hata Ayıklama Seçenekleri
+751	Harita Görünümü
+752	Tab
+753	Fare Kontrolleri - VAB ve SPH'de İnşa
+754	Kamerayı\naracın etrafında döndür
+755	Aşama yığınını kaydır
+756	Tüm aracı seç
+757	Montajı çoğalt
+758	Klavye Değiştiricileri
+759	Kamera Dikey
+760	Shift Değiştirici
+761	Parça menüsünü aç
+762	Orta Düğme
+763	Çift\nTıklama
+764	Sağ Düğme
+765	Alt Değiştirici
+766	Sol Düğme
+767	Kamerayı yakınlaştır
+768	Parça seç
+769	Kamerayı taşı
+770	Kamerayı kaydır
+771	Kaydırma-SPH
+772	Kaydırma-VAB
+773	Sürükleme-SPH
+774	Sürükleme-VAB
+775	Tıklama
+776	Kamerayı\naracın etrafında döndür
+777	Kamerayla\naracı hedefle
+778	Birden fazla\nparça menüsü aç
+779	Fare Kontrolleri - Uçuş
+780	EVA RCS: Kerbal'ı döndür
+781	Kamerayı kaydır ve eğ
+782	Uçuş: Hedef belirle
+783	Harita: Odak belirle
+784	Harita: Menü aç
+785	Kaydırma
+786	RCS Uçuş Kontrolleri ve Trim
+787	Yunuslama/Sapma ve Yatış Trimlemesi
+788	RCS'yi aç/kapat
+789	İleri /\nGeri
+790	Yunuslama trimini ayarla
+791	Yatış trimini ayarla
+792	<i>Yukarı / Aşağı</i>
+793	RCS Ötelemesi
+794	Sapma trimini ayarla
+795	Tüm trimi sıfırla
+796	<i><color=#ef2929><i>Not:</i></color> Burada oyunun varsayılan kontrolleri gösterilir; ayarlarındaki özelleştirmeleri yansıtmaz.</i>
+797	Yapım yapabilmen ve keşfedebilmen için araçları ve kerbalları nasıl kontrol edeceğin.
+798	Kontroller
+799	Güneş sisteminde görülüp ziyaret edilebilecek birçok yer var. Bunlar arasında bazı sıra dışı \ncisimler ve ilgi çekici yerler de bulunuyor.
+800	Acaba kaçını bulabilirsin?
+801	Diğer İlgi Çekici Yerler
+802	İnşa modu, editördeki kontrollerin çoğunu kullanır. Bir kerbal aynı anda yalnızca bir parça üzerinde çalışabilir; bu yüzden parçaları simetride yerleştirmek ve birden fazla parçayı aynı anda çıkarmak mümkün değildir.
+803	Yalnızca belirli bir ağırlık ve boyutun altındaki parçalarla inşa yapılabilir. Düşük yerçekiminde inşa etmek daha fazla parçanın değiştirilmesine olanak tanır.
+804	EVA'daki mühendisler, kaynak lazerleriyle bir araca parça takabilir ve araçtan parça çıkarabilir.
+805	I tuşuna basarak ya da İnşa Modu Uygulamasına tıklayarak İnşa moduna eriş.
+806	EVA İnşa Modu
+807	Ağırlık Sınırları
+808	Araçlar
+809	<b>Seviye 1:</b> mürettebat listesi sınırı 5 ve Kerbin dışı EVA yok\n<b>Seviye 2:</b> mürettebat listesi sınırı 12 ve Kerbin dışı EVA'ya izin verilir\n<b>Seviye 3:</b> mürettebat listesi sınırsız ve Kerbin dışı EVA'ya izin verilir
+810	Astronot Kompleksi, tüm mürettebat üyelerin için yaşam ve dinlenme alanlarını barındırır. Yeni \nbaşvuranlar da işe alınmak için buraya başvurur.
+811	Bu tesisten mürettebat listeni yönetebilir ve ne yazık ki kaybolmuş olabilecek \nkerballarının durumunu kontrol edebilirsin.
+812	Astronot Kompleksi (AC)
+813	Kariyer Sınırları
+814	Seviye 1
+815	Seviye 3
+816	Seviye 2
+817	<b>Seviye 1:</b> 1 aktif strateji ve %25 taahhüt\n<b>Seviye 2:</b> 3 aktif strateji ve %60 taahhüt\n<b>Seviye 3:</b> 5 aktif strateji ve %100 taahhüt
+818	Yönetim Binası ilk bakışta pek heyecan verici bir yer gibi görünmeyebilir, ama tüm \nstratejik kararlar burada alınır.
+819	Bu stratejiler, uzay programını belirli ödüllere ve hedeflere yönlendirmene yardımcı olabilir.
+820	Yönetim Binası (Admin)
+821	KSC'deki tesislerden herhangi biri hakkında ek bilgiye üzerine \nsağ tıklayarak ulaşabilirsin.\n\nBu menüde tesisin \nmevcut durumu, kapasiteleri hakkında bilgi görebilir, kariyer modunda ise \nyükseltmeleri de yönetebilirsin.
+822	Öngörülemeyen bir roket -pardon, \nolay- yüzünden bir tesis hasar görürse, bu \nonarım işlevine erişebileceğin \nyerdir.
+823	Pistten erken sağa dönüşün ardından yaşananlar
+824	Tesis Yönetimi
+825	Tesisleri Onarma
+826	Burası Kerbal Uzay Merkezi (KSC). Bilinen evrenin <i>gerçek anlamda</i> merkezi burası (tabii ki \nyukarı bakana kadar). Şimdi tesisleri, kariyer seviyelerini ve sınırlamalarını gözden geçireceğiz.

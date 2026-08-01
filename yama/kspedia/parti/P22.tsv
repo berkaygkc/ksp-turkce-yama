@@ -1,0 +1,59 @@
+idx	kutu_w	font	kapasite	EN
+1084	619.03	35	35	Shows the celestial body you are \nscanning and the active scan mode. \nDrag the targeting reticle for \ninformation about a specific location \nor to place a waypoint there.
+1085	637.57	35	36	Shows information about where the \nmap is on the celestial body and \nmore specific data about the targeted \nlocation.
+1086	602.55	35	34	Places a waypoint where your \ntargeting reticle is located using the \nname in the text box just above it.
+1087	1546.03	40	77	The interface to KerbNet is called up from the Action menu on KerbNet scanners.
+1088	637.57	35	36	Fades some items on the map so that \nyou can see the data more clearly.
+1089	590.19	35	33	Cycles through KerbNet's specified \nautomatic refresh intervals.
+1090	575.77	35	32	Cycles between the available scan \nmodes.
+1091	620.06	35	35	Make a fresh scan below your vessel.
+1092	396.55	40	19	Field of View Slider:
+1093	358.44	40	17	Overlay Visibility:
+1094	394.49	40	19	Automatic Refresh:
+1095	383.16	40	19	Information Panel:
+1096	562.38	70	16	KerbNet Interface
+1097	310.03	40	15	KerbNet Mode:
+1098	208.06	40	10	Waypoint:
+1099	207.03	40	10	Scan Map:
+1100	168.92	40	8	Refresh:
+1101	597.4	35	34	Available on highly specialized \nKerbNet scanners. It allows you to \nview detailed scans of the resource \nconcentrations on a celestial body \nin contrasting color schemes. \n\nThis makes it much easier to \ndecide where to set up your \nmining bases.
+1102	577.83	35	33	Basic monochromatic scan of the \nterrain heights of the celestial \nbody. Placing the targeting reticle \nwill show you the height at any \ngiven location. \n\nIt is available on most KerbNet \nscanners and is useful for locating \nsafe landing sites.
+1103	576.8	35	32	Available on more advanced \nKerbNet scanners. It allows you to \nsee a colorful biome map of the \ncelestial body below you. \n\nThis allows you to optimize your \nhopping from biome to biome.
+1104	1543.97	40	77	KerbNet has three modes of operation -- depending on the scanners capabilities.
+1105	509.85	70	14	Scanning Modes
+1106	315.18	40	15	Resource Mode
+1107	272.95	40	13	Terrain Mode
+1108	256.47	40	12	Biome Mode
+1109	1247.33	40	62	Sometimes a scan will pick up something truly unexpected, and \nyour scientists will mark this with a question mark. \n\nThese anomalous readings may disappear and reappear \nsporadically, so it is suggested that you tag them with a waypoint \nfor future investigation.
+1110	943.48	40	47	Every scan mode in KerbNet allows you to place \ncustom named waypoints on the map by moving \nthe targeting reticle to a location and clicking the \nwaypoint button. \n\nYou can easily navigate to these waypoints by \nclicking them in map view.
+1111	457	70	13	Anomalies
+1112	339.9	70	9	Waypoints
+1113	1454.36	40	72	With places to go and kerbals to see, you should get the help you need here.
+1114	295.61	70	8	Locations
+1115	127.72	40	6	Kerbin
+1116	154.5	40	7	Minmus
+1117	85.49	40	4	Mun
+1118	1593.41	40	79	A place to find information about playing, and succeeding at, Kerbal Space Program
+1119	1134.85	35	64	Warp Action: Select what should happen to timewarp as the alarm is approached.\r\nMessage: Select messaging to give when the alarm is triggered.\r\nOptions: Toggle alarm sound and automatic alarm deletion.\n
+1120	1879	40	93	Several different types of alarms can be created.  Note that some require a vessel to be selected.
+1121	1134.85	35	64	Use these to help keep track of the purpose of this alarm.
+1122	1134.85	35	64	A list of the available alarm types. Some examples below.
+1123	337.45	35	19	Start of a transfer window to a particular CB.
+1124	1134.85	35	64	Specific settings that vary per alarm type.
+1125	337.45	35	19	Specific spots on a craft’s orbital path.
+1126	402.72	35	23	Linked to a specific craft’s maneuver.
+1127	403.845	35	23	User defined timing for any purpose.
+1128	1134.85	35	64	Toggle between time formats.\n
+1129	1069.5	70	30	Alarm Clock – Alarm Creation
+1130	508.659	40	25	Alarm Type Selection:
+1131	508.659	40	25	Alarm Configuration:
+1132	508.659	40	25	Title and Notes:
+1133	336.027	40	16	Orbital position
+1134	508.659	40	25	Alarm Timing:\n
+1135	508.659	40	25	Alarm options:
+1136	401.296	40	20	Alarm Types:
+1137	402.422	40	20	Maneuver:
+1138	401.296	40	20	Raw Time:
+1139	336.027	40	16	Transfer:
+1140	1971.05	40	98	The alarm clock allows you to set alarms for events you don’t want to miss.  This can alert you to events like upcoming maneuvers on vessels, transfer windows , or any time you choose to set a reminder.
+1141	411.822	35	23	After selecting an alarm you can click these buttons to Edit the alarm, Switch To the vessel the alarm pertains to, or Warp To the alarm time.

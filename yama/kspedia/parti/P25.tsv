@@ -1,0 +1,60 @@
+idx	kutu_w	font	kapasite	EN
+1259	1937.43	40	96	An orbit is sometimes described as "falling and missing the ground." In the context of space travel it's \nthe way one object goes around another in space, and here it is about getting your vessel to travel \naround a body.
+1260	637.57	40	31	The gravity of Kerbin attracts the \nspaceship in a curving path. \n\nYour vessel needs to be moving \nat just the right velocity to stay in \norbit (as opposed to escaping, or \nworse, crashing).
+1261	1931.25	40	96	The most basic goal of any Kerbin-based space program is to get into orbit and return back to Kerbin.
+1262	288.4	35	16	Top view of Kerbin
+1263	557.23	70	15	What is an Orbit?
+1264	192.61	40	9	Hyperbolic
+1265	188.49	40	9	Suborbital
+1266	127.72	40	6	Orbital
+1267	1421.4	40	71	Once you reach the target altitude, you need to burn prograde to increase \nyour velocity. You burn until you are fast enough to stay in orbit.
+1268	1779.84	40	88	The gravity turn ascent will get you to orbital height, but it's not enough to keep you up there.
+1269	450.11	40	22	This is the path if you\ndon't add more velocity
+1270	425.39	35	24	At apoapsis burn Prograde
+1271	542.81	70	15	Staying Up There
+1272	100.94	35	5	Ascent
+1273	1065.02	40	53	We will start with the basics of getting to orbit and back.
+1274	817.82	70	23	So What Is the Goal Here?
+1275	1616.07	40	80	The two apsides (apoapsis and periapsis) are important points in describing an orbit.
+1276	620.06	40	31	The point on an orbit <i>furthest</i>\nfrom the object you are orbiting.
+1277	565.47	40	28	The point on an orbit <i>closest</i>\nto the object you are orbiting.
+1278	708.64	70	20	Shaping Up Your Orbit
+1279	284.28	70	8	Periapsis
+1280	283.25	70	8	Apoapsis
+1281	570.62	35	32	<color=#ef2929><i>Note:</i></color> the color gradient of the orbit line shows the direction of rotation.
+1282	631.39	40	31	Orbiting the planet in the same \ndirection as its rotation direction \nis a prograde orbit.
+1283	599.46	40	29	Inclination is the angle an orbit \ndiffers from the equator of\nthe object its orbiting.
+1284	639.63	40	31	Orbits are described as prograde \nor retrograde relative to the \nplanet's rotation.
+1285	297.67	35	17	Side view of Kerbin
+1286	154	35	8	Vessel\nDirection
+1287	282.22	35	16	Retrograde Orbit
+1288	168.92	35	9	Equatorial\nPlane
+1289	470.71	70	13	Orbit Direction
+1290	248.23	35	14	Prograde Orbit
+1291	189	35	10	Inclination
+1292	1607.83	40	80	There are six directions when looking at a spaceship. These directions are relative to \nthe orbit of the ship, so they will "move" as you burn or when you change Sphere of \nInfluence (SOI).
+1293	777.65	40	38	You can see their symbols and directions\nin relation to this satellite below.
+1294	596.37	70	17	Directions in Space
+1295	270.89	50	10	Radial Out
+1296	224.54	50	8	Radial In
+1297	1229.82	40	61	Orbit eccentricity describes how far from a circular orbit you are.
+1298	431.57	70	12	Parabolic and\nHyperbolic
+1299	661.26	70	18	What Is Eccentricity?
+1300	306.94	35	17	Hyperbolic : Ecc > 1
+1301	289.43	35	16	Parabolic : Ecc = 1
+1302	283.25	70	8	Elliptical
+1303	249.26	70	7	Circular
+1304	109.18	35	6	Ecc < 1
+1305	109.18	35	6	Ecc = 0
+1306	1981.72	40	99	Without knowing how an orbit is described you might find it hard to get a vessel to the right destination \nin space. That's why it is important to understand the components of an orbit that will help you on the \nway to a successful space program.
+1307	1962.15	40	98	In this section the parts of orbits, and orbital mechanics, that will help you to shoot for the stars will be \nexplained (and maybe even some of the mathematics involved).
+1308	592.25	70	16	Orbital Definitions
+1309	1987.9	40	99	Normal / Anti-Normal are the directions at 90 degrees to the current path of travel, perpendicular to the \norbit's plane.
+1310	837.39	40	41	Burning in the anti-normal direction pushes\nyour future orbit to the "South."
+1311	1169.05	35	66	Side view of Kerbin - Orbit direction (prograde) can be seen from gradient.
+1312	848.72	40	42	Burning in the normal direction pushes your\nfuture orbit to the "North."
+1313	281.19	35	16	Result of \nAnti-Normal Burn
+1314	209.09	35	11	Result of \nNormal Burn
+1315	661.26	70	18	Adjusting Inclination
+1316	119.48	35	6	Current\nOrbit
+1317	1968.33	40	98	Thinking in simple straight lines, a vessel that is at 0m/s requires a change in velocity of 200m/s, a Δv of \n200m/s. To slow the vessel (because there are no brakes in space) we need to add more velocity, but in \nthe other direction. So to reach 100m/s we require another Δv of 100m/s.

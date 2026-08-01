@@ -1,0 +1,68 @@
+181	Tüm noktaları min/maks değerlere sabitle.
+182	Seçili noktanın tanjantlarını yumuşat.
+183	Kaydırma çubuğunun bulunduğu konuma nokta ekle.
+184	Noktayı min/maks değerlere sabitle.
+185	Hazır eğri deseni uygula.
+186	Sırayı listede yukarı/aşağı taşı.
+187	Track Düzenleyici - Araç Çubuğu
+188	Seçili noktayı sil.
+189	Tüm noktaları seç.
+190	Oynatma hızını ayarla
+191	Nokta İşlemleri
+192	Sıra İşlemleri
+193	Aksiyon setleri, aksiyon ya da eksen gruplarını birden çok sette atamanı sağlar - bunlar uçuş sırasında açılıp kapatılabilir.
+194	Uçuş içi uygulama, hangi setin etkin olduğunu görmeni ve değiştirmeni sağlar.
+195	Aksiyon gruplarının çalışma şekline benzer biçimde bir sete kontrol eklersin
+196	Bu set etkinken araç kontrollerini engellemek için işaretle
+197	Bu set etkinken varsayılan seti geçersiz kılmak için işaretle.
+198	Bunları aksiyon grubu penceresinin altından etkinleştir.
+199	İşlevini hatırlamak için aksiyon setini yeniden adlandır
+200	Ona bir parça kontrolü ekle.
+201	Genişlet/Daralt
+202	Bir Set Seç.
+203	Aksiyon Setleri
+204	Uçan makinelerindeki o muhteşem kerballar ve diğer uçak bilgileri.
+205	Uçaklar
+206	Kerballar uzaya açılmak için \nçok zaman harcasa da, Kerbin üzerinde dolaşmak da \nonların bir başka uğraşıdır.
+207	Umarız bu bölümde, şu parça yığınından aşağıdaki \nmuhteşemlik seviyelerine ulaşmanı sağlayacak \nbirkaç numara öğrenirsin!
+208	Uçakların Temelleri
+209	Uçan bir uçak tasarlamak, dört aerodinamik kuvveti \ndengelemekle ilgilidir. Yapım sırasında başarılı olmana yardımcı olacak\nbazı ortak fikirleri uygulamak için arayüz yardımcılarını kullanabilirsin.
+210	Elbette uçuşu tam olarak kavradıktan sonra, tek sınırın hayal gücün (ve fizik) olduğunu göreceksin.
+211	İşte basit uçaklar yapmana yardımcı olacak birkaç temel tema.
+212	Taşıma merkezi, kütle merkezine yakın olmalıdır.
+213	Uçağını bir "orta hat" etrafında inşa et.
+214	CoT'yi, CoM'un içinden itecek şekilde hizala.
+215	Her Şey Dengeyle İlgili
+216	Arayüz Yardımcıları (Editörde)
+217	Merkez Boyunca İt:
+218	İtki Merkezi
+219	Taşıma Merkezi
+220	Kütle Merkezi
+221	Simetri Kullan:
+222	CoM, CoL'ye Yakın:
+223	İşte denge sorunları yaşayan bazı uçak örnekleri. \nUmarız hatalarımızdan bir iki şey öğrenebilirsin.
+224	Bu tasarımdaki itki uçağı CoM'un içinden değil \netrafından itiyor. Bu bir CoT sorunudur.
+225	Burada taşıma merkezi orta hattın dışında.\nBu uçak sola oldukça kötü bir şekilde yatacaktır.
+226	Son olarak buradaki CoL, CoM'un \noldukça gerisinde; bu uçak sert bir şekilde burun aşağı yunuslanacaktır.
+227	Denge Sanatı
+228	CoL, aracın tüm parçalarından gelen bireysel taşıma \nbileşenlerinin toplanmasıyla bulunur. Taşıma kuvveti kanatlar, kontrol yüzeyleri \nve hatta bazı gövde (fuselage) parçaları tarafından üretilir (gövde taşıması adı verilen bir etkiyle).
+229	Bir uçak tasarlarken en önemli göstergelerden biri taşıma \nmerkezidir (CoL). Konumu, uçağın dengesi için son derece önemlidir.
+230	<i><color=#ef2929><i>Not:</i></color> Oyunda CoL işaretini yalnızca yapım arayüzünde görürsün.</i>
+231	Kontrol yüzeyi taşıması gösterilmemiştir,\nama fikri anlamışsındır.
+232	Taşımanın Uygulandığı Yer
+233	Taşıma\nMerkezi
+234	Kanat\nTaşıması
+235	Gövde\nTaşıması
+236	Bir araç yaparken bir dizi kontrol parçası kullanırsın ve göz önünde bulundurman gereken \niki tür parça vardır. Birini kullanıp diğerini kullanmamak, kontrolü kaybetmene yol açar.
+237	Bu parçalar araca kuvvet uygular - yüzeyler üzerindeki \nhava akışı, jiroskoplardan gelen tork, gimbal'lı motor\nhareketi ve iticilerden gelen doğrudan itki yoluyla.
+238	Bu parçalar araca kontrol \ngirdisi yapmanı sağlar.
+239	Biraz Kontrol Sahibi Olalım
+240	Kontrol\nYüzeyleri
+241	Gimbal'lı\nMotor
+242	Kontrol Kaynakları
+243	Reaksiyon\nTekerlekleri
+244	RCS\nİtici
+245	Oyuncu Girdisi
+246	Sonda Çekirdekleri
+247	Mürettebatlı\nKapsüller
+248	<i><color=#ef2929><i>Not:</i></color> Flapları, kanatçıkları (aileron) kullanarak ve üç kontrol eksenini devre dışı bırakarak oluşturursun.       \n           Ardından bunları parça aksiyonları veya aksiyon gruplarıyla açarsın.</i>

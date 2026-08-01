@@ -1,0 +1,36 @@
+385	<b>Teknoloji Ağacı Düğümleri:</b>\n<size=35>Düğümlerin rengi ve çizgileri neyin \naçıldığını, neyin hâlâ araştırılması \ngerektiğini gösterir. Düğüme eklenen \nsayı kaç parçanın kilitli olduğunu gösterir. \nZor zorluklarda bu parçaların kilidini açmak için Fon harcaman gerekir.\n\n\n</size>
+386	<b>Araç Çubuğu:</b>\n<size=35>Üst kısımda (soldan sağa) Teknoloji ve Bilim Arşivleri sekmeleri; mevcut Fon, \nİtibar ve Bilim seviyesi; ve çıkış yolu bulunur.\n</size>
+387	Ar-Ge Teknoloji Ağacı, kullanılabilir teknolojileri ve parçaları gösterir. Bu kariyer tesisi, \nBilim uygulayarak nelerin açıldığını (ve açılabileceğini) görmeni sağlar.
+388	Araştırma ve Geliştirme Teknoloji Ağacı
+389	<b>Takip Edilen Nesneler:</b>\n<size=35>Bu, tüm aktif uçuşlarının ve takip edilen uzay \nnesnelerinin listesidir. Bir nesne seçildiğinde odaklanırsın ve aşağıdaki \ndüğmeleri kullanarak yönetebilirsin. Ayrıca ana görünümde \nkamerayı hareket ettirip nesnelerle etkileşime girebilirsin.</size>
+390	<b>Uygulama Başlatıcı:</b>\n<size=35>Seçili nesne hakkında bu \nUygulamalar üzerinden pek çok \nyararlı bilgi bulabilirsin.\n\n\n</size>
+391	<b>Araç Çubuğu:</b>\n<size=35>Güncel tarih, zaman kontrolleri ve araç türü filtresi üst kısımda yer alır.\n\n\n</size>
+392	Burada aktif uçuşları, yakındaki nesneleri bulabilir ve bayrak diktiğin tüm yerleri görebilirsin.
+393	Takip İstasyonu
+394	Kariyerini başarıya göre şekillendirebilmen için Kerbal Uzay Merkezi çevresindeki tesislerin \nkullanım amaçlarını ve yöntemlerini öğren.
+395	<i><i>Not:</i> Şampanya dahil değildir</i>
+396	Kariyer Yönetimi
+397	EVA'dayken pilotlar ve bilim insanları, yakındaki envanterleri düzenlemek için Kargo Uygulamasını kullanabilir. Mühendisler ise bu işlevi ve çok daha fazlasını içeren EVA İnşa Moduna erişebilir.
+398	Aracındaki her kargo yuvasını görebilirsin.  Aracında mürettebat varsa kargo parçalarını da hareket ettirebilirsin.
+399	Kargo Uygulaması, mürettebatın envanteri dahil olmak üzere aracındaki tüm kargoya kolay erişim sağlar.
+400	Uçuş sırasında Uygulamalar araç çubuğundan bu uygulamaya erişebilirsin.
+401	Kargo Uygulamasına Erişim
+402	Kargo Uygulaması Penceresi
+403	Kargo Uygulaması
+404	Kargo Modu, parça kutusunun yanına yeni bir panel ekler. Bu panel, gemideki kerballar dahil olmak üzere yapım aşamasındaki araçtaki tüm kullanılabilir kargo depolama alanını gösterir.
+405	Kargo Modundayken parça kutusu, aracını donatmana yardımcı olmak için yalnızca bir kargo konteynerine sığabilecek parçaları gösterecek şekilde filtrelenir.
+406	Parçaları doğrudan parça kutusundan kargo paneline veya parçanın aksiyon menüsüne taşıyabilirsin.
+407	Kargo Moduna buraya tıklayarak erişebilirsin.
+408	Kargo Moduna Girme
+409	Kargo Modu
+410	Kullanım
+411	EVA'daki bir Kerbal, parça menüsü üzerinden bir kargo konteynerinden parça alabilir. Kerbal'ın parçayı kendi envanterine aktarabilmesi için konteyner parçasına yakın olması gerekir.\n
+412	Parça Kerbal'ın envanterine girdiğinde, yerleştirmeye başlamak için envanter panelindeki yerleştir düğmesine tıklayabilirsin.  Parçayı döndürmek ve açmak için ekrandaki talimatları izle.
+413	EVA (Dışarı Çıkma Faaliyeti) yapan \nbir Kerbal, sağ tık menüsünden kargo \nbölmesinden parça çıkarabilir; Kerbal'ın \nbunu yaparken kargo bölmesine yakın olması gerekir.
+414	Kargo Sistemi - Yerleştirilebilir Parçalar
+415	Parçayı Alma
+416	Açma
+417	Her Kerbal'ın bir envanteri vardır. \nParaşütler ve EVA itici paketleri artık Kerbalların varsayılan olarak taşıdığı, değiştirilebilir kargo parçalarıdır.  Kerbal'ın envanteri ayrıca taşıyabileceği kütleyle de sınırlıdır.\n
+418	Uzay araçları, özel olarak tasarlanmış kargo konteyneri parçalarında çeşitli kargo parçaları taşıyabilir. Kumanda ve mürettebat modülleri de az miktarda kargo taşıyabilir.
+419	Kargo depolama, mevcut kargo yuvaları ve hacimle sınırlıdır.  Bazı parçalar yalnızca en büyük konteynerlere sığar.
+420	Bazı küçük kargo parçaları aynı yuvaya istiflenebilir. İstifleme sınırı parçanın boyutuna bağlıdır.

@@ -1,0 +1,48 @@
+idx	kutu_w	font	kapasite	EN
+994	532.51	35	30	Here we see the six stages of \na vessel and the parts assigned \nto each stage. \n\nWhen a stage is activated, the \nparts assigned to that stage are \nactivated.
+995	632.42	40	31	<b>Active Stage Resources:</b>\n<size=35>Shows the resources this active stage \nis consuming.</size>
+996	591.22	40	29	<b>Empty Stage:</b>\n<size=35>Ready to have parts dragged into it.</size>
+997	565.47	70	16	The Staging Stack
+998	742.63	35	42	Most parts have a contextual menu that lets \nyou interact with them. You will see details \nof the part and any actions you can perform.
+999	1357.54	40	67	Using the time controls you can adjust, or "warp" time as well as toggle \nbetween mission elapsed time (MET) and universe time (UT).
+1000	749.84	35	42	Kerbals on EVA also have contextual actions \nthey can perform. There are some examples \nin the picture here.
+1001	1015.58	70	29	Time Controls and Action Menus
+1002	581.95	70	16	Part Action Menus
+1003	573.71	70	16	EVA Action Menus
+1004	1948.76	40	97	Below is the main flight interface. You will be spending a lot of time here, so there is more information \nabout each labeled area in the following pages.
+1005	615.94	70	17	The Flight Interface
+1006	298.7	40	14	Mode Controls
+1007	151.41	40	7	Staging\nStack
+1008	132.87	40	6	Action\nMenu
+1009	196.73	40	9	Altimeter
+1010	159.65	40	7	NavBall
+1011	1914.77	40	95	It is inevitable that you will have to manage heat in your space program. Hopefully this info can help.
+1012	728.21	70	20	It's Getting Hot in Here
+1013	784.86	40	39	Both types of radiators require EC to run \nthe pumps, but thermal control systems \nare deployable parts, so you also need \nsome EC to extend them.
+1014	998.07	40	49	They, like the radiator panels, pump heat from both \nparts and core modules, but do not have the same \n"nearby" parts limitation.
+1015	560.32	35	32	In this example the TCS radiator draws heat from all the parts in the vessel through "pipes" to radiate it to the environment.
+1016	830.18	35	47	<i><color=#ef2929><i>Note: </i></color>Largest size TCS is simply too big to show here.</i>
+1017	1028.97	40	51	These parts pump liquid throughout the entire vessel \nto draw heat to the panels. 
+1018	1179.35	70	33	Getting Rid of Some Heat (continued)
+1019	787.95	70	22	Thermal Control Systems
+1020	385.22	40	19	Part to Environment
+1021	432.6	50	17	Heat Flow Symbols
+1022	265.74	40	13	Heat Injection
+1023	226.6	40	11	Part to Part 
+1024	162.74	40	8	TCS\nRadiator
+1025	103	40	5	Pipes
+1026	1822.07	40	91	Using the ISRU as an example you can think of the core as the \nfurnace that melts down Ore to produces resources. This process \nhas three important thermal points:\n • The core has an optimum temperature, with inadequate cooling it will overheat (and be \n     less efficient);\n • The process discards a lot of the thermal energy through exhaust directly to the environment \n     (for drills you can think of this as the tailings of the drilling process);\n • Some of the heat does "soak" into the internal component of the part;
+1027	1209.22	40	60	There is another type of heat generating part. Some parts have \na core component which has another important function (for \nexample drills and ISRU converters).
+1028	854.9	40	42	To keep the core from overheating you will \nneed radiators as the part soak is simply not \nenough to prevent an issue.\n\nLuckily, that's whats next.
+1029	1350.33	35	77	<i><color=#ef2929><i>Note: </i></color>The flow of heat is not instantaneous. The transfer of energy happens over time.</i>
+1030	668.47	35	38	* Body radiation not shown to save space.
+1031	746.75	70	21	Getting to the Core of It
+1032	666.41	70	19	Parts With Core Heat
+1033	154.5	40	7	Exhaust\n/ Waste
+1034	292.52	40	14	Convert-O-Tron
+1035	146.26	40	7	ISRU\nModule
+1036	168.92	40	8	Internals
+1037	92.7	40	4	Fuel Tank
+1038	80.34	40	4	Skin
+1039	1310.16	40	65	Engines consume resources and convert that to thrust, with a lot of \nheat generated in the process. Most of that heat leaves the vessel as \nexhaust, so we don't have to worry about that, but some of it does \n"soak" into the engine part itself.
+1040	785.89	40	39	It can be helpful to think of the heat \nproduction being a module inside the \ninternals (like the combustion chamber). \n\nThe exhaust takes a lot of heat away, but \nsome of it soaks into the part as well.

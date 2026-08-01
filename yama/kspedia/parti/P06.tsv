@@ -1,0 +1,50 @@
+idx	kutu_w	font	kapasite	EN
+249	1990.99	40	99	In the atmosphere you can use control surfaces to redirect the airflow. The change in airflow will change \nthe attitude of aircraft. There are many parts that will help you to do this.
+250	235.87	40	11	Affects Roll\nAffects Pitch\nAffects Yaw\nAffects Drag\nAffects Lift
+251	780.74	40	39	Below are some very simplistic effects of \neach type of control:
+252	190.55	40	9	Aileron:\nElevator:\nRudder:\nAirbrake:\nFlap:
+253	611.82	70	17	Controlling Airflow
+254	126.69	35	7	Ailerons
+255	128.75	35	7	Elevator
+256	114.33	35	6	Rudder
+257	83.43	35	4	Flaps
+258	1825.16	40	91	As your plane travels through the sky, the drag force caused by air resistance slows it down. You\novercome the effect of this force by adding thrust - "moar engines" - or improving aero shape.
+259	876.53	40	43	Drag is the force that's slowing you down. \nAs lift is related to the speed you're travelling, \nmore drag usually means less speed and \ntherefore less lift.
+260	1005.28	40	50	Xzibit Kerman pimped this version of the Velocitize \nto pick up every station on Kerbin. Unfortunately it's \ngoing to be very slow with all that drag.
+261	813.7	70	23	Drag and Its Effect on Lift
+262	592.25	70	16	This Is Such a Drag
+263	1979.66	40	98	Jet Engines provide the <i>thrust</i> for our aircraft. These engines use intakes to get their oxygen. This means \nyou don't have to carry oxidizer along, but you can only operate where the atmosphere is thick enough.
+264	1974.51	40	98	If you are trying to build a Single Stage to Orbit (SSTO) craft then you might use jet engines to ascend to \nthe upper atmosphere and then use rockets to push from there to orbit.
+265	1282.35	40	64	Your aircraft needs air intakes and liquid fuel to feed the jet engine.
+266	1120.64	70	32	What is Different About Jet Engines
+267	592.25	40	29	This aerodynamic force is \ncaused by air resistance as the \nplane moves through the air.
+268	692.16	40	34	This aerodynamic force is generated\nby airflow over the wings. 
+269	573.71	40	28	This force comes from gravity \npulling down on the plane.
+270	373.89	40	18	The force of the \nengines propelling \nthe plane forwards.
+271	498.52	35	28	* Excludes ground impact force
+272	898.16	70	25	Forces That Apply to Planes*
+273	174.07	60	5	Thrust
+274	195.7	60	6	Weight
+275	92.7	40	4	Drag
+276	1925.07	40	96	While all intakes perform the same function, you will find that some are better suited to your design, \nvisually or functionally. It's important to pick the right part for the job, and pay attention to the specs \nwhen building.
+277	1932.28	40	96	Intakes, like engines, come in many shapes and sizes. The key thing to remember is that they grab air \nfor jet engines, and the amount varies depending on speed and altitude.
+278	1085.62	40	54	The faster you go, the more air is captured; the higher \nyou go, the less air is captured (because the atmosphere \nis thinner at higher altitudes).
+279	788.98	70	22	Picking the Right Intakes
+280	740	70	21	Needing to Breathe
+281	1136.09	40	56	As you aren't taking off vertically you will need some stylish \nwheels to help with takeoff. These have also been \nknown to help with that pesky \nlanding thing too.
+282	1955.97	40	97	You need to make sure there are wheels front and back, and at least one set are spaced wide apart for \nstability.
+283	590.19	35	33	This configuration is less likely to stay\nupright in many situations.
+284	591.22	35	33	Nice spread for balance and stability.
+285	766.32	70	21	Having Good Separation
+286	306.94	70	8	Let It Roll
+287	461.44	37	24	Absolute/Incremental: Changes how your controller/keys change the field. Absolute works more like pitch and yaw. Incremental works like the main throttle.
+288	1896.1	37	102	Axis groups allow you to control a selected part's values with your input controls, similar to how an action group allows control of a part's action.
+289	528.39	37	28	You map a part value to an Axis Group to in the same way. Select the part and the axis group, then click to assign the field.
+290	461.44	37	24	Invert: Reverses the direction controlled value responds
+291	889.44	37	48	Two additional controls appear for axis groups.
+292	461.44	37	24	Absolute/Incremental
+293	424.36	70	12	Axis Groups
+294	224.4	37	12	Axis Group
+295	206.4	37	11	Part Value
+296	118.5	37	6	Invert
+297	461.44	37	24	Part

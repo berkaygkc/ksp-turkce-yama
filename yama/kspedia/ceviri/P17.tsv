@@ -1,0 +1,38 @@
+827	Fırlatma Rampası, VAB'de inşa edilen araçların uçuşlarına başladığı yerdir. Her şeyden yeterince \ngüvenli bir mesafede olduğundan makul ölçüde eminiz.
+828	Öncelikle dikey fırlatmalar için tasarlanmıştır, ama bu seni farklı varyasyonlar denemekten alıkoymasın.
+829	Seviye 1: 20,0 x 21,2m - 18,0t\nSeviye 2: 36,0 x 39,6m - 140,0t\nSeviye 3: sınırsız
+830	Fırlatma Rampası
+831	Görev Kontrol tesisinde, mevcut tüm kontratlar yönetilebilir. Ayrıca fırlatan bir araca bu kadar \nyaklaşacak kadar cesur olanlar için fırlatma sahalarının oldukça güzel bir manzarasını sunar.
+832	<b>Seviye 1:</b> 2 aktif kontrat, uçuş planlama yok\n<b>Seviye 2:</b> 7 aktif kontrat ve uçuş planlama\n<b>Seviye 3:</b> sınırsız aktif kontrat ve uçuş planlama
+833	Uzay programın için bir sonraki hedefleri seçebilir ve olası ödülleri inceleyebilirsin.
+834	Görev Kontrol (MC)
+835	<b>Seviye 1:</b> 100 bilim puanı sınırı, yüzey numunesi ya da\n                kaynak transferi yok\n<b>Seviye 2:</b> 500 bilim puanı sınırı, yüzey numunesi ve\n                kaynak transferine izin verilir\n<b>Seviye 3:</b> sınırsız bilim puanı
+836	R&D tesisinde bilim insanlarından oluşan ekip, görev deneylerinden elde edilen verileri \nişlemek için yoğun çaba harcar. Burada, araştırılmış tüm teknolojiler görüntülenebilir ve yenileri araştırılabilir.
+837	Nostalji yapmak istersen, arşivlerden deney geçmişini de inceleyebilirsin.
+838	Araştırma ve Geliştirme (R&D)
+839	Pist'te, SPH'de inşa edilen araçlar kalkış hızına ulaşmak için uzun ve düz bir yüzeye sahip olur. Böyle \nuçaklar teorik olarak buraya geri inip de konabilir...
+840	2,5km uzunluğu çok çeşitli tasarım ve boyutlar için yeterlidir, bu da onu her türlü \ntest için mükemmel bir yer haline getirir.
+841	<b>Seviye 1:</b> 20,0 x 15,0m - 18,0t\n<b>Seviye 2:</b> 36,0 x 28,0m - 140,0t\n<b>Seviye 3:</b> sınırsız
+842	Pist
+843	Bu tesis, ikisi de inşa amacıyla kullanılan VAB'a benzer. Temel fark, SPH'nin \nyatay olarak fırlatılan araçları inşa etmek için tasarlanmış olması ve bu araçların bağlı Pist'i kullanmasıdır.
+844	<b>Seviye 1:</b> 30 parça, aksiyon grubu yok\n<b>Seviye 2:</b> 255 parça ve temel aksiyon grupları\n<b>Seviye 3:</b> sınırsız parça ve tüm aksiyon grupları
+845	Ana gezegeni keşfetmek için tasarlanan pek çok uçak burada ortaya çıkmıştır.
+846	Uzay Uçağı Hangarı (SPH)
+847	<b>Seviye 1:</b> haritada yörüngeler ve uçuş planlama (MC yükseltilmişse)\n<b>Seviye 2:</b> haritada yamalı konikler görünür\n<b>Seviye 3:</b> haritada yamalı konikler ve bilinmeyen nesne takibi
+848	Takip İstasyonu'nda, devam eden tüm görevler görüntülenebilir ve yönetilebilir. İnmiş araçlar da \nburadan kurtarılabilir.
+849	Uzay programına genel bir bakış atmak ve kimin dışarıda keşifte olduğunu görmek için harika bir yer.
+850	Takip İstasyonu (TS)
+851	Araç Montaj Binası (bilenler için VAB), roketlerin ve dikey fırlatılan diğer uzay araçlarının \ntasarlandığı yerdir.
+852	<color=#ef2929>Not: </color>VAB içinde roket motorlarının ateşlenmesi, KSC sigorta poliçesini geçersiz kılar.
+853	Buradan fırlatma rampasına taşınarak kalkışa hazırlanırlar.
+854	Araç Montaj Binası (VAB)
+855	Pekala, sadece rakımdan daha fazlasını gösteriyor ve birkaç işlevi kontrol etmene de olanak tanıyor. \nBunları aşağıda görebilirsin.
+856	Bu, altimetre kontrolü - ayrıca iniş takımı düğmesi, fren düğmesi, iptal düğmesi ve...
+857	Aracı Kurtar (Kerbin'e \ninmişken kullanılabilir) ya da oraya dönmek \niçin Uzay Merkezi.
+858	* Ayrıca "biraz" başka bilgi ve kontrol de içerebilir.
+859	Deniz seviyesinin \nüzerindeki rakımdır, yer \nseviyesinin DEĞİL.
+860	İptal aksiyon \ngrubunu tetikle.
+861	Dikey Hız Göstergesi
+862	Atmosfer\nBasıncı
+863	Geçiş Düğmeleri:
+864	İniş Takımı\nAç/Kapat

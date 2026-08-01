@@ -1,0 +1,37 @@
+idx	kutu_w	font	kapasite	EN
+385	845.63	40	42	<b>Tech Tree Nodes:</b>\n<size=35>The color and lines of the nodes indicate what \nis unlocked and what is still to be researched. \nThe number attached to the node shows how \nmany parts are locked. Again, at harder difficulties \nyou have to spend Funds to unlock these parts.\n\n\n</size>
+386	1776.75	40	88	<b>Toolbar:</b>\n<size=35>Across the top (from left to right) are the Technology and Science Archives tabs; the current level of Funds, \nReputation and Science; and the way out.\n</size>
+387	1791.17	40	89	The R&D TechTree shows you the technologies and parts that are available. This career facility \nlets you see what is (and what can be) unlocked through the application of Science.
+388	1498.65	70	42	The Research and Development Technology Tree
+389	1017.64	40	50	<b>Tracked Objects:</b>\n<size=35>This is the list of all your active flights and tracked space \nobjects. When selected you will focus on that object, and can \nmanage it using the buttons below. You can also move the \ncamera and interact with the objects in the main view.</size>
+390	573.71	40	28	<b>App Launcher:</b>\n<size=35>You will find lots of useful info \nabout the selected object through \nthese Apps.\n\n\n</size>
+391	1295.74	40	64	<b>Toolbar:</b>\n<size=35>The current date, time controls and a filter for vessel types are across the top.\n\n\n</size>
+392	1903.44	40	95	Here you will find active flights, nearby objects and be able to see all the places you've planted flags.
+393	646.84	70	18	The Tracking Station
+394	1884.9	40	94	Learn the uses and methods of the facilities around the Kerbal Space Center so you can tailor your \ncareer for success.
+395	491.31	35	28	<i><i>Note:</i> Champagne not included</i>
+396	639.63	70	18	Career Management
+397	686.97	35	39	When on EVA, pilots and scientists can use the Cargo App to manipulate nearby inventories. Engineers get access to EVA Construction Mode, which incorporates this functionality and much more.
+398	686.97	35	39	You can view every cargo slot on your craft.  If your craft is manned, you can move cargo parts around as well.
+399	1731.5	40	86	The Cargo App gives easy access to all the cargo on your craft, including the crew’s inventory.
+400	686.97	35	39	Access the app from the App toolbar in flight.
+401	362.37	40	18	Accessing the Cargo App
+402	362.37	40	18	Cargo App Window
+403	654.3	70	18	Cargo App
+404	1731.5	40	86	Cargo Mode adds a new pane next to the part toolbox. This shows all available cargo storage on the craft under construction, including that of any kerbals on board.
+405	686.97	35	39	When in Cargo Mode, the part toolbox is filtered to just parts that can go into a cargo container to help loadout your craft.
+406	686.97	35	39	You can move parts directly from the part toolbox to the cargo pane, or to the part’s action menu.
+407	686.97	35	39	Access Cargo Mode by clicking here.
+408	362.37	40	18	Entering Cargo Mode
+409	654.3	70	18	Cargo Mode
+410	362.37	40	18	Usage
+411	527.4	37	28	A Kerbal on EVA can get parts from a cargo container via the part menu. The kerbal has to be up close to the container part to be able to transfer the part to its own inventory.\r\n
+412	461.44	37	24	Once in the Kerbal’s inventory, you can click the place button on the inventory panel to begin placing it.  Follow the on-screen directions to rotate the part & deploy it.
+413	622.3	37	33	正在进行EVA（出舱活动）的坎\r\n巴拉人可以通过右键菜单从货\r\n舱里取出部件，注意坎巴拉人在\r\n操作的时候一定要靠近货舱。
+414	424.36	70	12	Cargo System - Placeable parts
+415	290.5	37	15	Taking The Part
+416	290.5	37	15	Deploying
+417	686.97	35	39	Kerbals have an inventory. \r\nParachutes and EVA jetpacks are now swappable cargo parts that the Kerbals carry by default.  The kerbal’s inventory is also limited by the mass they can carry.\r\n
+418	686.97	35	39	Spacecraft can carry a variety of cargo parts in specially designed cargo container parts. Command and Crew modules can also carry a small amount of cargo.
+419	686.97	35	39	Cargo storage is limited by the available cargo slots and volume.  Some parts will only fit in the largest containers.
+420	686.97	35	39	Some small cargo parts can be stacked into the same slot. The stacking limit depends on the size of the part.

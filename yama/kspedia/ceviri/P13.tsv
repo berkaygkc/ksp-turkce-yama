@@ -1,0 +1,34 @@
+513	<b>Mürettebat Koltukları:</b>\n<size=35>Burada, araçtaki koltuğu \nolan her parça için bir bölüm \ngöreceksin. \n\nMevcut mürettebattan koltuklara \nKerbal atayabilir ya da kurtarma \niçin boş bir koltuğa ihtiyacın \nvarsa koltuklardan Kerbal \nçıkarabilirsin.</size>
+514	<b>Mevcut Kerballar:</b>\n<size=35>Burada listelenen Kerballar \nkadronda bulunanlardır. Kariyerde \nözellikle Kerballarının rolüne \nve beceri seviyesine dikkat \net.\n\nTükenirsen daha fazlasını işe \nalmak gerekebilir.</size>
+515	<b>Astronot Kompleksi:</b>\n<size=35>Bu, seni uzay programının \nüyelerini işe alabileceğin (ya da \nkovabileceğin) Astronot \nKompleksi'ne götürür.</size>
+516	Yapım arayüzündeki mürettebat sekmesi, aracındaki koltuklara Kerbal atamana yardımcı olur.
+517	Araç Mürettebatı
+518	<b>Tasarım Kontrol Listesi:</b>\n<size=35>Uygulamanın alt yarısında, dikkatini \ngerektirebilecek kontrollerin listesi yer alır. \nBunları düzeltmek zorunda değilsin ama gene de \nbir göz atmakta fayda var.</size>
+519	<b>Temel Bilgiler:</b>\n<size=35>Burada parça sayısı, boyut ve kütle \ngibi bilgileri bulursun. Kariyer modunda \ntesislerinin sınırına ulaştığında bunu görürsün.</size>
+520	Dikkat ediyorsan bu uygulama seni felaketten kurtarabilir. Mühendis raporu, yapım aşamasındaki araçla ilgili dikkat çekici \nnoktaları listeler.
+521	<b>Kontrol Önem Dereceleri:</b>\n<size=35>Kontroller için üç önem derecesi vardır:</size>
+522	Bilgilendirme\nUyarı\nKritik
+523	Mühendis Raporu
+524	<b>Kontrol Referans Çerçevesi:</b>\n<size=35>Araç ikonlarının altında, uygun olduğunda bir \nreferans çerçevesi seçici göreceksin. Bu düğme, aktif kontrolün \nolası seçenekleri arasında bir parçanın nasıl ayarlandığını değiştirir.</size>
+525	<b>Hassas Kontrol Seçeneği:</b>\n<size=35>Hizalama açıkken,                   tuşunu basılı tutmak yerleştirme, kaydırma ve döndürme kontrollerinin daha küçük artışlarla çalışmasını sağlar.</size>
+526	Bir parça grubunun kök \nparçasını değiştirmeni sağlar. \nBu, önce grubu tıklayıp sonra \nyeni kök parçayı seçmekten \noluşan iki adımlı bir işlemdir.
+527	Parçaları alıp birbirine \nbağlamak için bu aracı etkinleştir. \nHizalama açıkken, dairesel yerleştirilen \nparçalar 15° artışlarla eklenir.
+528	Parçayı her eksende döndürmen \niçin tutamaçlar sağlar. Hizalama \naçıkken bu, parçayı 15° \nartışlarla döndürür.
+529	Parçayı her eksende sürüklemen \niçin tutamaçlar sağlar. Hizalama \naçıkken bu, parçayı 20cm'lik \nadımlarla hareket ettirir.
+530	Yapım arayüzünde, mükemmel aracı tasarlamana yardımcı olan dört araç bulunur.
+531	Yerleştirme Kontrolü (Varsayılan)
+532	Yapım Kontrolleri
+533	Kaydırma Kontrolü
+534	Döndürme Kontrolü
+535	Left Shift
+536	Kök Kontrolü
+537	Bu bilgi, gemideki kaynaklar dahil, mevcut aracı \nfırlatmanın maliyetini gösterir.\n\nİkinci değer, (kariyer modundaysan) kullanılabilir \nFonundur.
+538	Bu işaret, tüm itki kaynaklarının \ntoplamını göstermek için oluşturulur. \nAraçtaki tüm motorların CoT \ndeğerini görüntüler.
+539	Kütle merkezi, tüm ayrı bileşenlerin \nkütlesinin toplamının dengelendiği \nnoktadır. \nBunu denge noktası olarak düşün.
+540	Bu işaret, araç üzerindeki tüm \ntaşıma kuvvetlerinin toplamını \ngösterir. Bu konuda çok daha fazlası \nuçaklarla ilgili bölümde var.
+541	Hizalama ve simetri kontrollerinin yakınında, "merkez" göstergelerini açıp kapatan düğmeleri bulacaksın.
+542	Merkezler ve Maliyetler Hakkında Bilgi
+543	İtki Merkezi (CoT)
+544	Araç Maliyeti ve Fon
+545	Kütle Merkezi (CoM)
+546	Taşıma Merkezi (CoL)

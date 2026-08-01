@@ -1,0 +1,27 @@
+idx	kutu_w	font	kapasite	EN
+487	1940.52	40	97	With the correct equipment, a vessel can transmit its science data back to Kerbin via CommNet. The \nhigher the signal strength, the more science results from the transmission. It’s always better to return \nthe data than to transmit it, but a strong Signal can make a lot of the difference.
+488	1941.55	40	97	CommNet uses soft occlusion where signals are not cut off immediately when the destination goes \nover the horizon. In addition, atmospheric bodies allow bouncing the signal through the atmosphere, \nfurthering the distance below the horizon a destination can be.
+489	1836.49	40	91	The signal strength is the product of the signal strengths of all links on the path back to the DSN \nor to a Control Point. For example:
+490	656.11	70	18	Science Transmission
+491	266.77	40	13	Path Strength
+492	301.79	70	8	Occlusion
+493	1930.22	40	96	With action groups you can cause multiple actions to happen at a single keypress. A common setup \nmight be to have all solar panels toggle on one keypress, or all radiators extend. With the layout seen \nhere you click on listed actions to alter the groups.
+494	413.03	40	20	<b>Part Actions:</b>\n<size=35>This shows the available \nactions for the part \nselected in the editor.\n\nIf the part selected was \nplaced using symmetry \nthen the action will \ninclude all the parts in \nthe symmetry group.</size>
+495	1882.84	40	94	<b>The Abort Action Group:</b>\n<size=35>This stock group can be used to fire off your escape tower and save your crew in the event of a launch issue. Not \nsaying it's likely, but accidents do happen.</size>
+496	383.16	40	19	<b>Group Actions:</b>\n<size=35>Actions listed here will \nbe triggered when the \nhighlighted group is \nactivated.</size>
+497	394.49	40	19	<b>Custom Groups:</b>\n<size=35>These let you define \nactions to occur when \nkeys 1 to 0 are pressed.</size>
+498	367.71	40	18	<b>Stock Groups:</b>\n<size=35>You can add to the \nstock actions through \nthese items in the list.</size>
+499	905	40	45	<size=35><i>Selecting a part in the scene causes it to be highlighted blue for identification</i></size>
+500	290.46	40	14	Action Groups
+501	1941.55	40	97	With the staging stack you can set up the activities that will happen at each stage of the vessel's flight. \nDuring flight you will see a version of this which shows some extra information. Alongside this is the \napp launcher for the construction scenes.
+502	564.44	40	28	<b>Reset Staging:</b>\n<size=35>This will reset the staging to what \nKSP "thinks" is the original state... \nbe warned, letting computers \nthink has caused problems \nbefore!</size>
+503	532.51	35	30	Here we see the four stages of \na vessel and the parts assigned \nto each stage. \n\nWhen a stage is activated, the \nparts assigned to that stage are \nactivated.
+504	475.86	40	23	<b>Moving Stages:</b>\n<size=35>You can drag a stage by its \norange header to change its \norder in the stack.</size>
+505	591.22	40	29	<b>Add Stage Below:</b>\n<size=35>This will add an empty stage that is \nready to have parts dragged into it.</size>
+506	568.56	40	28	<b>Remove Empty Stage:</b>\n<size=35>Deletes the stage next to the icon.\nthis only works for empty stages.</size>
+507	1264.84	35	72	<color=#ef2929>Note: </color>The staging stack is visible during flight as well, with some slight variations
+508	536.63	40	26	<b>Moving Parts:</b>\n<size=35>You can drag parts between the \nstages by moving their icons.</size>
+509	442.9	40	22	<b>App Launcher:</b>\n<size=35>From here you can access \na range of information.</size>
+510	554.14	40	27	<b>Empty Stage:</b>\n<size=35>Ready to have parts <i>dragged</i> into \nit.</size>
+511	1149.48	70	32	The Staging Stack and App Launcher
+512	1905.5	40	95	<b>Moving Kerbals Around:</b>\n<size=35>You can assign kerbals to positions by <i>dragging</i> them, or using the tick/cross buttons that are displayed when your \ncursor is over one. There are lots of ways to make sure you fill a seat, but you'll still forget sometimes.</size>

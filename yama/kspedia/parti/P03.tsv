@@ -1,0 +1,41 @@
+idx	kutu_w	font	kapasite	EN
+82	1871.3	35	106	If you have tested a Mission and make a change to a Node that is flagged as a Checkpoint this will invalidate all subsequent Checkpoints. You will need to test your Mission from the previous “Clean” Checkpoint. \n“Dirty” Checkpoints can be removed via the Test Mission window.
+83	711.8	35	40	Clicking on Test Mission will open up a dialogue listing all the Checkpoints that have been reached - these are shown in order of completion along with basic flight information on each.
+84	800.31	70	22	Testing / Checkpoints
+85	1967	37	106	Spinning blades can provide control to your craft.  Depending on how you place them, they will either use cyclic or collective pitch changes to apply torque.\r\n\r\nThis gives a range of control behaviour for your aircraft!\r\n
+86	729.1	37	39	Cyclic mode is in effect when blades are aligned with the center of mass, and provides torque by changing the blade pitch as the blades rotate, so that the lift is different on either side of the rotor, creating torque.\r
+87	715.71	37	38	Collective mode is in effect when blades are not aligned with the center of mass.  It provides torque by changing the blade pitch uniformly.
+88	1967	70	56	Blade Cyclic/Collective - Behaviour
+89	481.7	37	26	Craft Pitches
+90	481.7	37	26	Vessel Rolls
+91	189.09	30	12	Less\nLift
+92	189.09	37	10	More\nLift
+93	1735.2	37	93	All of the controls for blades can be adjusted in the part action window of the blade, which has several new features.
+94	468.5	37	25	Tip: Keep your authority limiter settings low, and use deploy angle to adjust the total lift from the rotor.
+95	468.5	37	25	Usage: Change the control state toggles to enable this functionality, like a control surface.
+96	503.1	37	27	Flight data provides additional info to help you tune your blades.
+97	473.8	70	13	Blade Cyclic/Collective - Controls
+98	1955.6	40	97	This special experiment collects data from planetary impacts. The amount of data depends on the size and speed of the object crashing into the surface and its distance from the seismometer - closer is better, up to a point.\r\n
+99	1045.2	40	52	Experiments like the Weather Station, Ion Detector and Mystery Goo Observation Unit collect data over time once deployed, powered and connected to a Control Station.\r\n
+100	1850.6	40	92	The amount of data an experiment generates per hour/impact is increased when deployed by a scientist, especially an experienced one
+101	941.42	70	26	Extended Duration Experiments\r\n
+102	1850.6	70	52	Deployed Science Experiments
+103	941.42	70	26	The Passive Seismometer
+104	1955.6	40	97	Once a Control Station has managed to generate some data it will be transmitted (by CommNet) back to Kerbin to generate Science.\r                                                  Use the Cargo System to move and place deployed science experiments.\r\n
+105	1878.6	40	93	The Deployed Science system is a set of experiments that can be deployed on the surface of a celestial body by a Kerbal to gather data over time. To generate data via  surface experiments, the player needs the following elements:\r\n
+106	143.2	40	7	Enough deployed power parts to operate the other deployed units.
+107	183.2	40	9	A Kerbal to set up the cluster of deployed parts.
+108	512.44	40	25	One or more deployed experiment parts.
+109	345.8	40	17	A Control Station.
+110	624.6	70	17	Deployed Science
+111	290.46	37	15	Grip pads are high-strength, grip traction pads you can add to your robotic craft for a range of uses.
+112	1054.8	37	57	Grip pads can be built with 3 different grip settings...\r
+113	1054.8	37	57	They come in multiple shapes and sizes.
+114	306.1	37	16	Extreme Grip
+115	306.1	37	16	Medium Grip
+116	473.8	70	13	Grip Pads
+117	306.1	37	16	High Grip
+118	290.46	37	15	The Track Editor is a powerful tool that lets you set up curves to control the part fields you've assigned your controller. With it you control the target values of the fields over time.\r\n\r\n
+119	461.44	37	24	Break or smooth the curve at the selected key with the buttons here
+120	1139.9	37	61	To reposition the key, click and drag it, or type a new value here
+121	537.3	37	29	Robotics parts with limits can be changed through sliders here\r.\n

@@ -1,0 +1,35 @@
+idx	kutu_w	font	kapasite	EN
+48	312.4	40	15	Maximize\n
+49	800.31	70	22	GAP Tools
+50	1782.4	40	89	The mission briefing window lets you review information relating to your mission such as banners, scoring, awards and more.
+51	589.99	40	29	Mods and Partpacks information
+52	589.9	40	29	Objectives Overview
+53	582.1	40	29	Scoring Overview
+54	589.9	40	29	Mission Briefing
+55	592.1	40	29	Mission Banners
+56	589.94	40	29	Export Mission 
+57	855.9	40	42	Rename Mission
+58	582.1	40	29	Awards Setup
+59	1813.1	40	90	Some Nodes can be docked to other nodes to create more Mission options for example:\r\n\t\t• Logic Nodes can be docked to anything but the Start Node or Score Nodes\r\n\t\t• Spawn nodes can be docked to the Start Node\r\n
+60	524.4	35	29	To see which Nodes can be docked with other Nodes look for the indicator when the Node is dragged around the canvas. You can also get that information from the Node tooltip in the side bar.
+61	1813.1	40	90	When a node is reached during play any docked nodes will be tested immediately, and you can use this to direct the your audience down different paths.
+62	438.5	35	25	Some Nodes can be docked with other docked Nodes to create stacks. Try experimenting to see what combinations you can come up with!
+63	800.31	70	22	Node Docking
+64	1928.7	40	96	Nodes can be positioned anywhere on the canvas and can be dragged around freely. Nodes have an <b>Input</b> and an <b>Output</b> connector that you use with<b> Connectors</b>  to link the Nodes together. Multiple connectors can be dragged out from a node to create many branching paths - use branching paths to give your Missions an added level of depth.\n\nNodes and Connectors can be selected with the Mouse and deleted with 
+65	755.36	40	37	Marking a Node as an End Node in its settings will mean the Mission will end when the player reaches that node.
+66	800.31	70	22	Nodes / Connectors
+67	144.2	40	7	Delete
+68	816.56	40	40	On the <b>Mission Summary Screen </b>will be a breakdown of the Players score for each objective as well as their overall score - this is then shown on the Missions Screen for completed Missions.
+69	1870.9	40	93	Setting up scoring for players is a great way for them to measure success, and help them strive to improve. You can add scoring nodes throughout your mission just like any other node.
+70	816.56	40	40	As the mission creator, you can also give out <b>Awards</b> for players who hit certain score thresholds. There are also some awards for those special situations you can set as well.
+71	800.31	70	22	Replay / Score / End
+72	1953.5	40	97	The Settings Action Pane (SAP) is where you define the settings for the currently selected Node in a mission. The SAP can be scrolled up and down and the headings can be maximised and minimised to give as much or as little information as desired.
+73	539.2	40	26	Clicking on a Pin icon in the SAP will display that setting in the Node on the Canvas.
+74	452.16	40	22	Here you can change the Title that is seen in the Node Header on the Canvas.
+75	800.31	70	22	SAP
+76	1920	40	96	<b>Missions</b> are made up of <b>Nodes </b>placed on the <b>Canvas </b>and linked together. <b>The Sidebar</b> is where you find all the nodes you can use to create  the Mission.
+77	621.6	40	31	The Nodes are separated into <b> Categories</b> - each Category contains Nodes that have similar behaviour or functionality.
+78	503.71	40	25	Hovering your mouse over a Node will give you helpful information about that Node.
+79	503.71	40	25	You can quickly find Nodes by using the Search feature at the top of the Sidebar.
+80	800.31	70	22	Sidebar
+81	1871.3	40	93	You can test your mission whilst it is being built. Testing the mission will optionally save each objective as you hit as a checkpoint. When returning to the Mission Builder you can go back to any unchanged Checkpoints at a later time so you don’t need to test your mission from the beginning on each playthrough.

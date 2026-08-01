@@ -1,0 +1,40 @@
+82	Bir Görevi test ettiysen ve bir Kontrol Noktası olarak işaretlenmiş bir Düğümde değişiklik yaparsan, bu sonraki tüm Kontrol Noktalarını geçersiz kılar. Görevini önceki “Temiz” Kontrol Noktasından test etmen gerekir. \n“Kirli” Kontrol Noktaları, Test Görevi penceresinden kaldırılabilir.
+83	Test Görevi'ne tıklamak, ulaşılan tüm Kontrol Noktalarını listeleyen bir pencere açar - bunlar tamamlanma sırasına göre, her biriyle ilgili temel uçuş bilgileriyle birlikte gösterilir.
+84	Test / Kontrol Noktaları
+85	Dönen paller aracına kontrol sağlayabilir. Onları nasıl yerleştirdiğine bağlı olarak, tork uygulamak için cyclic ya da collective pal açısı değişimlerini kullanırlar.\n\nBu, uçağına geniş bir kontrol davranışı yelpazesi kazandırır!\n
+86	Cyclic modu, paller kütle merkeziyle hizalandığında etkin olur ve paller dönerken pal açısını değiştirerek tork sağlar, böylece rotorun her iki tarafındaki taşıma kuvveti farklı olur ve tork oluşur.
+87	Collective modu, paller kütle merkeziyle hizalanmadığında etkin olur. Pal açısını eşit şekilde değiştirerek tork sağlar.
+88	Pal Cyclic/Collective - Davranış
+89	Araç Yunuslanır
+90	Araç Yatar
+91	Daha Az\nTaşıma
+92	Daha Fazla\nTaşıma
+93	Paller için tüm kontroller, birkaç yeni özelliğe sahip olan palin parça eylem penceresinden ayarlanabilir.
+94	İpucu: Yetki Sınırlayıcı ayarlarını düşük tut ve rotordan gelen toplam taşıma kuvvetini ayarlamak için Açılma Açısını kullan.
+95	Kullanım: Bu işlevi etkinleştirmek için, bir kontrol yüzeyinde olduğu gibi kontrol durumu anahtarlarını değiştir.
+96	Uçuş verileri, pallerini ayarlamana yardımcı olacak ek bilgiler sağlar.
+97	Pal Cyclic/Collective - Kontroller
+98	Bu özel deney, gezegensel çarpmalardan veri toplar. Toplanan veri miktarı, yüzeye çarpan cismin boyutuna, hızına ve sismometreye olan uzaklığına bağlıdır - belirli bir noktaya kadar ne kadar yakınsa o kadar iyidir.\n
+99	Hava Durumu İstasyonu, İyon Dedektörü ve Mystery Goo Gözlem Birimi gibi deneyler; yerleştirilip güç verildiğinde ve bir Kontrol İstasyonuna bağlandığında zaman içinde veri toplar.\n
+100	Bir deneyin saat/çarpma başına ürettiği veri miktarı, bir bilim insanı tarafından yerleştirildiğinde, özellikle de deneyimli biriyse artar
+101	Uzun Süreli Deneyler\n
+102	Yerleşik Bilim Deneyleri
+103	Pasif Sismometre
+104	Bir Kontrol İstasyonu biraz veri üretmeyi başardığında, bu veri Bilim üretmek için (CommNet ile) Kerbin'e geri iletilir.                                                  Yerleşik bilim deneylerini taşımak ve yerleştirmek için Kargo Sistemini kullan.\n
+105	Yerleşik Bilim sistemi, bir Kerbal tarafından bir gök cisminin yüzeyine yerleştirilip zaman içinde veri toplayan bir dizi deneyden oluşur. Yüzey deneyleri yoluyla veri üretmek için oyuncunun şu unsurlara ihtiyacı vardır:\n
+106	Diğer yerleştirilen birimleri çalıştırmaya yetecek kadar yerleştirilmiş güç parçası.
+107	Yerleştirilen parça kümesini kurmak için bir Kerbal.
+108	Bir veya daha fazla yerleştirilmiş deney parçası.
+109	Bir Kontrol İstasyonu.
+110	Yerleşik Bilim
+111	Tutunma pedleri, robotik aracına çeşitli kullanımlar için ekleyebileceğin, yüksek dayanıklı, tutunma sağlayan pedlerdir.
+112	Tutunma pedleri 3 farklı tutunma ayarıyla üretilebilir...
+113	Birden fazla şekil ve boyutta gelirler.
+114	Aşırı Tutuş
+115	Orta Tutuş
+116	Tutunma Pedleri
+117	Yüksek Tutuş
+118	Track Düzenleyici, denetleyicine atadığın parça alanlarını kontrol etmek için eğriler oluşturmanı sağlayan güçlü bir araçtır. Bununla, alanların hedef değerlerini zaman içinde kontrol edersin.\n\n
+119	Buradaki düğmelerle, seçili anahtarda eğriyi kır veya yumuşat
+120	Anahtarı yeniden konumlandırmak için tıklayıp sürükle veya buraya yeni bir değer yaz
+121	Sınırları olan Robotik parçalar buradaki kaydırıcılarla değiştirilebilir.\n

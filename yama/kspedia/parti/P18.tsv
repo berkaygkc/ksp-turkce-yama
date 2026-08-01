@@ -1,0 +1,67 @@
+idx	kutu_w	font	kapasite	EN
+865	464.53	70	13	The Altimeter*
+866	284.28	40	14	Brakes Toggle
+867	266.77	40	13	Lights Toggle
+868	177.16	40	8	Altitude:
+869	127.72	40	6	Abort:
+870	546.93	35	31	Shows resources in your vessel. \nEnable the checkbox next to a \nresource to see where that is on \nthe vessel.
+871	2003.35	40	100	From the app launcher you can access a range of tools and information. Some examples are shown here.
+872	587	35	33	Current contracts with their parameters and completion status.
+873	601.52	35	34	Your current Funds, Reputation and \nScience.
+874	444	35	25	Where important career events are shown.
+875	557.23	70	15	The App Launcher
+876	322.39	40	16	Currencies App:
+877	300.76	40	15	Contracts App:
+878	312.09	40	15	Resources App:
+879	221.45	35	12	You are here.
+880	300.76	40	15	Messages App:
+881	254.41	40	12	KSPedia App
+882	669.5	40	33	• Repair wheels, antenna, solar panels, etc...\n• Collect surface samples\n• Collect science from experiments.\n• Plant flags.\n• Extend and retract panels.\n• Extend and retract landing gear.\n• EVA reports.\n• Repack parachutes.\n• Add and remove parts\n• Do science experiments.\n• And more...
+883	1610.92	35	92	In career mode some activities are available to specific roles and levels only.  For example, the "Repair Wheel” activity is only available to engineers.
+884	1924	40	96	When kerbals are out and about you can direct them to interact with what's around them via the action menus. 
+885	1137.12	40	56	Below are a number of activities that can be performed:
+886	442.9	70	12	EVA Activities
+887	538.69	35	30	When a maneuver node is selected on the map, or by interacting with the selection display buttons (see right) the precision maneuver edit panel appears. Post-maneuver orbit information displays in the Orbit Information Panel.
+888	533.54	35	30	Current orbit or result orbit after selected maneuver.
+889	436.72	35	24	Switches selection to previous/next existing maneuver.
+890	668.9	50	26	Maneuver Tools / \nSelection Display
+891	283.25	35	16	Previous / Next Maneuver Buttons
+892	424.36	70	12	Maneuver Mode - Maneuver Editor
+893	336.9	35	19	Warp to the next maneuver.
+894	325.48	35	18	Delete Selected Maneuver
+895	303.85	35	17	Selected Item
+896	283.25	40	14	How to Access
+897	192.1	35	10	Warp To
+898	428	35	24	Use the handles to adjust maneuver direction by click, drag or scroll. The center buttons adjust the time of the maneuver in the same way.
+899	519.12	35	29	Enter the UT of the maneuver in seconds or in y:ddd:hh:mm:ss format. Field automatically detects format if “:” symbol is used. 
+900	533.54	35	30	Shows the current rate of change applied when using the handles.
+901	534.57	35	30	Increase or decrease the time of the maneuver by one orbit.
+902	2010.56	40	100	Instructions on using the fine maneuver editors.
+903	519.12	35	29	Numeric inputs for each axis.
+904	424.36	70	12	Maneuver Editor Panel - Cont.
+905	359.29	40	17	Maneuver Handles
+906	353.29	40	17	Scale Display
+907	303.85	40	15	Scale Slider
+908	484.1	40	24	Orbit Icons
+909	325.48	40	16	Input Areas
+910	325.48	40	16	Time Field
+911	2010.56	40	100	The Orbit Information Panel is accessed by clicking on the maneuver mode button. This panel shows details about your current orbit, depending on which tab is selected.
+912	519.12	35	29	Displays Inclination and Ejection Angle, Longitude of Ascending Node, Argument of Periapsis and Eccentricity.
+913	533.54	35	30	Shows intercept information if a target is selected.
+914	436.72	35	24	Displays Apoapsis, Periapsis and Orbital Period.
+915	424.36	70	12	Maneuver Mode - Orbital Information
+916	325.48	40	16	Advanced Orbital Info Tab
+917	455.5	40	22	Basic Orbital Info Tab
+918	484.1	40	24	Orbital Info Panel
+919	303.85	40	15	Approach Info Tab
+920	484.1	40	24	Maneuver Mode
+921	353.3	40	17	Info Tabs
+922	388.356	35	22	The left tab lets you see a visual representation of the maneuver you’re planning, along with some useful details about the time and dV used to perform that maneuver.
+923	581.389	35	33	The top tab shows upcoming transfer windows to the available targets for your selected maneuver type.
+924	1220.46	35	69	Two tabs appear at the top and left of the maneuver tool panel that can give you some useful info.
+925	1287.75	70	36	Maneuver Tool - Additional Info
+926	581.389	40	29	Transfer Window Timing Tab:
+927	387.338	40	19	Visualization Tab:
+928	1220.46	40	61	Info Tabs:
+929	1220.46	35	69	The next section is where you configure the transfer. Pick the celestial body you want to go to which PE you want to target, and if you want a circularization dV readout.
+930	1220.46	35	69	The last section shows you details of the maneuver you would create with your current selections, and lets you create it if you’re satisfied.\r

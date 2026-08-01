@@ -1,0 +1,60 @@
+idx	kutu_w	font	kapasite	EN
+122	665.94	37	35	Double click the line to add a key to the curve\r\n
+123	461.44	37	24	Drag the handles to change the curve
+124	587.2	37	31	Or remove it from the controller\r\n
+125	461.44	37	24	Remove the key with this button\r\n
+126	509.4	37	27	First, you need to edit a curve:
+127	594.84	37	32	Click to expand a curve to edit
+128	635.54	37	34	You can rename each track here
+129	473.8	70	13	Laying Down Some Tracks
+130	461.44	37	24	Adjusting the curve:
+131	1574.2	37	85	Three kinds of propellers are provided, each kind is most suited to a different style of use. They come in a range of sizes.
+132	1975	37	106	Propellers typically work best when attached to a rotor. The ducted fan blades have separate shroud parts to match.
+133	783.7	37	42	Helicopter Blades
+134	595.86	37	32	Propeller Blades
+135	473.8	70	13	Propellers
+136	318.9	37	17	Fan Blades
+137	604.5	37	32	To get lift, your propeller has to be turned to have a positive angle of attack vs the air. You can right click on a propeller blade while in flight to see what its angle of attack to the air is, and how much lift its generating.
+138	1900.8	37	102	Using propellers properly requires a good understanding of how air moves over the propeller. Below, you can see how the air flow depends on both the rotation of the propeller, and the speed of the plane.
+139	473.8	70	13	Propellers Aerodynamics
+140	392.9	37	21	Air-Relative Velocity
+141	331.11	37	17	Propeller Velocity
+142	331.11	37	17	Angle of Attack
+143	331.11	37	17	Craft Velocity
+144	290.46	37	15	The KAL 1000 Controller coordinates multiple parts to operate in a sequence. It’s primary purpose is controlling robotic parts, but is not limited to those. To build a sequence, first add the part fields that you want to control, like this:\r\n
+145	461.44	37	24	Then you can use the track editor tool… (continued)
+146	329.1	37	17	Add the part to the controller
+147	528.39	37	28	Pick the controller\r\n
+148	461.44	37	24	Go to Action Groups
+149	473.8	70	13	Robotic Controller
+150	461.44	37	24	Select a part\r\n
+151	1876.6	40	93	Robotics are a set of moving parts for building & controlling craft with complex moving pieces.
+152	636.8	40	31	Robotic Controller:\nFor advanced roboticists who want to coordinate robotic parts\r\n
+153	237.1	40	11	Rotation Servos
+154	424.36	70	12	Robotic Parts
+155	237.1	40	11	Piston\n
+156	237.1	40	11	Hinges
+157	237.1	40	11	Rotors
+158	1942.6	37	105	Surface Features are objects that can be found scattered around on planets and moons and studied by a rover arm or picked up by Kerbals. Surface Features can be examined in two ways.
+159	523.3	37	28	All Surface Features, especially larger ones, can be studied by a new instrument: the Rover Arm.
+160	290.46	37	15	Small Surface Features can be picked up and returned for analysis.\r\n
+161	473.8	70	13	Surface Features - Overview
+162	1873.8	37	101	The rover arms are a new type of science equipment for studying Surface Features.  They are also new to KSP - they’re the first experiment with levels.  Larger rover arms can collect more data than the smaller type, but they are not separate experiments.  Therefore once you’ve scanned a Surface Feature with the best arm, you do not need to revisit it with a smaller one.\r\n
+163	451.9	37	24	Make sure to park your rover nearby and stay still while performing a scan.\r\n
+164	473.8	70	13	Surface Features - Rover Arm Details
+165	509.4	37	27	<i><color=#ef2929>Note:</color=#ef2929>  For robotic parts the movement in the editor may not match in flight exactly because the controller will change the target values and your creation’s physical capabilities will try to keep up.\r\n
+166	290.46	37	15	Once you have some curves set up, you can preview the sequence in the VAB/SPH. You can also open the Track Editor from the Controller part menu in flight to make adjustments.\r\n\r\n
+167	373.8	37	20	You can use this scrubber bar to move the current play position and preview at any time.
+168	528.39	37	28	Loop Mode (none, repeat, ping-pong)
+169	473.8	70	13	Track Editor - Preview & Play
+170	461.44	37	24	Change Sequence Length
+171	342.5	37	18	Rename Sequence
+172	461.44	37	24	Play Direction
+173	461.44	37	24	Close Editor
+174	461.44	37	24	Skip to Key
+175	232	37	12	Play
+176	290.46	37	15	The track editor toolbar speeds up track editting with various helpful functions.
+177	726.6	37	39	Mirror points in a row horizontally/vetically.
+178	726.6	37	39	Copy/Paste points from one row to another.
+179	726.6	37	39	Align tangents of the start & end points.
+180	726.6	37	39	Sharpen tangents of selected point.

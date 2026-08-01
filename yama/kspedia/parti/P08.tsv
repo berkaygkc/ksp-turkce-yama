@@ -1,0 +1,35 @@
+idx	kutu_w	font	kapasite	EN
+325	1966.27	40	98	As your kerbals get out and explore they will experience new and exciting situations. These translate to \nincreases in each kerbal's experience level and can increase their skill levels.\n\nEach kerbal gains experience from flybys, orbiting, flight, landing and planting flags on planets. The \nfurther from home they are, the more experience they will gain for each, but do note they only get XP \nfor the first time they complete one of these around each planet.
+326	1536.76	35	87	<color=#ef2929><i>Note:</i></color> Near death experience is unrelated to this topic, but a likely occurence in a kerbal's lifetime.
+327	573.71	40	28	EVA Interact with Experiments\n5x Lab Research\n9x Lab Research\n13x Lab Research\n17x Lab Research\n21x Lab Research
+328	1709.8	40	85	Kerbals gain skills based on their role and level. The skills add up as your kerbals advance:
+329	417.15	40	20	S.A.S. and Stability\nPrograde/Retrograde\nNormal/Anti-Normal\nTarget and Maneuver
+330	1448.18	40	72	Once a kerbal's total XP reaches the below values they will advance in levels:
+331	365.65	40	18	None\nRepack Chutes\nRepair Lander Legs\nRepair Wheels
+332	689.07	70	19	Experience and Levels
+333	567.53	70	16	Kerbal Experience
+334	519.12	70	14	Levels and Roles
+335	188.49	50	7	Total XP
+336	116.39	50	4	Level
+337	1901.38	40	95	As your career progresses you will find that you've outgrown your original Space Center. Luckily the \nKerbal Engineering department has your back, and through judicious application of Funds you can \nupgrade each of the facilities from basic to world class.
+338	1128.88	40	56	Whether by errant trajectory, decoupler issues or even \nnefarious circumstance you may find that you've damaged \none of the facilities at the Space Center.\n\nYou can recover from these issues by repairing the facility \n(at a cost of course).
+339	758.08	35	43	Result on Launchpad of misguided SRB disposal
+340	510.88	70	14	Facility Damage
+341	298.7	40	14	Awesome R&D
+342	283.25	70	8	Facilities
+343	206	40	10	Basic R&D
+344	156.56	40	7	+ Funds
+345	836.36	40	41	These strategies trade off one currency \nfor another over the long term, by affecting \ncosts and reward returns.\n\nYou will pay an initial setup cost based on \nthe commitment you are making, and will \nsee costs and rewards adjust from then on \nas you play.
+346	1973.48	40	98	These strategies are conversions of one currency to another on the spot. The setup cost is really what it \nwill cost you to get the reward, and they take effect immediately.
+347	1993.05	40	99	In the administration building you will find representatives for some KSC departments who will help you \nto alter how Funds, Reputation and Science are spent or earned.
+348	1896.23	40	94	Strategies come in two flavors, but all have a setup cost and allow you to adjust the commitment to \ntweak the return on your investment.
+349	766.32	70	21	Applying Some Strategy
+350	688.04	70	19	Conversion Strategies
+351	673.62	70	19	Immediate Strategies
+352	1950.82	40	97	It is important when you are looking at the tech tree, and what to research, that you look at future \nbranches too. If you are trying to build a rover, but don't research areas that lead to wheels, it's gonna \nbe a bumpy ride "rolling" on structural girders.
+353	781.77	40	39	This blueprint represents the master \nplan of the R&D department to discover \neverything.<color=#ef2929>*</color>\n\nEach node represents an area for growth\nand completing this research will unlock \nthe parts related to that area.
+354	1879.75	40	93	The core of any space program (aside from the actual space part of course) is in the research and \ndevelopment of technology to advance exploration. You do this through the application of Science \npoints in the R&D facility.
+355	733.36	70	20	Looking Into the Future
+356	702.46	70	20	Advancing Technology
+357	418.18	70	11	The Tech Tree
+358	1099.01	40	54	<b>Applicants:</b>\n<size=35>This is the list you can hire new staff from. You can see what role \neach applicant has specialized in as well as some basic info on \ntheir personalities.\n\nIn Career mode the cost to hire the applicants is shown at the top.</size>

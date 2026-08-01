@@ -1,0 +1,29 @@
+idx	kutu_w	font	kapasite	EN
+1615	1079.44	35	61	<color=#ef2929>Note:</color> The recovery and transmit bars that show the amount of total \nScience possible, and amount this report will earn.
+1616	656.11	40	32	You can see all the options for the \nreport in the result window.
+1617	803.4	70	22	Turning Data into Science
+1618	715.85	70	20	Bring It Back to Kerbin
+1619	1989.96	40	99	The most obvious way to generate Science is through activities. At its simplest this involves observations \nby the crew (crew or EVA reports), and works its way up through performing experiments all the way to \nprocessing data in a lab.
+1620	993.95	40	49	These involve the use of science parts to perform \nexperiments. These tend to generate more data, \nbut you do need to keep the subject in mind.\n\nFor example you won't get any siesmology readings \nif your vessel is in space.
+1621	991.89	40	49	A simple action the crew perform as required. Once \nyou have done these you will rarely get any reward \nfor repeating them with the same subject.
+1622	769.41	70	21	Experimenting for Profit
+1623	620.06	70	17	Experiment Reports
+1624	577.83	70	16	Crew/EVA Reports
+1625	2003.35	40	100	You can process your reports in the lab if there are scientists aboard your vessel. They will slowly process \nthe data into Science points (using lots of EC), before returning the report to you so you can deliver it to \nKerbin. The number and level of the scientists aboard affects how quickly the report data is converted \ninto Science.
+1626	1996.14	40	99	One other way to use the data you generate is with the MPL-LG-2 Mobile Processing Lab. This behemoth \nof a part is something you will have to work up to in career, but the benefits can be substantial.
+1627	1970.39	40	98	Another added side-effect is that the lab can "clean" Goo and Science Jr modules so they can be reused \nafter their data has been extracted.
+1628	727.18	70	20	Processing Data in Situ
+1629	1181.41	40	59	To transmit the report you will need a communications \nantenna and enough EC to send the data. If you do not have \nenough EC to send the data in one go then you can choose to \nreceive diminished returns (via the "Allow Partial" mode) or \nhave the report returned and try again ("Require Complete" \nmode - this is the default).\n\nAs usual there are a range of parts, and these have varied \ncapabilities regarding data throughput and EC required.
+1630	975.41	40	48	Transmitting the report means you will get Science \nwithout having to fly all the way home, but you will \nonly get a percentage of the recovery value.
+1631	1015.58	40	50	Another downside is that no matter how many times \nyou transmit the same experiment/subject combo \nyou cannot extract all the possible science.
+1632	922.88	40	46	Another way to get the data back to Kerbin is by \ntransmitting it.
+1633	872.41	70	24	Phoning It In - Remote Data
+1634	677.74	70	19	Transmission Options
+1635	1945.67	40	97	At the heart of every space program is the drive to get out there and explore what's beyond the home \nplanet. Here you'll find information to help you succeed in travelling through space.
+1636	1481.14	70	42	To Boldly Go Where No Kerbal Has Gone Before
+1637	744.6	35	42	From the themes panel you can select a Variant Theme and all parts with that theme will use if for new parts being placed. 
+1638	535.5	35	30	You can also apply that theme to all existing parts in the current vessel via this button.
+1639	744.9	35	42	You can also select the variant by name and color pattern in the Part Action Window.
+1640	525.5	35	30	Look for this icon to cycle between the available variants.
+1641	1184.1	40	59	Some parts now have different looks and shapes. \n
+1642	800.31	70	22	Variant Switcher

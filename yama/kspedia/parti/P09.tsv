@@ -1,0 +1,27 @@
+idx	kutu_w	font	kapasite	EN
+359	1432.73	40	71	<b>Roster Tabs:</b>\n<size=35>The three tabs here let you see available, assigned and lost astronauts. At the top you \nwill see the maximum roster size you can have with the current level of the facility.</size>
+360	661.26	40	33	<b>Lost Kerbals:</b>\n<size=35>These kerbals have had an unfortunate \n"accident" during their career. Don't \nworry too much, as they will find their \nway home eventually.\n\n\n</size>
+361	1034.12	40	51	This facility lets you manage your roster of astronauts.
+362	733.36	70	20	The Astronaut Complex
+363	998.07	40	49	<b>Strategy Details:</b>\n<size=35>The selected strategy details and effects are shown here. \n\nFor offered strategies you can use the slider to adjust the \ncommitment you wish to make before accepting. For active \nstrategies you have a big red button to cancel them.</size>
+364	689.07	40	34	<b>Active Strategies:</b>\n<size=35>Here you can see the strategies that are \ncurrently active, as well as the maximum \nnumber you can accept at the current \nlevel of the facility.</size>
+365	1020.73	40	51	<b>Available Strategies:</b>\n<size=35>These are the strategies that the division heads have to offer \nyou. Selecting one will show you more information.</size>
+366	1547.06	40	77	The admin interface has three main sections to use for managing your strategies.
+367	887.86	70	25	The Administration Building
+368	1939.49	40	96	This is your home for all things KSP-Related. You'll see it a lot as you move between different facilities, \ngetting all your kerbals organized for an epic space adventure.
+369	540.75	40	27	Funds/Reputation/Science
+370	763.23	70	21	The Kerbal Space Center
+371	197.76	40	9	Building\nShortcuts
+372	284.28	40	14	Time Controls
+373	284.28	40	14	App Launcher
+374	216.3	40	10	Exit/Pause
+375	1178.32	40	58	<b>Contract List:</b>\n<size=35>The three tabs here let you see available, active and completed \ncontracts. The number you can have active is related to how advanced \nthe Mission Control facility is.</size>
+376	1228.79	40	61	<b>Contract Details:</b>\n<size=35>The details of the selected contract and completion are shown here, \nalong with the buttons to accept, decline and cancel (if you're not up to it).\n\n\n</size>
+377	1965.24	40	98	Mission Control has a mass of information on contracts -- whether offered, active or complete. You can \npick and choose the goals for your space program and check prospective rewards.
+378	493.37	70	14	Mission Control
+379	1124.76	40	56	<b>Report Details:</b>\n<size=35>This list shows details about the reports that match your selected \nfilter. The progress bar shows you the amount of science you have \ncollected for that particular report compared to the amount of \nscience that can be collected. If the bar is full then there is no point \nrepeating that activity.</size>
+380	567.53	40	28	<b>Toolbar:</b>\n<size=35>Across the top (from left to right) \nare the Technology and Science \nArchives tabs; the current level of \nFunds, Reputation and Science; \nand the way out.\n</size>
+381	952.75	40	47	<b>Report Filters:</b>\n<size=35>Here you can filter the reports to be shown on the right.\nYou can filter by planet, experiment, situation and biome.\n\n\n</size>
+382	2007.47	40	100	The R&D Science Archives show your progress in scientific discovery. It stores all the valuable experiment \nresults that you have collected.
+383	1514.1	70	43	The Research and Development Science Archives
+384	1036.18	40	51	<b>Technology Details:</b>\n<size=35>The details of the selected tree node and associated parts \nare shown here. You can see the prerequisite nodes to unlock \nit (and the button to spend Science to do this if it's locked) as \nwell as the parts that make up the technology. At harder \ndifficulties you will spend Funds to unlock each of the parts.</size>

@@ -1,0 +1,49 @@
+idx	kutu_w	font	kapasite	EN
+1318	1999.23	40	99	The simple straight line example makes it seem easy, but space has more dimensions. Over time you will \nsee the correlation of this basic principle in every facet of orbital maneuvering.
+1319	2008.5	40	100	Everything about moving in space is about changing your vessel's velocity. Each maneuver is an equation \nwhere you trade fuel for velocity, and this is measured in delta-v.
+1320	1816.92	40	90	Delta-v (or Δv for short) is a measure of the impulse needed by a vessel to perform a maneuver.
+1321	832.24	70	23	Getting Three Dimensional
+1322	242.05	40	12	Acceleration\nManeuver
+1323	193.64	40	9	Braking\nManeuver
+1324	521.18	70	14	Doing the Maths
+1325	239.99	70	6	Delta-V
+1326	1999.23	40	99	Every maneuver you make uses propellant, and rockets have a finite supply. Choosing the best time (or \nplace) to make maneuvers determines whether you complete your mission, or have to get out and push. \nManeuver nodes are really useful in this situation, they help you see the "cost" of maneuvers before \nexecuting them. 
+1327	2012.62	40	100	Matching planes is a key maneuver involved in docking. The best place to do this is at the orbit nodes \nlabelled Ascending/Descending Node (AN/DN). When you select a target object these indicate where your \nvessel and the target's orbital planes cross.
+1328	950.69	40	47	Using a maneuver node we can "see" this in an \nexample. The delta-v (Δv) required to lower this \norbit's Pe to 50km at three points is shown below.
+1329	999.1	40	49	Adjusting the Ap/Pe is most efficient at the opposite \nnode. This means burning at the Ap to change the \nPe and vice-versa.
+1330	1687.14	40	84	Changing inclination is most efficient where your orbit crosses the equator of the planet.
+1331	154.5	40	7	<color=#ef2929><b>2</b></color>\n128 m/s
+1332	154.5	40	7	<color=#ef2929><b>1</b></color>\n260 m/s
+1333	130.81	40	6	<color=#ef2929><b>3</b></color>\n62 m/s
+1334	921.85	70	26	Adjusting Apoapsis/Periapsis
+1335	908.46	70	25	How to Maneuver Efficiently
+1336	769.41	70	21	Matching Orbital Planes
+1337	212.18	40	10	Orbit Point\nDelta-v
+1338	816.79	40	40	To raise your orbit you follow steps like:\n   1. Burn prograde;\n   2. Watch for the apoapsis to reach your \n       desired altitude;\n   3. Wait till you reach the new Ap;\n   4. Now burn prograde to circularize your \n       orbit;
+1339	1898.29	40	94	An orbital maneuver that transfers the vessel from one circular orbit to another. Here is how to use \nHohmann's design to move our orbit away from the planet (raising the orbit).
+1340	743.66	40	37	For an elliptical orbit the best place for \nStep 1. is the Pe of the current orbit.
+1341	1352.39	70	38	The Hohmann Transfer - Raising Your Orbit
+1342	415.09	50	16	Hohmann Transfer
+1343	220.42	35	12	Transfer Orbit
+1344	188.49	35	10	Target Orbit
+1345	211.15	40	10	Start Here
+1346	834.3	40	41	To lower your orbit you follow steps like:\n   1. Burn retrograde;\n   2. Watch for the periapsis to reach your \n       desired altitude;\n   3. Wait till you reach the new Pe;\n   4. Now burn retrograde to circularize your\n       orbit;
+1347	2007.47	40	100	This is the opposite of the last maneuver. Using Hohmann's design to move our orbit closer to the planet \n(lowering the orbit).
+1348	743.66	40	37	For an elliptical orbit the best place for \nStep 1. is the Ap of the current orbit.
+1349	1408.01	70	40	The Hohmann Transfer - Lowering Your Orbit
+1350	867.26	40	43	Equatorial orbit with a period equal to the \nplanet's rotation. This means the vessel stays \nabove the same point on the surface.
+1351	1935.37	40	96	There are an infinite number of orbits around a body. Here you'll see the names of some of the more \ncommon types.
+1352	670.53	40	33	Geostationary orbit around Kerbin.\n(Period: 6hrs , Altitude: 2863km)
+1353	883.74	40	44	Orbit with inclination of 0°, keeping the vessel \nover the equator.
+1354	873.44	40	43	Orbit with inclination of 90°, taking the vessel \nover the poles.
+1355	847.69	40	42	Orbit with both the Pe and Ap below 200km.
+1356	939.36	50	37	KerbiSynchronous Equatorial Orbit (KEO)
+1357	1049.57	70	29	Name That Orbit - Common Types
+1358	528.39	50	21	Low Kerbin Orbit (LKO)
+1359	453.2	50	18	Geostationary Orbit
+1360	287.37	35	16	KerbiSynchronous
+1361	370.8	50	14	Equatorial Orbit
+1362	252.35	50	10	Polar Orbit
+1363	165.83	35	9	Equatorial
+1364	85.49	35	4	Polar
+1365	63.86	35	3	LKO

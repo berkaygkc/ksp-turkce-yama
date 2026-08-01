@@ -1,0 +1,43 @@
+idx	kutu_w	font	kapasite	EN
+1437	1051.63	40	52	Do keep in mind you have to drill in the right place, this\ndrill has a 2.5% minimum concentration restriction.
+1438	1012.49	40	50	This is perfect for short hopping missions where you \nwant to touch down, extract some Ore and move on.
+1439	1238.06	40	61	Kerbal engineers have developed two sizes of drill for you to use.
+1440	466.59	70	13	Mining for Ore
+1441	346.08	70	9	Major Drill
+1442	302.82	70	8	Mini Drill
+1443	1914.77	40	95	You will find Ore in two different environments - on planets and within asteroids - let's start with \nplanetary mining. Finding a good place to mine is all about gathering intel. To do this there are three \nscanner components to help find a good spot for mining.
+1444	1990.99	40	99	To get an overall view of a planet's Ore concentration levels, position a vessel in polar orbit and then run \na scan with the M700 Survey Scanner. This will allow you to enable an overlay of the planet with Ore \ninformation.
+1445	584.01	35	33	<i><color=#ef2929><i>Note:</i></color> Your orbit needs to be a stable \npolar orbit (+/- 10 degrees), and \nwithin the altitude limits for the \nscanner and the specific planet.</i>
+1446	1110.34	40	55	Once the scan is completed there are a range of options \navailable in map mode to visualize the concentration data \nthat's been collected.
+1447	626.24	70	17	The Orbital Scanner
+1448	527.36	70	15	Finding Your Ore
+1449	1207.16	40	60	This scanner is used to get a hi-res view of the planet's surface, \ndirectly under the vessel. This can be used after an orbital \nscan to give more detail about Ore concentrations.
+1450	1325.61	35	75	<i><color=#ef2929><i>Note:</i></color> You do not have to complete an orbital scan before using the surface scanner.</i>
+1451	744.69	40	37	Once touched down, this scanner is \nused to "ground truth" the planet, and \nimprove the results from orbital scans.
+1452	664.35	40	33	There's a mass of information and \noptions here to help find the best \nplace to land and drill.
+1453	1417.28	40	70	Now that you have some idea of where the Ore hotspots are, what's next? 
+1454	815.76	70	23	The Narrow Band Scanner
+1455	626.24	70	17	Getting Ore Specific
+1456	636.54	70	18	The Surface Scanner
+1457	1396.68	40	69	The kerbal version of the easy-bake oven. This converter melts down Ore \nand produces LF, OX, MP or a combination of these depending on the \nchosen recipe.
+1458	1931.25	40	96	Ore is a chemical rich substance that has many uses. The drills extract Ore and you are going to need \nsomewhere to put it after it's extracted.
+1459	801.34	40	40	Like the drill there are two versions of the \n"Convert-O-Tron."
+1460	395.52	40	19	There are a range of \nstorage options for \nthe extracted Ore.
+1461	747.78	70	21	Storage and Conversion
+1462	479.98	70	13	Ore Conversion
+1463	378.01	70	10	Ore Storage
+1464	1067.08	40	53	Whether you are setting up a refuelling station for inter-\nplanetary travel, or just system hopping with a mini \nconverter to top up your fuel tanks, this section should \nhave some useful information for you.
+1465	1076.35	40	53	This versatile resource can be mined and converted to a \nnumber of useful substances.
+1466	1135.06	40	56	The solar system is rich in many things, one of which is Ore.
+1467	311.06	70	8	Resources
+1468	1109.31	40	55	All things rocketry related, and maybe a little more as well.
+1469	280.16	70	8	Rocketry
+1470	1419.34	40	70	Once a vessel clears the atmosphere aerodynamics become unimportant, \nunless you are landing on some planets. This means that things like the \nsatellite shown here do not need to be streamlined once they reach space.
+1471	1970.39	40	98	Once a fairing base is placed you "draw" the shape of the fairing panels with the mouse. Below you can \nsee how this satellite was stored.
+1472	1424.49	40	71	To protect a vessel from aerodynamic forces on ascent we can use fairings.
+1473	311.06	35	17	Building the fairing \nwith the mouse to \nwrap the satellite.
+1474	302	35	17	Attached to the top \nof the rocket on the\nfairing base.
+1475	339.9	35	19	Staging the fairing to \nreveal the satellite.
+1476	1264.84	70	36	Fairings for Aerodynamic Improvements
+1477	293.55	35	16	All packed in snug \nand tight.
+1478	576.8	70	16	Storing a Satellite

@@ -1,0 +1,150 @@
+idx	kutu_w	font	kapasite	EN
+590	2015.71	40	100	There is a lot you can do during construction. You will be picking and aligning parts, adjusting staging and \nalmost certainly coming back to add a chute that you forgot the first time.
+591	830.18	70	23	The Construction Interface
+592	453.2	40	22	Editor Info and Assists
+593	160.68	40	8	Toolbox\nFilters
+594	283.25	40	14	Vessel Details
+595	160.68	40	8	Parts\nToolbox
+596	273.98	40	13	Staging Stack
+597	284.28	40	14	Scene Actions
+598	149.35	40	7	Gizmos
+599	107.12	40	5	Parts
+600	104.03	40	5	Crew
+601	1336.94	35	76	<i><color=#ef2929><i>Note: </i></color>These show the stock game controls and do not reflect settings customizations.</i>
+602	1068.11	40	53	Toggle between translate and rotate (double tap to lock)
+603	208.06	26	16	<i>Forward /</i>\n<i>Backward</i>
+604	130.81	26	10	<b><i>Up / Down</i></b>
+605	382.13	37	20	Roll counterclockwise
+606	476.89	50	19	Translate Mode (LIN)
+607	337.84	40	16	Translate forward
+608	433.63	50	17	Rotate Mode (ROT)
+609	256.47	37	13	Translate right
+610	231.75	37	12	Translate left
+611	243.08	37	13	Roll clockwise
+612	293.55	40	14	Translate down
+613	273.98	37	14	Translate back
+614	474.83	70	13	Docking Modes
+615	239.99	37	12	Pitch forward
+616	250.29	37	13	Throttle down
+617	236.9	40	11	Translate up
+618	136.99	26	10	Left / Right
+619	197.76	37	10	Throttle up
+620	181.28	37	9	Pitch back
+621	47.38	27	3	<i>Yaw</i>
+622	131.8	33	7	Left Ctrl
+623	163.77	37	8	Yaw right
+624	139.05	37	7	Yaw left
+625	197.76	37	10	Spacebar
+626	64.89	27	4	Pitch
+627	48.41	27	3	Roll
+628	471.74	37	25	Cycle symmetry multiplier \nbackwards
+629	624.18	37	33	Toggle symmetry around craft/part
+630	551.05	37	29	Hold to rotate in 5° increments
+631	528.39	37	28	Scroll staging stack up / down
+632	556.2	37	30	Toggle symmetry mode on / off
+633	550.02	37	29	Hold to force node attachment
+634	459.38	37	24	Toggle angle snap on / off
+635	461.44	37	24	Cycle symmetry multiplier
+636	598.43	50	23	Part Adjustment Modifiers
+637	415.09	37	22	Activate search textbox
+638	358.44	37	19	Delete selected part
+639	335.78	37	18	Reset part rotation
+640	453.2	50	18	Symmetry and Snap
+641	290.46	37	15	Undo last action
+642	284.28	37	15	Redo last action
+643	473.8	70	13	Editor Controls
+644	175	33	10	Left Shift\n
+645	134.9	33	8	Left Ctrl\n
+646	132.9	33	8	Left Alt\n
+647	175.1	50	7	General
+648	70.4	24	5	Home
+649	70.4	32	4	Del
+650	70.4	35	4	End
+651	669.5	37	36	Roll part counterclockwise / clockwise
+652	621.09	37	33	Toggle absolute / relative to parent
+653	575.77	37	31	Toggle vessel / parent symmetry
+654	442.9	37	23	Pitch part forward / back
+655	340.93	37	18	Yaw part left / right
+656	435.69	50	17	Offset Mode/Gizmo
+657	447.02	50	17	Rotate Mode/Gizmo
+658	414.06	50	16	Place Mode/Gizmo
+659	431.57	70	12	Editor Gizmos
+660	225.57	37	12	Offset gizmo
+661	231.75	37	12	Rotate gizmo
+662	234.84	37	12	Reroot gizmo
+663	209.09	37	11	Place gizmo
+664	981.59	70	28	Extravehicular Activities (EVA)
+665	429.51	37	23	Jet roll counterclockwise
+666	551.05	50	22	Jetpack Specific Controls
+667	444.96	37	24	Toggle headlamp on / off
+668	392.43	37	21	Toggle jetpack on / off
+669	429.51	37	23	Toggle movement mode
+670	341.96	37	18	Walk or Jet forward
+671	290.46	37	15	Jet roll clockwise
+672	440.84	50	17	Movement Controls
+673	282.22	37	15	Walk or Jet right
+674	257.5	37	13	Walk or Jet left
+675	283.25	37	15	Walk or Jet back
+676	273.98	37	14	Grab / Clamber
+677	227.63	37	12	Board vessel
+678	218.36	37	11	Hold for run
+679	155.53	37	8	Jet down
+680	72.7	27	5	Left Alt
+681	103	37	5	Jet up
+682	92.7	37	5	Jump
+683	554.14	37	29	Lock / unlock staging activation
+684	731.3	70	20	General Flight Controls
+685	335.78	37	18	Activate next stage
+686	419.21	50	16	Vessel Orientation
+687	364.62	50	14	Throttle Control
+688	246.17	37	13	Throttle 100%
+689	202.91	37	10	Throttle 0%
+690	669.5	37	36	Activate custom action groups 1 to 10
+691	667.44	37	36	Cycle backwards through active ships
+692	592.25	37	32	Cycle camera views (auto/free/...)
+693	515	37	27	Toggle Stability Assist System
+694	501.61	37	27	Invert S.A.S. state while held
+695	539.72	37	29	Apply wheel brakes while held
+696	484.1	37	26	Activate abort action group
+697	452.17	37	24	Toggle IVA / external view
+698	464.53	37	25	Cycle through active ships
+699	445.99	37	24	Scroll staging stack down
+700	417.15	37	22	Set docking flight mode
+701	393.46	37	21	Scroll staging stack up
+702	406.85	37	21	Set staging flight mode
+703	399.64	37	21	Toggle precision mode
+704	589.16	70	16	In-Flight Activities
+705	474.83	50	18	Active Ship and View
+706	337.84	37	18	Toggle vessel lights
+707	557	37	30	Toggle landing gear
+708	278.1	50	11	Ship Control
+709	152.7	32	9	Caps Lock
+710	174.4	32	10	Backspace
+711	74	37	4	Ins
+712	852.84	37	46	Pitch, yaw and roll are the three axes of control \nin flight. The diagram on the right shows the \naxes relative to an aircraft, which is a more \nfamiliar scenario for most.
+713	838.42	37	45	The diagram below shows how the same axes \nrelate to a spacecraft with a Mk1 Pod (the pod \nbeing the defining part for the axes directions.)
+714	854.9	37	46	While visually on many craft you can see where \npitch, yaw and roll should be, it is not always \nthe case.
+715	711.73	35	40	The hatch on this pod identifies the "top"\nand can help you visualize the "up" direction.
+716	806.49	37	43	The NavBall is there to help you visualize the \nrotation accurately for all craft.
+717	882.71	70	25	Using the NavBall to Rotate
+718	600.49	70	17	Directions in Flight
+719	597.4	37	32	Turn view - left / right / up / down
+720	616.97	37	33	Toggle aerodynamic forces overlay
+721	490.28	37	26	Toggle temperature overlay
+722	487.19	37	26	Toggle temperature gauges
+723	417.15	37	22	Load specific quicksave
+724	373.89	37	20	Toggle results screen
+725	518	37	28	Toggle UI visibility
+726	361.53	37	19	Quickload (hold key)
+727	375.95	37	20	Quicksave as "name"
+728	313.12	37	16	Toggle ship labels
+729	527.36	70	15	General Controls
+730	365.65	50	14	Screen Elements
+731	289.43	37	15	Take screenshot
+732	373.89	50	14	Save/Load Game
+733	182.31	37	9	Quicksave
+734	172.01	37	9	Zoom out
+735	145.23	37	7	Zoom in
+736	150	25	12	Numpad
+737	169.95	50	6	Camera
+738	478.95	37	25	Reset focus to default item

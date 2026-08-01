@@ -1,0 +1,58 @@
+1084	Taradığın gök cismini ve etkin \ntarama modunu gösterir. Belirli bir \nkonum hakkında bilgi almak ya da \noraya bir yol noktası koymak için \nhedefleme imlecini sürükle.
+1085	Haritanın gök cismi üzerinde nerede \nolduğu hakkında bilgi ve hedeflenen \nkonum hakkında daha ayrıntılı veri \ngösterir.
+1086	Hedefleme imlecinin bulunduğu yere, \nhemen üstündeki metin kutusundaki adı \nkullanarak bir yol noktası koyar.
+1087	KerbNet arayüzü, KerbNet tarayıcılarındaki Aksiyon menüsünden açılır.
+1088	Veriyi daha net görebilmen için \nharitadaki bazı öğeleri soluklaştırır.
+1089	KerbNet'in belirlenmiş otomatik \nyenileme aralıkları arasında geçiş yapar.
+1090	Kullanılabilir tarama modları \narasında geçiş yapar.
+1091	Aracının altında yeni bir tarama yap.
+1092	Görüş Alanı Kaydırıcısı:
+1093	Kaplama Görünürlüğü:
+1094	Otomatik Yenileme:
+1095	Bilgi Paneli:
+1096	KerbNet Arayüzü
+1097	KerbNet Modu:
+1098	Yol Noktası:
+1099	Haritayı Tara:
+1100	Yenile:
+1101	Yüksek düzeyde özelleşmiş \nKerbNet tarayıcılarında bulunur. Bir \ngök cismindeki kaynak \nyoğunluklarının karşıt renk \nşemalarıyla ayrıntılı taramalarını \ngörmeni sağlar. \n\nBu da madencilik üslerini nereye \nkuracağına karar vermeni çok daha kolaylaştırır.
+1102	Gök cisminin arazi \nyüksekliklerinin temel tek renkli \ntaramasıdır. Hedefleme imlecini \nkonumlandırmak sana herhangi bir \nnoktadaki yüksekliği gösterir. \n\nÇoğu KerbNet tarayıcısında bulunur \nve güvenli iniş bölgeleri bulmak \niçin kullanışlıdır.
+1103	Daha gelişmiş \nKerbNet tarayıcılarında bulunur. Altındaki \ngök cisminin renkli bir biyom \nharitasını görmeni sağlar. \n\nBu da biyomdan biyoma atlamanı \noptimize etmeni sağlar.
+1104	KerbNet'in, tarayıcının yeteneklerine bağlı olarak üç çalışma modu vardır.
+1105	Tarama Modları
+1106	Kaynak Modu
+1107	Arazi Modu
+1108	Biyom Modu
+1109	Bazen bir tarama gerçekten beklenmedik bir şey yakalar ve \nbilim insanların bunu bir soru işaretiyle belirtir. \n\nBu anormal okumalar zaman zaman kaybolup yeniden \nbelirebilir, bu yüzden ileride incelemek üzere bunları \nbir yol noktasıyla işaretlemen önerilir.
+1110	KerbNet'teki her tarama modu, hedefleme \nimlecini bir konuma taşıyıp yol noktası \ndüğmesine tıklayarak haritaya özel adlı \nyol noktaları koymanı sağlar. \n\nHarita görünümünde üzerlerine tıklayarak \nbu yol noktalarına kolayca gidebilirsin.
+1111	Anomaliler
+1112	Yol Noktaları
+1113	Gidecek yerler ve görecek kerballarla, burada ihtiyacın olan yardımı bulacaksın.
+1114	Konumlar
+1115	Kerbin
+1116	Minmus
+1117	Mun
+1118	Kerbal Space Program'ı oynama ve onda başarılı olma hakkında bilgi bulabileceğin bir yer
+1119	Hızlandırma Eylemi: Alarma yaklaşıldığında zaman hızlandırmasına ne olacağını seç.\nMesaj: Alarm tetiklendiğinde verilecek mesajı seç.\nSeçenekler: Alarm sesini ve otomatik alarm silmeyi aç/kapat.\n
+1120	Çeşitli alarm türleri oluşturulabilir.  Bazılarının bir araç seçilmesini gerektirdiğini unutma.
+1121	Bu alarmın amacını takip etmene yardımcı olmaları için bunları kullan.
+1122	Kullanılabilir alarm türlerinin listesi. Aşağıda birkaç örnek var.
+1123	Belirli bir gök cismine geçiş penceresinin başlangıcı.
+1124	Alarm türüne göre değişen özel ayarlar.
+1125	Bir aracın yörünge yolu üzerindeki belirli noktalar.
+1126	Belirli bir aracın manevrasına bağlıdır.
+1127	Herhangi bir amaç için kullanıcı tanımlı zamanlama.
+1128	Zaman biçimleri arasında geçiş yap.\n
+1129	Alarm Saati – Alarm Oluşturma
+1130	Alarm Türü Seçimi:
+1131	Alarm Yapılandırması:
+1132	Başlık ve Notlar:
+1133	Yörünge konumu
+1134	Alarm Zamanlaması:\n
+1135	Alarm seçenekleri:
+1136	Alarm Türleri:
+1137	Manevra:
+1138	Ham Zaman:
+1139	Geçiş:
+1140	Alarm saati, kaçırmak istemediğin olaylar için alarm kurmanı sağlar. Bu, araçlardaki yaklaşan manevralar, geçiş pencereleri gibi olaylar için ya da hatırlatıcı olarak seçtiğin herhangi bir zaman için seni uyarabilir.
+1141	Bir alarm seçtikten sonra, alarmı Düzenlemek, alarmın ait olduğu araca Geçmek ya da alarm zamanına Hızlanmak için bu düğmelere tıklayabilirsin.

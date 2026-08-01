@@ -1,0 +1,43 @@
+547	Parça araç kutusundaki bir parçanın üzerine geldiğinde, o parçanın detaylarını açılır pencerede görürsün. \nAraç kutusundaki ikona <i>sağ tıklayarak  </i>ne kadar detay gösterileceğini ayarlayabilirsin. <i>Sağ tıklamak</i> ayrıca \npencereyi sabitleyerek uzun bilgi kutularını kaydırabilmeni sağlar.
+548	<b>Modül Detayları:</b>\n<size=35>Bu bölüm, parçayı oluşturan \nbelirli modüller hakkında daha \nfazla ayrıntı içerir.</size>
+549	<b>Genel Detaylar:</b>\n<size=35>Kütle, kaynak kapasitesi gibi \ntemel bilgiler, mürettebat kapasitesi ve daha fazlası.</size>
+550	<b>Açıklama:</b>\n<size=35>Her parçanın kullanımı ve \ngeçmişi hakkında biraz daha bilgi edin.</size>
+551	<b>Parça Adı ve Modeli:</b>\n<size=35>Referans için bir metrelik \nbir ölçek de dahildir.</size>
+552	<b>Maliyet:</b>\n<size=35>Kariyer modunda yapım \nmaliyetlerini takip etmek önemlidir.</size>
+553	Parça Detayları
+554	<b>Parça Seçici:</b>\n<size=35>Araç kutusundan parça almak ve \neditörde kullanmak için <i>sol tıkla</i>. \nİstemediğin parçaları atmak için \nburaya da bırakabilirsin.\n\n<b>Parça Detayları:</b></size>\n<size=35>Araç kutusundaki parçaya, ek bilgi \ngösterimini açıp kapatmak için <i>sağ tıkla</i>.</size>
+555	<b>Gelişmiş Mod:</b>\n<size=35>Gelişmiş mod </size> <size=35>etkinken, <i>sağ tıklayarak</i></size><size=35> birden fazla filtre kategorisine "ve" filtresi uygulayabilirsin; \nörneğin Sıvı Yakıt kaynağına sahip tüm Mk2 parçalarını seçmek için.</size>
+556	<b>Gelişmiş Modu Aç/Kapat:</b>\n<size=35>Kaynak türü, gövde boyutu, \nteknoloji seviyesi ve daha \nfazlasını içeren ek gelişmiş \nfiltreleri göstermek/gizlemek \niçin buna tıkla.</size>
+557	<b>Sıralama İşlemleri:</b>\n<size=35>Umarız bu kendini açıklıyordur... </size>\n<size=35>ama </size><size=35>açıklamıyorsa, sıralamak için bir etiketi sol tıkla </size>\nparçaları.
+558	Bir araç yapmak için ihtiyacın olan parçaları parça araç kutusunda bulursun. Filtreleri kullanarak \naradığın mükemmel parçaya yönelik bir arama yapabilirsin.
+559	<b>Özel Kategoriler:</b>\n<size=35>Burada en sevdiğin tarzlar \niçin parçaların özel \ngruplarını oluşturabilirsin.</size>
+560	<b>Alt Montajlar:</b>\n<size=35>Sonraki araçlarda yeniden kullanmak \nüzere parça montajlarını saklamak için bunu kullan.</size>
+561	Parça Araç Kutusu
+562	Arama Kutusu
+563	İki tür simetri vardır: dairesel ve ayna. Dairesel simetri genellikle roketlerde, merkez eksen \netrafına 2, 3, 4 veya daha fazla parça yerleştirmek için kullanılır. Ayna simetrisi ise genellikle uçaklarda, \nöğeleri merkez çizginin her iki tarafına yerleştirmek için kullanılır.
+564	Açı hizalama aracı, aracın merkez çizgisi etrafında \ntam açılar elde etmeyi kolaylaştırır. Varsayılan olarak 15° artışlarla çalışır; \n                 tuşunu basılı tutmak daha ince 5° adımlarla çalışmasını sağlar.
+565	Araçlarını yaparken dengelemene yardımcı olacak iki işlev vardır.
+566	2x Simetride Örnek Yerleştirme
+567	Simetri ve Hizalama
+568	2x Dairesel Simetri
+569	2x Ayna Simetrisi
+570	Açı Hizalama Kapalı
+571	Açı Hizalama Açık
+572	2x Simetri
+573	3x Simetri
+574	ve daha fazlası...
+575	Simetri Yok
+576	4x Simetri
+577	Açı Hizalama
+578	Simetri
+579	Dairesel
+580	Ayna
+581	Araç detayları paneli, mevcut \naracın adını ve açıklamasını \nayarlamanı sağlar.
+582	Sahne işlemi düğmeleri, aracına ne olacağı üzerinde kontrol sahibi olmanı sağlar.
+583	<b>Yeni Araç:</b>\n<size=35>Temiz bir sayfa aç ve sıfırdan başla.</size>
+584	<b>Aracı Fırlat:</b>\n<size=35>Aracı fırlatma rampasına/piste taşı.</size>
+585	Bayrağı değiştir düğmesi, mevcut \naraç için bayrağı ayarlamanı sağlar.
+586	<b>Aracı Kaydet:</b>\n<size=35>Aracını sonrası için kaydet.</size>
+587	<b>Aracı Yükle:</b>\n<size=35>Önceki bir tasarımı yükle.</size>
+588	Sahne İşlemleri ve Araç Detayları
+589	Editörden Çık

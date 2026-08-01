@@ -1,0 +1,43 @@
+idx	kutu_w	font	kapasite	EN
+1573	1571.78	40	78	Kerbal pilots and many probes can use the Stability Assist System (S.A.S.). This can \nhelp to keep your vessel pointed in the desired direction. The S.A.S. modes can be \nseen to the left of the NavBall here.
+1574	1886.96	40	94	S.A.S. uses control sources to apply force to get you back on target. If there's not enough force you \nmay need more control parts, or a different design.
+1575	586.07	35	33	<i><color=#ef2929><i>Note:</i></color> These will consume resources,  \nyou need to be mindful if you leave \nS.A.S. engaged for a long time.</i>
+1576	689.07	40	34	More advanced modes allow you to \ntarget other directions, as shown \nwith the matching NavBall markers.
+1577	691.13	40	34	At its most basic, S.A.S. will hold the \nheading of your vessel, this is called \nstability mode.
+1578	797.22	70	22	Assistance to Stay Stable
+1579	676.71	70	19	What's Pushing That?
+1580	216.3	40	10	Anti-Radial
+1581	216.3	40	10	Anti-Target
+1582	162.74	40	8	Stability
+1583	193.64	40	9	Maneuver
+1584	123.6	40	6	Target
+1585	1895.2	40	94	Carrying unneeded equipment with you uses much more fuel. Most rockets use stages to get rid of \nused SRBs, engines, fuel tanks or other parts that are no longer required.
+1586	1233.94	35	70	<i><color=#ef2929><i>Note: </i></color>Staging while engines are still running can have explosive consequences.</i>
+1587	668.47	40	33	Another benefit is that you are not \ngoing to try and land the whole \nlaunch vessel. Just the important \nparts.
+1588	653.02	40	32	Staging starts at the highest stage \nnumber. Each time you "stage" it \nactivates the next one.
+1589	793.1	70	22	What's Up With Staging?
+1590	114.33	35	6	Fourth \nStage
+1591	123.6	35	7	Second \nStage
+1592	86.52	35	4	First \nStage
+1593	91.67	35	5	Third \nStage
+1594	86.52	35	4	Final \nStage
+1595	597.4	40	29	Trying to add these manually \nis possible, but it will never be \nexactly balanced. If you do it \nmanually you will likely require \nconstant inputs to stay on \ncourse.
+1596	1226.73	40	61	Using radial symmetry and snap you can quickly add 2, 3, 4, etc \nparts around the center of the rocket, to maintain good balance.
+1597	1157.72	40	57	When attaching components to vessels, the symmetry tools \ncan help you keep things aligned with the CoM, CoT and CoL.
+1598	470.71	35	26	<color=#ef2929>Note: </color>There is also mirror \nsymmetry, which is especially \nuseful for building planes.
+1599	182.31	35	10	<i><color=#ef2929><i>Note:</i></color> the\nmisaligned\nthrust here.</i>
+1600	748.81	70	21	Symmetrical Sensibility
+1601	382.13	40	19	Level of Symmetry
+1602	415.09	50	16	Symmetry Helpers
+1603	126.69	40	6	and\nmore...
+1604	230.72	50	9	No\nSymmetry
+1605	60.77	40	3	Off
+1606	1349.3	40	67	When performing science activities it is key to understand the location \nfor the activity. These involve where you are - planet/biome - and what \nyou're doing - flying, orbiting, landed, etc. \n\nThis combination of situation, planet and biome is the subject of an \nexperiment - eg. landed at Minmus flats.
+1607	1302.95	40	65	Science points (or Science) are needed to research technology areas \nand unlock their related parts. These points are generated primarily \nthrough experiment and observation throughout the solar system. \n\nYou will also get some for passing milestones and completing some \ntypes of contracts.
+1608	1297.8	40	64	The scientific method is an all consuming passion for many kerbals, \nand luckily also a key to unlocking many technological advances for \nspaceflight. \n\nAn important function of your space program is to see how you can \nadvance science and technology for Kerbalkind.
+1609	687.01	70	19	The Subject of Science
+1610	337.84	35	19	Wernher von Kerman
+1611	565.47	70	16	Science and Space
+1612	442.9	70	12	Science Points
+1613	994.98	40	49	By choosing "Keep Experiment" the report will be \nstored to be recovered with the kerbal or vessel on \nKerbin's surface.\n\nThis usually nets you the best Science return, and is \nthe only way to extract all the possible Science from \nany experiment and subject combination.
+1614	711.73	40	35	When you perform activities a report \nwith the data is generated. \n\nThe primary method to extract the \nScience from that data, and advance \nkerbal knowledge, is to get the data \nback to Kerbin. 

@@ -1,0 +1,59 @@
+122	Eğriye anahtar eklemek için çizgiye çift tıkla\n
+123	Eğriyi değiştirmek için tutamakları sürükle
+124	Ya da kontrolörden kaldır\n
+125	Anahtarı bu düğmeyle kaldır\n
+126	Önce bir eğriyi düzenlemen gerekir:
+127	Düzenlemek için bir eğriyi genişletmeye tıkla
+128	Her track'ı burada yeniden adlandırabilirsin
+129	Track Oluşturma
+130	Eğriyi ayarlamak:
+131	Üç tür pervane bulunur; her biri farklı bir kullanım tarzına en uygun şekilde tasarlanmıştır. Çeşitli boyutlarda bulunurlar.
+132	Pervaneler genellikle bir rotora takıldığında en iyi çalışır. Kanallı fan kanatlarının ise buna uyan ayrı kanal parçaları vardır.
+133	Helikopter Kanatları
+134	Pervane Kanatları
+135	Pervaneler
+136	Fan Kanatları
+137	Taşıma kuvveti elde etmek için pervanenin havaya göre pozitif bir hücum açısında olacak şekilde döndürülmesi gerekir. Uçuş sırasında bir pervane kanadına sağ tıklayarak havaya göre hücum açısını ve ne kadar taşıma kuvveti ürettiğini görebilirsin.
+138	Pervaneleri doğru kullanmak, havanın pervane üzerinde nasıl hareket ettiğini iyi anlamayı gerektirir. Aşağıda hava akışının hem pervanenin dönüşüne hem de uçağın hızına nasıl bağlı olduğunu görebilirsin.
+139	Pervane Aerodinamiği
+140	Havaya Göreli Hız
+141	Pervane Hızı
+142	Hücum Açısı
+143	Araç Hızı
+144	KAL 1000 Kontrolör, birden çok parçayı sıralı biçimde çalışacak şekilde koordine eder. Asıl amacı robotik parçaları kontrol etmektir, ama bununla sınırlı değildir. Bir sekans oluşturmak için önce kontrol etmek istediğin parça alanlarını şu şekilde ekle:\n
+145	Ardından track düzenleyici aracını kullanabilirsin… (devamı)
+146	Parçayı kontrolöre ekle
+147	Kontrolörü seç\n
+148	Aksiyon Gruplarına git
+149	Robotik Kontrolör
+150	Bir parça seç\n
+151	Robotik; karmaşık hareketli parçalara sahip araçlar yapmak ve kontrol etmek için kullanılan hareketli parçalar bütünüdür.
+152	Robotik Kontrolör:\nRobotik parçaları koordine etmek isteyen ileri düzey robotikçiler için\n
+153	Dönüş Servoları
+154	Robotik Parçalar
+155	Piston\n
+156	Menteşeler
+157	Rotorlar
+158	Yüzey Özellikleri, gezegenler ve aylarda dağınık halde bulunabilen ve bir rover kolu ile incelenebilen ya da Kerballar tarafından toplanabilen nesnelerdir. Yüzey Özellikleri iki şekilde incelenebilir.
+159	Tüm Yüzey Özellikleri, özellikle büyük olanları, yeni bir alet olan Rover Kolu ile incelenebilir.
+160	Küçük Yüzey Özellikleri toplanıp analiz için geri getirilebilir.\n
+161	Yüzey Özellikleri - Genel Bakış
+162	Rover kolları, Yüzey Özelliklerini incelemek için kullanılan yeni bir bilim ekipmanı türüdür. Bunlar KSP için de yenidir - seviyeli olan ilk deneydir. Büyük rover kolları küçük türden daha fazla veri toplayabilir, ama bunlar ayrı deneyler değildir. Bu yüzden bir Yüzey Özelliğini en iyi kolla taradıktan sonra onu daha küçük bir kolla tekrar ziyaret etmene gerek yoktur.\n
+163	Tarama yaparken rover'ını yakına park ettiğinden ve hareketsiz kaldığından emin ol.\n
+164	Yüzey Özellikleri - Rover Kolu Ayrıntıları
+165	<i><color=#ef2929>Not:</color=#ef2929>  Robotik parçalarda, editördeki hareket uçuştaki ile tam olarak eşleşmeyebilir; çünkü kontrolör hedef değerleri değiştirir ve yaratımının fiziksel kapasitesi buna yetişmeye çalışır.\n
+166	Birkaç eğri oluşturduktan sonra sekansı VAB/SPH içinde önizleyebilirsin. Ayarlama yapmak için uçuş sırasında Kontrolör parça menüsünden Track Düzenleyici'yi de açabilirsin.\n\n
+167	Bu kaydırma çubuğunu kullanarak geçerli oynatma konumunu istediğin an değiştirip önizleyebilirsin.
+168	Döngü Modu (yok, tekrarla, ping-pong)
+169	Track Düzenleyici - Önizleme ve Oynatma
+170	Sekans Uzunluğunu Değiştir
+171	Sekansı Yeniden Adlandır
+172	Oynatma Yönü
+173	Düzenleyiciyi Kapat
+174	Anahtara Atla
+175	Oynat
+176	Track düzenleyici araç çubuğu, çeşitli yararlı işlevlerle track düzenlemeyi hızlandırır.
+177	Bir sıradaki noktaları yatay/dikey olarak yansıt.
+178	Noktaları bir sıradan diğerine kopyala/yapıştır.
+179	Başlangıç ve bitiş noktalarının tanjantlarını hizala.
+180	Seçili noktanın tanjantlarını keskinleştir.

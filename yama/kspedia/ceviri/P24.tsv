@@ -1,0 +1,51 @@
+1208	Bunlar, hedefine en yakın olacağın noktaları gösterir. Aşağı yönlü işaretçi etkin \naracın, yukarı yönlü işaretçi ise aynı anda hedefin konumunu gösterir.
+1209	<i><color=#ef2929><i>Not:</i></color> Yörüngenin rengi, etkin araç ile hedef aracı birbirinden ayırt etmene yardımcı olur.</i>
+1210	Aracın, yörüngesinde döndüğü gezegene en uzak (Ap) ve en yakın (Pe) olduğu noktalar.
+1211	Yörüngelere bakarken işine yarayacak birkaç gösterge vardır.
+1212	Kesişim İşaretçileri (En Yakın Geçiş):
+1213	Çıkış/İniş Düğümü:
+1214	Apoapsis/Periapsis Düğümü:
+1215	Aktif Araç
+1216	Hedef Araç
+1217	Yörünge Düğümleri
+1218	Yörünge çizgilerinin rengi ve tarzı önemli bilgiler sağlar. \n • Bir aracın yörüngesinde gradyan, aracın az önce bulunduğu yerin en parlak olduğu bir "iz"dir. \n • Gelecekteki yörünge yolları (manevra düğümlerinden sonra) kesikli çizgilerle gösterilir.
+1219	Yörünge yolunun bir gezegenin SOI'sinden çıkıp diğerine gireceği yeri gösterir. Bir yörünge SOI değiştirdiğinde yörünge rengi de değişir. SOI düğümünün rengi, SOI düğümünden önceki yörünge yoluyla ilişkilidir.
+1220	Bir manevranın planlandığı yer. Manevradan sonraki yörünge yolu, manevra düğümüyle aynı renktedir.
+1221	<b>SOI Değişiminde Mun</b>\n<size=35>Bu yörünge parçası için Mun'un \nPe'de nerede olacağını gösterir.</size>
+1222	<color=#f2f2f2>Gelecek Yol</color>\n3. Parça
+1223	<color=#f2f2f2>Gelecek Yol</color>\n1. Parça
+1224	<color=#f2f2f2>Gelecek Yol</color>\n2. Parça
+1225	Etki Alanı Değişimi (SOI):
+1226	Yörünge Çizgileri ve Renkleri:
+1227	Yörünge Düğümleri (devamı)
+1228	Manevra Düğümü:
+1229	Aktif \nAraç
+1230	Bu, haritadan görünümdür. Burada etkin araç ve uzaydaki diğer yakın nesneler için \nbüyük resmi görürsün.
+1231	Kerbal ve \nİnmiş Araç
+1232	NavBall ve Aç/Kapat
+1233	Harita Arayüzü
+1234	Aktif \nAraç 
+1235	Diğer \nAraç
+1236	Araç Filtresi
+1237	Gök Cismi\nİşaretçisi
+1238	Yörüngede kalabilmek için uzayda olman gerekir, yoksa atmosferin sürüklenmesi \nseni yavaşlatır. Atmosfer içinde yörüngeye girmeye çalışsaydın, motorları \nsürekli çalıştırman gerekirdi - ki bu gerçek anlamda yörüngede olmak değildir.
+1239	Kerbin'in etrafında ince bir atmosfer katmanı vardır. Bu katman yere yakın yerde \nen yoğunudur ve uzaya çıktıkça hiçliğe kadar incelir. Kerbin böyle olan tek \ngezegen değildir, ama bu bölüm için önemli olan budur.
+1240	Kerbin'in etrafında atmosfer, deniz seviyesinden uzayın başladığı yere kadar \n70 km uzanır.
+1241	Atmosfer ve Sen
+1242	Geri aşağı inmek nispeten basittir. Aracı yüzeye \ndönmesi için yeterince yavaşlatacak \nretrograde yönünde yakma yaparsın.
+1243	Aracı sadece atmosfere girecek kadar \nyavaşlatman yeterli, aerodinamik \nsürüklenme de seni epey yavaşlatacaktır.
+1244	Ha bir de, paraşütü \nyanına aldığını umalım...
+1245	Nasıl Geri İneceğimize Bakalım
+1246	Burada retrograde yak
+1247	Mevcut Yörünge
+1248	İniş
+1249	Alçalma
+1250	Bu planın iki büyük sorunu var:\n  1. İstediğin rakıma ulaşmak için, doğru yükseklikte çıkışını "durdurman" gerekir.\n  2. Ardından, yörüngeye girmek için tüm yatay hızı eklemen gerekir.
+1251	O halde en basit yönteme bakalım. Dosdoğru yukarı çıkıp, yörünge \nrakımına ulaştığında Doğu'ya dönmek.
+1252	Yukarı çıkan her şeyin \naşağı <b><i>mutlaka</i></b> ineceğini unutma
+1253	Dosdoğru Yukarı Çıkmak - İlk Hatan
+1254	İstenen Yörünge
+1255	Aşağıda gördüğün şekle yerçekimi dönüşü denir. Bu çıkışta, itkinin \nbir kısmını yatay hıza çevirmek için yerçekiminden yararlanırsın.
+1256	Buradaki kilit nokta, atmosfere karşı mücadele ederek \nyakıt israf edecek kadar hızlı ivmelenmemektir.
+1257	Bu, apoapsiste yörünge hızına ivmelenmek için çok daha az yakıta ihtiyacın olduğu anlamına gelir.
+1258	Yerçekimi "İle" Dönmek

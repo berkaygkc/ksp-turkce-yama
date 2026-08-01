@@ -1,0 +1,48 @@
+1318	Basit düz çizgi örneği işi kolay gösteriyor, ama uzayın daha fazla boyutu var. Zamanla bu temel \nilkenin yörünge manevralarının her yönünde nasıl geçerli olduğunu göreceksin.
+1319	Uzayda hareket etmekle ilgili her şey, aracının hızını değiştirmekle ilgilidir. Her manevra, yakıtı hızla \ntakas ettiğin bir denklemdir ve bu delta-v ile ölçülür.
+1320	Delta-v (kısaca Δv), bir aracın manevra yapabilmesi için ihtiyaç duyduğu itkinin ölçüsüdür.
+1321	Üç Boyuta Geçiş
+1322	Hızlanma\nManevrası
+1323	Frenleme\nManevrası
+1324	Hesabı Yapmak
+1325	Delta-V
+1326	Yaptığın her manevra yakıt harcar ve roketlerin yakıt kaynağı sınırlıdır. Manevra yapmak için en iyi \nzamanı (ya da yeri) seçmek, görevini tamamlayıp tamamlayamayacağını ya da inip itmen mi \ngerekeceğini belirler. Manevra düğümleri bu durumda gerçekten faydalıdır; manevraları \nuygulamadan önce "maliyetlerini" görmeni sağlarlar. 
+1327	Düzlemleri eşleştirmek, kenetlenmenin önemli bir manevrasıdır. Bunu yapmanın en iyi yolu, Çıkış/İniş \nDüğümü (AN/DN) olarak adlandırılan yörünge düğümlerinde yapmaktır. Bir hedef nesne seçtiğinde bu \ndüğümler, aracının ve hedefin yörünge düzlemlerinin nerede kesiştiğini gösterir.
+1328	Bir manevra düğümü kullanarak bunu bir örnekte "görebiliriz". \nBu yörüngenin Pe'sini 50km'ye indirmek için gereken \ndelta-v (Δv) değeri üç noktada aşağıda gösteriliyor.
+1329	Ap/Pe ayarlamak en verimli şekilde karşı \ndüğümde yapılır. Yani Pe'yi değiştirmek için \nAp'ta yakma yapılır, ya da tam tersi.
+1330	Yörünge eğimini değiştirmek, yörüngenin gezegenin ekvatorunu kestiği noktada en verimlidir.
+1331	<color=#ef2929><b>2</b></color>\n128 m/s
+1332	<color=#ef2929><b>1</b></color>\n260 m/s
+1333	<color=#ef2929><b>3</b></color>\n62 m/s
+1334	Apoapsis/Periapsis Ayarlamak
+1335	Verimli Manevra Yapmanın Yolu
+1336	Yörünge Düzlemlerini Eşleştirmek
+1337	Yörünge Noktası\nDelta-v
+1338	Yörüngeni yükseltmek için şu adımları izle:\n   1. Prograde yönünde yak;\n   2. Apoapsisin istediğin rakıma \n       ulaşmasını bekle;\n   3. Yeni Ap'a ulaşana dek bekle;\n   4. Yörüngeni daireselleştirmek için \n       tekrar prograde yönünde yak;
+1339	Aracı bir dairesel yörüngeden başka bir dairesel yörüngeye taşıyan bir manevra. İşte Hohmann'ın \ntasarımını kullanarak yörüngemizi gezegenden uzaklaştırmanın (yörüngeyi yükseltmenin) yolu.
+1340	Eliptik bir yörüngede 1. adım için \nen iyi yer, mevcut yörüngenin Pe'sidir.
+1341	Hohmann Geçişi - Yörüngeni Yükseltmek
+1342	Hohmann Geçişi
+1343	Geçiş Yörüngesi
+1344	Hedef Yörünge
+1345	Buradan Başla
+1346	Yörüngeni alçaltmak için şu adımları izle:\n   1. Retrograde yönünde yak;\n   2. Periapsisin istediğin rakıma \n       ulaşmasını bekle;\n   3. Yeni Pe'ye ulaşana dek bekle;\n   4. Yörüngeni daireselleştirmek için\n       tekrar retrograde yönünde yak;
+1347	Bu, bir önceki manevranın tam tersidir. Hohmann'ın tasarımını kullanarak yörüngemizi gezegene \nyaklaştırmak (yörüngeyi alçaltmak).
+1348	Eliptik bir yörüngede 1. adım için \nen iyi yer, mevcut yörüngenin Ap'ıdır.
+1349	Hohmann Geçişi - Yörüngeni Alçaltmak
+1350	Periyodu gezegenin dönüşüyle aynı olan \nekvatoral bir yörünge. Bu, aracın yüzeydeki \naynı noktanın üzerinde kalması anlamına gelir.
+1351	Bir cismin etrafında sonsuz sayıda yörünge olabilir. Burada bunların en yaygın türlerinden bazılarının \nadlarını göreceksin.
+1352	Kerbin etrafında yerdurağan bir yörünge.\n(Periyot: 6sa , Rakım: 2863km)
+1353	0° eğimli, aracı ekvatorun \nüzerinde tutan bir yörünge.
+1354	90° eğimli, aracı kutupların \nüzerinden geçiren bir yörünge.
+1355	Pe'si ve Ap'ı da 200km'nin altında olan bir yörünge.
+1356	KerbiSynchronous Ekvatoral Yörünge (KEO)
+1357	Yörüngeyi Tanı - Yaygın Türler
+1358	Alçak Kerbin Yörüngesi (LKO)
+1359	Yerdurağan Yörünge
+1360	KerbiSynchronous
+1361	Ekvatoral Yörünge
+1362	Kutupsal Yörünge
+1363	Ekvatoral
+1364	Kutupsal
+1365	LKO

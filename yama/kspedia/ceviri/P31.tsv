@@ -1,0 +1,41 @@
+1532	Roketlerin ana motorlarıdır. Bunların \ndeğişken itkisi vardır ve bağlı sıvı \nyakıt (LF) ve oksitleyici (OX) tankları gerekir.
+1533	Katı Yakıtlı Roket (SRB)
+1534	Sıvı Yakıt Motoru (LFE)
+1535	Roket Motoru Türleri
+1536	İyon Motoru
+1537	Dikey itkin ağırlığın + sürüklenmeden \nfazlaysa yıldızlara doğru gidiyorsun \ndemektir. \n\nTersi doğruysa daha az "muhteşem" \nyerlere gidiyorsun demektir.
+1538	Bu aerodinamik kuvvet, roket \nhavada hareket ederken oluşan \nhava direncinden kaynaklanır.
+1539	Bu kuvvet, roketi aşağı çeken \nyerçekiminden gelir.
+1540	Bu kuvvet, motorların roketi \nileri iten kuvvetidir.
+1541	Roketlere Etki Eden Kuvvetler*
+1542	Kerballar, araçlarındaki kapaklardan araca girip \nçıkar. Bu kapaklar her zaman aynı yerde olmasa da \naçıkça işaretlenmiştir.
+1543	Dönüş yolculuğunda araca binmene yardımcı olacak çeşitli \nmerdivenler bulunur. Bazen kapak, yardımcı \nbasamaklar olmadan tam yetişemeyeceğin kadar yüksekte olur.
+1544	Kullanmak istiyorsan bir kapağın üzerine inmediğinden ya da onu engellemediğinden emin ol.
+1545	Giriş ve Çıkış
+1546	Araca Binmek
+1547	Bu sonda çekirdeği modu, çekirdeğin elektrik tüketimini azaltarak pillerindeki elektrik yükünden tasarruf etmene yardımcı olur. Bunun bedeli ise, bir sonda çekirdeğini uyku moduna aldığında bazı işlevlerini kaybetmesi ve Kısıtlı Kontrol Moduna geçmesidir. Uyku Modu, Parça Aksiyon Menüsü üzerinden etkinleştirilir; Gelişmiş İnce Ayarlar açıldığında ise uyku modunun zaman hızlandırma sırasında otomatik olarak devreye girmesini de sağlayabilirsin.
+1548	Bu modda olmak, sonda çekirdeğinin manevra düğümü ayarlama yeteneğini kaybettiği<color=#ef2929>* </color>anlamına gelir. Ayrıca yön değiştiremez (SAS modları seçmek dışında) ya da hassas gaz kontrolü kullanamaz. Tabii ki, gemide Kerballar (veya ek sonda çekirdekleri) varsa, bu işlevlerin bir kısmını araç için hâlâ onlar sağlayabilir.
+1549	Çoğu sonda çekirdeğinde, uyku modunda güç tüketimi normalin %1'ine düşer. Bazı yüksek teknolojili sonda çekirdekleri bundan bile daha iyisini yapabilir! Bu yüzden, sistemin karanlık dış bölgelerine bir yolculuğa çıkarken ve EC üretim oranın düşük ya da sıfıra yakınken uyku moduna geçmek gerçekten işe yarayabilir.
+1550	<color=#ef2929>* </color>Kontrol modları hakkında daha fazla bilgi için: İletişim Ağı/CommNet/Kontrol Bağlantıları sayfasına bak
+1551	Kısıtlı Kontrol Modu
+1552	Uyku Modu\n\n
+1553	Şüphesiz en yaygın kaynaklardır. \nSıvı Yakıt (LF) ve Oksitleyici (OX), \nroket motorlarının çoğunu çalıştırmak \niçin birlikte kullanılır.
+1554	Yüksek verimli iyon motorlarının \nkullandığı yakıttır. İyon motorlarının çalışması için EC de gerekir.
+1555	EC, tüm elektronik parçalar tarafından kullanılır ve \ninsansız araçlar için kritik önem taşır.
+1556	Çoğunlukla RCS tarafından kullanılır, "kontrol" \nittiricilerinin yakıtıdır.
+1557	Elektrik Yükü (EC)
+1558	Monopropellant (MP)
+1559	Roket Yakıtları
+1560	Ksenon Gazı
+1561	Burada gerçekten eşyaları uzaya fırlattığımızı düşününce, bazen dış etkenlere karşı \nkorumaya ihtiyaç duyulur - hem fırlatma hem de atmosfere giriş sırasında.
+1562	Tam donanımlı laboratuvarlardan hassas gravioli dedektörlerine kadar uzanan \nekipmanlarla yapabileceğin çok çeşitli deneyler vardır.
+1563	Bu yardımcı parçalar, küçük bileşenleri sürüklenme, ısı ve \nküçük çarpışmalardan korumak için bir arada tutabilir.
+1564	Hassas Bilim Ekipmanını Korumak
+1565	Servis Kapları
+1566	Bilim Parçaları
+1567	Taşıma merkezini (CoL) kütle merkezinin (CoM) \narkasında tutacak şekilde inşa edersen, roket \nüzerindeki aerodinamik kuvvetler onu dengede tutmana yardımcı olur.
+1568	Bu yöntem, seni doğru yönde tutmaya yardımcı \nolmak için statik dengenin bazı \nilkelerini kullanır.
+1569	Bir roketi düz uçmak "isteyecek" şekilde \ntasarlamak, karşılaşacağın ilk zorluklardan biridir.
+1570	Taşıma Merkezi ile Kütle Merkezi
+1571	Her Şeyi Güzelce Dengeleyelim
+1572	Statik Denge

@@ -1,0 +1,63 @@
+931	Uçuştaki herhangi bir araç için Manevra Aracını uygulama çubuğundan aç. Kariyer modunda oynarken seviye 3 Takip İstasyonu gerekir.
+932	Mevcut aracın yörünge planının, manevra oluşturmak istediğin bölümünü seç ve zaman biçimini burada belirle.
+933	Manevra aracı, geçiş ve yakalama manevraları çizmende sana yardımcı olur.
+934	Üzerine geldiğin kontrol hakkında yararlı bilgiler burada görünür.
+935	Manevra Yapılandırması:
+936	Manevra Seçenekleri:
+937	Manevra Oluştur:
+938	Manevra Aracı\n
+939	Yardım Metni:
+940	Uygulama Simgesi:
+941	Mod kontrolü, aracının girdileri ve kontrolüyle ilgili önemli bilgi gösterir. Aşamalama, kenetlenme ve \nharita modları arasında değiştirilebilir.
+942	İki kenetlenme \nmodu için özel kontrol girişi \ngöstergelerini gösterir: dönüş (DÖN) \nve öteleme (DOĞ). 
+943	Etkin aşama numarasını \nve aşama kilidi göstergesini \ngösterir (yeşil: hazır, mor: kilitli).
+944	PYR Göstergelerinin, hassas \nmod etkinleştirildiğinde maviye \ndönüştüğünü unutma.
+945	Üç giriş ekseninin durumunu \nve uygulanan trimi gösterir.
+946	Aşamalama, kenetlenme \nve harita modlarını etkinleştirir.
+947	Yunuslama/Sapma/Yatış Göstergeleri:
+948	Aşamalama Göstergeleri:
+949	Hassas Mod:
+950	Mod Düğmeleri:
+951	Kenetlenme Modu:
+952	Mod Kontrolü
+953	Bu, aracının yönelimini anlamana yardımcı olur. Bunu üç boyutlu bir pusula gibi düşün: kürenin \nmavi yarısı, yörüngesinde olduğun gök cismine göre dışarıyı gösterir (inmişken bazen gökyüzü \nolarak bilinir), kahverengi yarısı ona doğrudur (yer) ve aralarındaki çizgi yapay \nufuk çizgisidir.
+954	NavBall üzerinde, referans noktalarını gösteren çeşitli semboller görürsün:
+955	Denge Desteği\nModu Göstergesi
+956	Denge Desteği Göstergesi
+957	Gaz Göstergesi
+958	Yapay Ufuk
+959	Manevra Prograde
+960	NavBall İşaretleri
+961	Seviye Göstergesi
+962	Araç Yönü
+963	G Kuvveti Göstergesi
+964	RCS Göstergesi
+965	Antinormal
+966	NavBall
+967	Retrograde
+968	Radial-Out
+969	Radial-In
+970	Prograde
+971	Normal
+972	Bir parçayı onarmak için, envanterinde onarım kiti bulunan bir mühendisle EVA yap. Hasarlı parçaya yaklaş, eylem menüsünü aç ve Onar'a tıkla.
+973	Onarımı gerçekleştirmek için onarım kitleri tüketilir. Daha büyük parçaların onarılması için birden fazla onarım kitinin malzemesi gerekir.
+974	Bazı parçalar, uzay yolculuğunun getirdiği zorluklar nedeniyle hasar görebilir.
+975	Kerballar, bir onarım kiti kullanarak bu bozuk parçaların çoğunu onarabilir.
+976	Onarımları Gerçekleştirmek
+977	Parça Onarımları
+978	Onarım Kitleri
+979	Uçuş sırasında, astronotlarının korkusunu -daha doğrusu heyecanını- sağ alt köşedeki \nportreler aracılığıyla izleyebilirsin. Belirli bir kerbalın üzerine gelmek, onun hakkında ayrıntılı bilgi verir.
+980	Araç İçi Etkinlik (IVA) \nolarak da bilinir. Kamerayı \nbu kerbalın bakış açısını \ngösterecek şekilde değiştirir.
+981	Kerbalın adı. İmleç bir portrenin \nüzerine geldiğinde rolü ve \nbeceri seviyesi gösterilir.
+982	Aracın iç mekanlarını ortaya çıkarır. Perdenin \narkasındaki adama bakmak gibidir.
+983	*Atmosferde uçarken EVA yapmak, bir kerbalın sağlığına zararlı olabilir.
+984	Araç Dışı Etkinlik (EVA): bu \nkerbal uzay aracından çıkacak.*
+985	Listede kaç portre \ngösterileceğini ayarla.
+986	İç Mekan Göstergesi Modu
+987	Kerbal Bilgisi
+988	Görünüm Eylemi (IVA)
+989	Yuva Ekle/Kaldır
+990	Kerbal Portreleri
+991	EVA Eylemi
+992	Aşamalama yığını, aracın mevcut ve gelecek aşamalarını görselleştirmene yardımcı olur. Uçuş modunda \nçalışan motorlara ne kadar yakıt bağlı olduğunu gösterir, ayrıca aşamaları "anında" ayarlamana da olanak tanır.
+993	<b>Boş Aşamayı Kaldır:</b>\n<size=35>Simgenin yanındaki aşamayı siler.</size>\n<i><size=35><color=#ef2929><i>Not:</i></color></size><size=35><i> bu yalnızca boş aşamalarda çalışır</i></size>.</i>

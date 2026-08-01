@@ -1,0 +1,47 @@
+1	Görev Oluşturucu, kendi uçuş planlarını ve mücadelelerini oluşturduğun yerdir. Ardından bunları kendin başlatabilir, hatta tüm dünyayla paylaşabilirsin.
+2	Oluşturucu
+3	Oluşturucunun üst kısmında Araç Çubuğu bulunur. Burada Yeni Görev oluşturmak, Görevleri Kaydetmek ve Yüklemek, Görev Genel Bakışı almak ve Görevini Test Etmek için gereken simgeleri bulursun.
+4	Bu, Görevle ilgili tüm önemli bilgileri Takip İstasyonu görünümünde gösterir. \nBunu, Görevini Güneş Sistemi'ne göre genel olarak görmek için kullan.
+5	Bunu, Görevini gözden geçirmek ve Genel Puan veya Ödüllerde değişiklik yapmak için kullan.
+6	Görevini kurarken aşama aşama test et.
+7	Takip İstasyonu'nda Görüntüle:
+8	Görev Oluşturucudan Çık
+9	Görev Brifingi:
+10	Oluşturucu Araç Çubuğu
+11	Görevi Test Et:
+12	Görevi Aç
+13	Görevi Kaydet
+14	Yeni Görev
+15	Tuval, Görevi oluşturmak için düğümlerin yerleştirilip birbirine bağlandığı yerdir. Tuval üzerinde iki veya daha fazla düğüm olduğunda, bunları birbirine bağlayarak Görevinin izleyeceği yolları oluşturabilirsin. Tuvali kaydırabilir, ekranda istediğin kadar (ya da istemediğin kadar az) bilgi görmek için yakınlaştırıp uzaklaştırabilirsin.
+16	<b>Kenar Çubuğunu </b>ve <b>Aksiyon Panelini</b> Gizle/Göster
+17	Doğrulama Raporu
+18	Görev adını düzenle
+19	Büyüt/Geri Yükle
+20	Doğrulamayı Çalıştır
+21	Düğümleri Düzenle
+22	Yakınlaştır/Uzaklaştır\n
+23	Panelleri Sıfırla
+24	Görünüme Sığdır
+25	Geri Al/Yinele
+26	Tuval
+27	Bir görevi <b>paylaşmak</b> için onu <b>dışa aktarman</b> gerekir. Görevi dışa aktarmak, tüm gerekli verileri dünyayla paylaşılabilecek kullanışlı bir dosyada paketler. \n\nBir Görevi <b>içe aktarmak</b> için zip dosyasını indirmen, ardından içe aktarılan Görev Klasörünü KSP dizinindeki Missions klasörüne çıkarman gerekir.\n\n
+28	<b>Görev Doğrulama Raporu</b> simgesini göz önünde bulundur - kırmızıysa Görevde sorun olabileceğini gösterir, yeşilse her şey yolunda demektir.
+29	Bir Görev Doğrulamasını elle çalıştırmak için buraya tıkla - Görevin durumu Görev Doğrulama Raporu simgesinde gösterilecektir.
+30	Dışa aktarılan Görevi, ana KSP dizinindeki <b> _Exports </b> klasöründe bulabilirsin.
+31	İçe Aktarma / Dışa Aktarma / Doğrulama
+32	Uygulamanın Oluşturucu sürümü, bir araç inşa ederken sana yardımcı olabilir - araç kısıtlamalarını ve uyulması gereken diğer şartları bildirir.\n\nOluşturucuda, üzerinde çalışılan Aracı değiştirmek için Görev Uygulamasını kullanabilirsin. Ayrıca Aracın yapımını VAB ile SPH arasında taşımayı da seçebilirsin.\n
+33	Uçuş içi sürüm, hangi hedeflere ulaştığını ve hangilerinin sırada olduğunu gösterir - ayrıca bir Görevin nerede biteceğini ve dallanan yolların nerede oluşabileceğini de gösterir.
+34	Görev Uygulamasının, bir görev sırasında sana yardımcı olma konusunda iki yolu vardır - bir Oluşturucu sürümü ve bir uçuş sürümü.\n\n
+35	Görev Uygulaması
+36	Grafiksel Aksiyon Paneli (GAP), SAP'ta gösterilen bazı ayarların görsel bir temsilidir.\nGAP, SAP'taki bir ayara tıklanarak açılır - GAP işlevi olan ayarların yanında bir göz simgesi gösterilir.
+37	GAP'ı kullanarak kullanılabilecek (veya kullanılamayacak) parçaları seçmek, bir gök cisminin istenen Yörüngesini değiştirmek, bir gezegene hedef yerleştirmek ve daha pek çok görevi gerçekleştirebilirsin.
+38	Görüntülenen öğeye bağlı olarak GAP yakınlaştırılabilir, uzaklaştırılabilir, döndürülebilir ve pek çok farklı şekilde kullanılabilir.
+39	GAP
+40	GAP üzerinde, işlevlere hızlı erişim sağlayan bağlamsal simgeler gösterilir. Burada gösterilenler, bir Yörünge üzerinde ince ayar yaparken görülenlerle ilgilidir.
+41	Gök Cismi Seçici
+42	Kaynakları Göster\n
+43	Filtre Düğmeleri
+44	Bağlam Paneli
+45	Işık Kaydırıcısı
+46	Kilit Düğmesi
+47	Yakınlaştırma Kaydırıcısı

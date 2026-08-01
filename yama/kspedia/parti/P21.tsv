@@ -1,0 +1,44 @@
+idx	kutu_w	font	kapasite	EN
+1041	1293.68	40	64	While the sun and planetary radiation will heat your vessel, parts on\nyour craft will generally be of much greater concern.
+1042	1290.59	40	64	Engines will be used for the main example here, although there are \nother parts that generate heat too e.g. RTGs.
+1043	350.2	35	20	 * Body radiation not \nshown to save space.
+1044	809.58	70	23	Engines and Heat Sources
+1045	721	70	20	The Flow From Engines
+1046	146.26	40	7	Engine\nModule
+1047	130.81	40	6	Rocket Engine
+1048	154.5	40	7	Exhaust
+1049	1223.64	40	61	The diagram below shows how all these systems come together \nin a simple vessel.
+1050	429.51	35	24	Solar and body radiation \naffects all skin components
+1051	519.12	70	14	Feeling the Flow
+1052	154.5	40	7	Exhaust\n / Waste
+1053	162.74	40	8	Radiator\nPanel
+1054	88.58	40	4	Mini ISRU
+1055	92.7	40	4	RCS Tank
+1056	72.1	40	3	Pod
+1057	1248.36	40	62	In the KSP thermal model these are the "basic" rules:\n • Each part has connected internal and skin components;\n • Connected parts have their individual components connected - \n    ie. Skin↔Skin and Internals↔Internals\n • Heat "flows" between connected components to equalize \n    temperature over time - this is via conduction;\n • Via radiation and convection heat "flows" between the skin \n    and environment (atmosphere / space); \n • The sun and planetary bodies emit radiation that \n    heat the skin of a vessel;
+1058	1291.62	40	64	Heat management and thermal systems are quite complex topics, \nbut as you are now an expert at orbital mechanics we will dive right \nin.
+1059	856.96	40	42	The following screens will cover specific part \ntypes, and finally an entire vessel to give you \na chance to see it all in action.
+1060	899.19	40	44	This diagram shows you how these rules apply \nwith the simplest of vessels -- two connected \nparts.
+1061	610.79	70	17	Heat Flow Diagram
+1062	472.77	70	13	Parts and Heat
+1063	806.49	40	40	Radiator panels draw heat from the part \nthey are attached to, as well as any part \nattached to that one. \n\nYou can think of it as the radiator's parent \npart, plus one more hop (or parent + 1).
+1064	484.1	35	27	In this weird shaped assembly of parts, a radiator panel attached to part C draws heat from that part and those that are one away (B, C and D).
+1065	999.1	40	49	Coming in surface and edge attached models, these \ndevices pump heat away from nearby parts, as well \nas nearby core modules.
+1066	1214.37	40	60	There will be plenty of times when you need to cool your vessel \ndown. That is where radiators can help.
+1067	1039.27	40	51	They do this through conduction and using their large \nsurface area to radiate the heat into space.
+1068	826.06	70	23	What Are "Nearby" Parts?
+1069	795.16	70	22	Getting Rid of Some Heat
+1070	500.58	70	14	Radiator Panels
+1071	1821.04	40	91	If a vessel is entering an atmosphere at high speed, reentry will generate a lot of heat. This heat \ncan be "absorbed" by a heat shield that will burn off Ablator to keep the craft cool.
+1072	959.96	40	47	This part is deceptively small when deflated. Once \ndeployed however, it can protect a large vessel \nfrom behind the mammoth 10m shield diameter.
+1073	913.61	40	45	Available in various sizes these heavy shields \nare versatile parts for protection during reentry.
+1074	934.21	40	46	Do keep in mind that their mass means you may \nneed drogue chutes on your vessel.
+1075	825.03	70	23	Protection During Reentry
+1076	571.65	70	16	Solid Heat Shields
+1077	525.3	70	15	Inflatable Shield
+1078	120	35	6	3.75m
+1079	120	35	6	2.5m
+1080	1982.75	40	99	KerbNet is enabled on every probe core, as well as some more specialized parts. Each part has different \ncapabilities which affect the detail and sort of data available. KerbNet requires a communications link \nwith the Kerbal Space Center to access that data.
+1081	2014.68	40	100	KerbNet is a network of information that allows your space program to link its sensors directly to Kerbin’s \nscientific community. This in turn allows you to plan more efficient missions.
+1082	260.59	70	7	KerbNet
+1083	674.65	35	38	Lets you zoom the map in or out \nbased on the altitude and capabilities of \nyour vessel. Some sensors can have \ngreatly enhanced field of view under \nspecific conditions.

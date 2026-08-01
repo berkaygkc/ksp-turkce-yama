@@ -1,0 +1,66 @@
+421	Kargo Sistemi
+422	İstifleme
+423	Depolama
+424	Kerballar
+425	Herhangi bir pilot ya da Seviye 1 veya üzeri herhangi bir bilim insanı veya mühendis, envanterinde bir tane bulunduğunda EVA paraşütünü kullanabilir.  Araç paraşütleri gibi açılıp yeniden paketlenebilir.\n\nBu paraşütler, kerbalın bir uçak gibi süzülme açısını ayarlamasına olanak tanıyan ram hava hücreleri ve kontrol kolları sayesinde çok daha gelişmiştir!\n
+426	Yeterli deneyime sahip Kerballar artık EVA paraşütlerini kullanarak uçma hissini (sonunda düşmeden) yaşayabilir.
+427	Kerbal Paraşütü
+428	Geriye Eğil\n
+429	İleri Eğil\n
+430	Sola Dön\n
+431	Sağa Dön
+432	Aç\n
+433	Burada CommNet ve KerbNet işlevleri hakkında bilgi edineceksin.
+434	İletişim Ağı
+435	İletişim Ağları, araçlarının hem birbirleriyle hem de Kerbin ile veri alışverişi yapmasını sağlar. \nAntenlerle, Kerbin'in Derin Uzay Ağına (DSN) bağlanan bir CommNet oluşturabilirsin.\n\nBu bağlantılar Kontrol ve Bilim için kullanılır. Takip İstasyonunu yükselterek DSN bağlantılarının \nmenzilini ve Sinyal Gücünü artırabilir, Aktarıcılarla kapsama alanını ve Sinyal Gücünü \ndaha da artırabilirsin.
+436	Uzaktan Kontrol\nNoktası
+437	Engellenmiş Sinyal
+438	Sinyal Gücü
+439	Yer İstasyonu
+440	Yörünge\nAktarıcısı
+441	Bilim Gezgini
+442	CommNet
+443	Sonda
+444	Kontrol bağlantısı, aracın bir kontrol kaynağına geri bağlanmasını sağlayan bağlantıdır. Bu kontrol kaynağı ya \nuzaktan kontrol sunan bir araçtaki bir Pilot Kerbal'dır ya da Kerbin üzerindeki yer istasyonlarından biridir (muhtemelen \nusta pilotlar tarafından işletilmektedir). Kontrol kaynağına ihtiyaç duyan ama sahip olmayan bir araç, kontrol \nyeteneklerinde azalma yaşar.
+445	Pilot Kerbal'ı bulunmayan herhangi bir araç, tam kontrol için bir kontrol kaynağına ihtiyaç duyar. Diğer kerballar bir miktar \nkontrol yeteneği katabilir ama tam kontrol sağlayamaz.
+446	Kısmi Kontrol\n(Mürettebat+Sonda)
+447	Kısmi Kontrol\n(Mürettebatlı)
+448	Kısmi Kontrol\n(Sondalar)
+449	Manevra Düğümü Ekleme/Düzenleme/Uygulama
+450	Mevcut Manevra Düğümleri
+451	RCS/Işık/İniş Takımını Aç/Kapat
+452	Parça Aksiyon Penceresi
+453	Tam/Sıfır Gaz
+454	Gazı Artır/Azalt
+455	Sapma/Yunuslama/Yatış
+456	SAS/Otopilot
+457	Kontrol Bağlantıları
+458	Tam Kontrol
+459	Kontrol Yok
+460	Aşamalama
+461	Geçerli kontrol yolu, tüm olası bağlantılar ve ağın tamamı harita \ngörünümünde ve takip istasyonunda görselleştirilebilir. Bir panel; kontrol seviyesi, \nsinyal gücü ve hedef türü gibi ilgili CommNet bilgilerini gösterir.
+462	Burada gösterildiği gibi, düzenleyici \nve harita görünümlerinde de \nilgili CommNet bilgilerini görürsün
+463	CommNet Arayüzü
+464	Görüntülenecek Bağlantılar
+465	Veri Yönü
+466	Kontrol Durumu
+467	Son Adım
+468	İki antenin haberleşebileceği azami menzil, güçlerinin çarpımının \nkarekökü (geometrik ortalama) kadardır. Anten güçleri, Sınıf 0'dan Sınıf 5'e kadar altı sınıfa ayrılır. \n\nSınıf 0 antenler, kapsül ve sonda çekirdeklerinin dahili antenleridir; diğer sınıflar bağımsız \nparçalardır. DSN'nin de her Takip İstasyonu seviyesi için bir tane olmak üzere üç güç seviyesi vardır.\n\nÇoğu anten, aynı araç üzerinde güçlerini birleştirebilir. Ancak bunu yapmanın \nazalan bir getirisi vardır.
+469	<size=60><color=#2a7fff>Etkili Menzil Tablosu</color></size>
+470	TS Sev1
+471	TS Sev2
+472	TS Sev3
+473	Sınıf 4\n
+474	Sınıf 2\n
+475	Sınıf 3\n
+476	Sınıf 1
+477	Sınıf 4
+478	Sınıf 5
+479	Sınıf 3
+480	Sınıf 2
+481	Sınıf 0
+482	Menzil
+483	Bazen, aşırı menzil nedeniyle ya da yolda bir şeyin olması nedeniyle \n(arazi ya da başka bir gök cismi) bir kontrol noktasına ulaşamazsın.  Aktarıcı antenler, bir sinyalin \nbir araçtan bir aktarıcıya, oradan da bir kontrol noktasına, hatta başka bir aktarıcıya 'sekmesine' olanak tanır!
+484	Ya da düşük güçlü bir antenin \nyüksek güçlü bir aktarıcı üzerinden \niletim yapmasını sağlayarak sinyal gücünü artırabilirsin.
+485	Bu, engelleme sorunlarını çözebilir.
+486	Aktarıcılar

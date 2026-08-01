@@ -1,0 +1,66 @@
+865	Altimetre*
+866	Frenler Aç/Kapat
+867	Işıklar Aç/Kapat
+868	Rakım:
+869	İptal:
+870	Aracındaki kaynakları gösterir. \nBir kaynağın aracın neresinde \nolduğunu görmek için yanındaki \nonay kutusunu etkinleştir.
+871	Uygulama Başlatıcı üzerinden çeşitli araçlara ve bilgilere erişebilirsin. Burada birkaç örnek gösteriliyor.
+872	Mevcut kontratlar, parametreleri ve tamamlanma durumlarıyla birlikte.
+873	Güncel Fon, İtibar ve \nBilim miktarın.
+874	Önemli kariyer olaylarının gösterildiği yer.
+875	Uygulama Başlatıcı
+876	Para Birimleri Uygulaması:
+877	Kontratlar Uygulaması:
+878	Kaynaklar Uygulaması:
+879	Buradasın.
+880	Mesajlar Uygulaması:
+881	KSPedia Uygulaması
+882	• Tekerlek, anten, güneş paneli gibi parçaları onar...\n• Yüzey numunesi topla\n• Deneylerden bilim topla.\n• Bayrak dik.\n• Panelleri aç ve topla.\n• İniş takımını aç ve topla.\n• EVA raporu al.\n• Paraşütleri yeniden paketle.\n• Parça ekle ve çıkar\n• Bilim deneyi yap.\n• Ve daha fazlası...
+883	Kariyer modunda bazı etkinlikler yalnızca belirli rollere ve seviyelere açıktır. Örneğin, "Tekerleği Onar" etkinliği yalnızca mühendisler tarafından yapılabilir.
+884	Kerballar dışarıdayken, aksiyon menüleri aracılığıyla onları çevrelerindeki şeylerle etkileşime geçmeleri için yönlendirebilirsin. 
+885	Aşağıda gerçekleştirilebilecek bazı etkinlikler listelenmiştir:
+886	EVA Etkinlikleri
+887	Haritada bir manevra düğümü seçildiğinde ya da seçim ekranı düğmeleriyle (sağa bak) etkileşime girildiğinde hassas manevra düzenleme paneli belirir. Manevra sonrası yörünge bilgisi, Yörünge Bilgi Panelinde görüntülenir.
+888	Geçerli yörünge ya da seçilen manevra sonrasında oluşacak yörünge.
+889	Seçimi önceki/sonraki mevcut manevraya değiştirir.
+890	Manevra Araçları / \nSeçim Ekranı
+891	Önceki / Sonraki Manevra Düğmeleri
+892	Manevra Modu - Manevra Düzenleyici
+893	Bir sonraki manevraya hızlan.
+894	Seçili Manevrayı Sil
+895	Seçili Öğe
+896	Nasıl Erişilir
+897	Hızlan
+898	Manevra yönünü ayarlamak için tutamaçları tıkla, sürükle ya da kaydır. Ortadaki düğmeler de manevranın zamanını aynı şekilde ayarlar.
+899	Manevranın UT değerini saniye cinsinden ya da y:ddd:hh:mm:ss biçiminde gir. ":" simgesi kullanılırsa alan, biçimi otomatik olarak algılar. 
+900	Tutamaçlar kullanılırken uygulanan geçerli değişim oranını gösterir.
+901	Manevranın zamanını bir yörünge kadar artır ya da azalt.
+902	Hassas manevra düzenleyicilerini kullanma talimatları.
+903	Her eksen için sayısal girişler.
+904	Manevra Düzenleyici Paneli - Devamı
+905	Manevra Tutamaçları
+906	Ölçek Göstergesi
+907	Ölçek Kaydırıcısı
+908	Yörünge Simgeleri
+909	Giriş Alanları
+910	Zaman Alanı
+911	Yörünge Bilgi Paneline, manevra modu düğmesine tıklayarak erişilir. Bu panel, hangi sekmenin seçili olduğuna bağlı olarak geçerli yörüngenle ilgili ayrıntıları gösterir.
+912	Yörünge eğimini ve fırlatma açısını, çıkış düğümünün boylamını, periapsis argümanını ve dışmerkezliği gösterir.
+913	Bir hedef seçiliyse kesişim bilgisini gösterir.
+914	Apoapsis, periapsis ve yörünge periyodunu gösterir.
+915	Manevra Modu - Yörünge Bilgisi
+916	Gelişmiş Yörünge Bilgisi Sekmesi
+917	Temel Yörünge Bilgisi Sekmesi
+918	Yörünge Bilgi Paneli
+919	Yaklaşım Bilgisi Sekmesi
+920	Manevra Modu
+921	Bilgi Sekmeleri
+922	Soldaki sekme, planladığın manevranın görsel bir temsilini ve o manevrayı gerçekleştirmek için gereken zaman ve dV hakkında bazı yararlı ayrıntıları görmeni sağlar.
+923	Üstteki sekme, seçtiğin manevra türü için kullanılabilir hedeflere olan yaklaşan geçiş pencerelerini gösterir.
+924	Manevra aracı panelinin üstünde ve solunda, sana yararlı bilgiler verebilecek iki sekme belirir.
+925	Manevra Aracı - Ek Bilgi
+926	Geçiş Penceresi Zamanlama Sekmesi:
+927	Görselleştirme Sekmesi:
+928	Bilgi Sekmeleri:
+929	Bir sonraki bölüm, geçişi yapılandırdığın yerdir. Gitmek istediğin gök cismini, hedeflemek istediğin PE'yi ve bir daireselleştirme dV göstergesi isteyip istemediğini seçersin.
+930	Son bölüm, geçerli seçimlerinle oluşturacağın manevranın ayrıntılarını gösterir ve memnunsan manevrayı oluşturmana olanak tanır.

@@ -1,0 +1,59 @@
+1259	Bir yörünge bazen "düşüp yere çarpmama hâli" olarak tanımlanır. Uzay yolculuğu bağlamında bu, \nbir nesnenin uzayda başka bir nesnenin etrafında dönme şeklidir; burada konu, aracını bir \ngök cismi etrafında dolaştırmaktır.
+1260	Kerbin'in yerçekimi \ngemiyi kavisli bir yola çeker. \n\nAracının yörüngede kalması için \ntam doğru hızda hareketli olması gerekir \n(kaçış ya da daha kötüsü \nçakılma yerine).
+1261	Kerbin merkezli herhangi bir uzay programının en temel amacı, yörüngeye çıkıp Kerbin'e geri dönmektir.
+1262	Kerbin'in Üstten Görünüşü
+1263	Yörünge Nedir?
+1264	Hiperbolik
+1265	Yörünge Altı
+1266	Yörüngesel
+1267	Hedef rakıma ulaştığında, hızını artırmak için prograde yönünde yakma yapman \ngerekir. Yörüngede kalacak kadar hızlanana dek yakmaya devam edersin.
+1268	Yerçekimi dönüşüyle yapılan tırmanış seni yörünge yüksekliğine çıkarır, ama orada kalmana yetmez.
+1269	Bu, daha fazla hız\nkatmazsan izleyeceğin yol
+1270	Apoapsiste prograde yönünde yak
+1271	Yukarıda Kalmak
+1272	Tırmanış
+1273	Yörüngeye çıkıp geri dönmenin temelleriyle başlayacağız.
+1274	Peki Buradaki Amaç Ne?
+1275	İki apsis (apoapsis ve periapsis), bir yörüngeyi tanımlarken önemli noktalardır.
+1276	Yörüngenin, etrafında döndüğün cisme\n<i>en uzak</i> noktası.
+1277	Yörüngenin, etrafında döndüğün cisme\n<i>en yakın</i> noktası.
+1278	Yörüngeni Şekillendirmek
+1279	Periapsis
+1280	Apoapsis
+1281	<color=#ef2929><i>Not:</i></color> Yörünge çizgisindeki renk geçişi dönüş yönünü gösterir.
+1282	Gezegenin etrafında, kendi dönüş \nyönüyle aynı yönde \ndönmek bir prograde yörüngedir.
+1283	Yörünge eğimi, bir yörüngenin \netrafında döndüğü cismin ekvatorundan\nne kadar saptığını gösteren açıdır.
+1284	Yörüngeler, gezegenin dönüşüne göre \nprograde ya da retrograde \nolarak tanımlanır.
+1285	Kerbin'in Yandan Görünüşü
+1286	Araç\nYönü
+1287	Retrograde Yörünge
+1288	Ekvator\nDüzlemi
+1289	Yörünge Yönü
+1290	Prograde Yörünge
+1291	Yörünge Eğimi
+1292	Bir uzay gemisine baktığında altı yön vardır. Bu yönler geminin yörüngesine göre \nbelirlenir, bu yüzden yakma yaptığında ya da Etki Alanını (SOI) \ndeğiştirdiğinde "hareket ederler".
+1293	Bu uyduya göre yönlerin sembollerini\nve yönlerini aşağıda görebilirsin.
+1294	Uzayda Yönler
+1295	Radial Out
+1296	Radial In
+1297	Yörünge dışmerkezliği, dairesel bir yörüngeden ne kadar uzakta olduğunu tanımlar.
+1298	Parabolik ve\nHiperbolik
+1299	Dışmerkezlik Nedir?
+1300	Hiperbolik : Ecc > 1
+1301	Parabolik : Ecc = 1
+1302	Eliptik
+1303	Dairesel
+1304	Ecc < 1
+1305	Ecc = 0
+1306	Bir yörüngenin nasıl tanımlandığını bilmezsen, aracını uzayda doğru hedefe götürmek zor \ngelebilir. Bu yüzden başarılı bir uzay programına giden yolda sana yardımcı olacak yörünge \nbileşenlerini anlamak önemlidir.
+1307	Bu bölümde, yıldızlara uzanman için gereken yörünge parçalarını ve yörünge mekaniğini \nele alacağız (belki işin biraz matematiğine de değineceğiz).
+1308	Yörünge Tanımları
+1309	Normal / Antinormal, mevcut hareket yönüne 90 derecelik açıyla, yörünge düzlemine dik olan \nyönlerdir.
+1310	Antinormal yönünde yakma yapmak,\ngelecekteki yörüngeni "Güney" yönüne iter.
+1311	Kerbin'in yandan görünüşü - Yörünge yönü (prograde) renk geçişinden anlaşılabilir.
+1312	Normal yönünde yakma yapmak, gelecekteki\nyörüngeni "Kuzey" yönüne iter.
+1313	Antinormal Yakmanın \nSonucu
+1314	Normal Yakmanın \nSonucu
+1315	Yörünge Eğimini Ayarlamak
+1316	Mevcut\nYörünge
+1317	Basit düz çizgilerle düşünürsek, 0m/s hızındaki bir araç 200m/s'lik bir hız değişimine, yani 200m/s'lik \nbir Δv'ye ihtiyaç duyar. Aracı yavaşlatmak için (uzayda fren olmadığından) daha fazla hız eklememiz \ngerekir, ama ters yönde. Yani 100m/s'ye ulaşmak için 100m/s'lik bir Δv daha gerekir.

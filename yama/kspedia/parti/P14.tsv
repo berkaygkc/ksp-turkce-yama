@@ -1,0 +1,44 @@
+idx	kutu_w	font	kapasite	EN
+547	1999.23	40	99	When hovering over a part in the parts toolbox you will see the details of that part in the popup window. \nYou can adjust how much detail is shown by <i>right-clicking  </i>the icon in the toolbox. <i>Right-clicking</i> can also \npin the window so you can scroll the longer information boxes.
+548	526.33	40	26	<b>Module Details:</b>\n<size=35>This section contains more \ndetails on the specific modules \nthat make up the part.</size>
+549	635.51	40	31	<b>General Details:</b>\n<size=35>Basic information like mass, resource \ncapacity, crew capacity and more.</size>
+550	524.27	40	26	<b>Description:</b>\n<size=35>Learn a bit more about the use \nand history of each part.</size>
+551	526.33	40	26	<b>Part Name and Model:</b>\n<size=35>Including a one meter scale for \nreference.</size>
+552	467.62	40	23	<b>Cost:</b>\n<size=35>Monitoring your build costs \nin career mode is key.</size>
+553	375.95	70	10	Part Details
+554	597.4	40	29	<b>Part Picker:</b>\n<size=35><i>Left-click</i> to pick up parts from the \ntoolbox and use them in the editor. \nYou can also drop unwanted parts \nhere to discard them.\n\n<b>Part Details:</b></size>\n<size=35><i>Right-click</i> the part in the toolbox to \ntoggle the display of additional info.</size>
+555	375.95	38	19	<b>Advanced Mode:</b>\n<size=35>With advanced mode </size> <size=35>enabled you can <i>right-</i></size><size=35><i>click  </i>multiple filter categories to apply an "and" filter, e.g. to \nselect all Mk2 parts that have Liquid Fuel resource.</size>
+556	481.01	40	24	<b>Toggle Advanced Mode:</b>\n<size=35>Click this to show/hide the \nadditional advanced filters \nincluding resource type, \nbulkhead size, tech level \nand more.</size>
+557	582.98	40	29	<b>Sort Actions:</b>\n<size=35>Hopefully this is self-explanatory... </size>\n<size=35>if </size><size=35>not, left-click a label to sort the </size>\nparts.
+558	1981.72	40	99	You will find the items you need to build a vessel in the parts toolbox. Through the use of filters you can \ntarget a search for that perfect part.
+559	400.67	40	20	<b>Custom Categories:</b>\n<size=35>You can make custom \ngroupings of parts here \nfor your favorite styles.</size>
+560	525.3	40	26	<b>Sub Assemblies:</b>\n<size=35>Use this to store assemblies of \nparts for reuse on later vessels.</size>
+561	738	70	21	The Parts Toolbox
+562	213.21	40	10	Search Box
+563	1917.86	40	95	There are two types of symmetry - radial and mirror. Radial symmetry is usually used with rockets to \nplace 2, 3, 4 or more parts around the central axis. Mirror symmetry is what you normally use with \naircraft to place items either side of the center line.
+564	1255.57	40	62	The angle snap tool makes it easier to get exact angles around \nthe centerline of the vessel. By default it works in 15° increments; \nholding down                 will make it to work in finer 5° steps.
+565	1765.42	40	88	To help balance your vessels when building, there are two functions that can be a great help.
+566	1111	50	44	Example Placement in 2x Symmetry
+567	774.56	70	22	Symmetry and Snapping
+568	336	35	19	2x Radial Symmetry
+569	340	35	19	2x Mirror Symmetry
+570	321	40	16	Angle Snap Off
+571	304	40	15	Angle Snap On
+572	273	40	13	2x Symmetry
+573	265.34	40	13	3x Symmetry
+574	273	40	13	and more...
+575	259	40	12	No Symmetry
+576	273	40	13	4x Symmetry
+577	226.6	40	11	Angle Snap
+578	323.42	70	9	Symmetry
+579	123.6	40	6	Radial
+580	147.29	50	5	Mirror
+581	635.51	40	31	The vessel details panel lets you \nset the name and description for \nthe current vessel.
+582	1456.42	40	72	The scene action buttons give you control over what happens to your vessel.
+583	726.15	40	36	<b>New Vessel:</b>\n<size=35>Clean the slate and start from scratch.</size>
+584	643.75	40	32	<b>Launch Vessel:</b>\n<size=35>Move vessel to the launchpad/runway.</size>
+585	637.57	40	31	The change flag button lets you \nset the flag for the current vessel.
+586	429.51	40	21	<b>Save Vessel:</b>\n<size=35>Save your vessel for later.</size>
+587	420.24	40	21	<b>Load Vessel:</b>\n<size=35>Load a previous creation.</size>
+588	1026.91	70	29	Scene Actions and Vessel Details
+589	234.84	40	11	Leave Editor

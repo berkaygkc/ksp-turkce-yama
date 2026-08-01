@@ -1,0 +1,66 @@
+1142	Çeşitli alarm oluşturma seçenekleri için ayrı bir pencere gösterir.
+1143	Alarm aracını uygulama çubuğundan göster.  Çoğu oyun sahnesinden seçilebilir.
+1144	Geçmiş ve etkin alarmların kaydırılabilir listesi.
+1145	Bir sonraki alarma ulaşmak için zaman hızlandırmasını etkinleştir.
+1146	Bu satırdaki alarmı sil.
+1147	Alarm Saati - Ana Pencere
+1148	Alarm Saati Ana Penceresi:
+1149	Zaman Biçimini Aç/Kapat
+1150	Alarm Oluştur:
+1151	Alarmı Sil:
+1152	Alarm Listesi:
+1153	Sonrakine Hızlan:
+1154	Kontroller:
+1155	<i>Δv</i> Çubuğu, manevrayı tamamlamak için gereken aracın aşamalarını gösterir.\nÇubuğun sonundaki kırmızı bölüm, manevrayı gerçekleştirmek için yeterli <i>Δv</i> olmadığı anlamına gelir.\n
+1156	Yakmaya Başlama süresini, manevra düğümünden önce yakmak istediğin <i>Δv</i> yüzdesine ayarlar.*
+1157	Etkin manevrayı tamamlamak için gereken <i>Δv</i> hakkındaki bilgiyi izlemeni sağlar.
+1158	Manevrayı tam gazla tamamlamak için gereken hesaplanan süre.
+1159	* Genişletilmiş Yakma Göstergesi ayarı etkinken görüntülenir.
+1160	Manevrayı tamamlamak için yakıt yakmaya başlamana kalan geri sayım.*
+1161	Manevrayı tamamlamak için gereken <i>Δv</i> miktarı.
+1162	Düğüme ulaşılmasına kalan oyun içi süre.
+1163	Düğümden Önceki Yakma Yüzdesi:
+1164	Kalan <i>Δv</i>:
+1165	Yakma Süresi Göstergesi
+1166	Aşamalama Göstergesi:
+1167	Yakmaya Başlama:
+1168	Yakma Süresi:
+1169	Düğüme Kalan:
+1170	Roketinin <i>Δv</i> değeri hakkında bilgi sağlar. <i>Δv</i>'yi daha iyi anlamak için <i>Δv</i> KSPedia sayfasına bak!
+1171	Tüm aşamalar için geçerli toplamın göstergesi. Buraya tıklamak ayrıca tüm genişletilmiş aşama bilgisini açar/kapatır.
+1172	Bu aşamanın <i>Δv</i> göstergesi. Bu aşama sıfır <i>Δv</i> üretiyorsa hiçbir değer görüntülenmez.
+1173	Roket motorları düşük hava basıncında daha verimli hale gelir - bazıları diğerlerinden daha fazla! Örnek:
+1174	Bu aşamanın genişletilmiş aşama bilgisini açmak/kapatmak için buraya tıkla.
+1175	Hava Basıncı ve <i>Δv</i>:
+1176	Toplam araç <i>Δv</i>:
+1177	Deniz seviyesinde <i>Δv</i>
+1178	Vakumda <i>Δv</i>
+1179	Araçlar - Uçuş Modu
+1180	Aşama <i>Δv</i>:
+1181	Aşama Başlığı:
+1182	<i>Δv</i>
+1183	Bu aşamanın <i>Δv</i> göstergesi. Bu aşama sıfır <i>Δv</i> üretiyorsa hiçbir değer görüntülenmez.
+1184	Genişletilmiş aşama bilgisinde hangi verinin görüneceği.
+1185	Atmosferik <i>Δv</i> değerleri için\ngök cismini seç.
+1186	Tüm aşamalarda genişletilmiş bilgiyi açar/kapatır.
+1187	Rakım seçeneği için rakımı seçer.
+1188	Basınç durumları arasında geçiş yap.
+1189	Gök cismi seçimi:
+1190	Tüm aşamaları gizle/göster:
+1191	Bilgi Görüntüleme:
+1192	Rakım Kaydırıcısı:
+1193	Araçlar - VAB/SPH
+1194	Atmosfer:
+1195	 • Yakmayı o yönde artırmak için düğümden uzağa <i>Sürükle</i>.\n • Yakmayı o yönde azaltmak için düğüme doğru <i>Sürükle</i>.\n • İnce ayar yapmak için düğüm tutamaçlarının üzerindeyken fare tekerleğini \n     <i>Kaydır</i>.
+1196	Bu harita aracı, seçtiğin hedefe ulaşmak için tartışmasız en önemli araçtır. Onunla, motorların ateşlenmesi olan bir "yakma"nın konumunu, yönünü ve yönelimini planlarsın.
+1197	Yörünge yolunun herhangi bir yerine basitçe <i>sol tıkla</i> - gerçek yörünge üzerinde ya da mevcut manevra düğümlerinden sonraki gelecek \nyollarda.
+1198	Alternatif mod, düğümü ileri ve geri tam yörünge \nadımlarıyla taşımana ya da temizlik yapman gerekirse düğümü silmene olanak tanır.
+1199	Manevra düğümü gizmosu etkinken, planlanan \nyakmayı altı tutamacı kullanarak ayarlayabilirsin:
+1200	Gizmo açıkken, gizmo modları arasında geçiş yapmak için \nsağ tıklayabilirsin. 
+1201	Manevra Gizmosu Alternatif Modu
+1202	Manevra Düğümleri Oluşturma
+1203	Manevrayı Ayarlama
+1204	Gizmo Alternatif Modu
+1205	Gizmo Birincil Modu
+1206	Manevra Düğümleri
+1207	Bunlar, etkin aracın yörünge düzleminin hedef aracınkiyle kesiştiği yerleri gösterir. AN, etkin \naracın hedef düzlemin altından üstüne geçtiği noktadır (DN için tersi geçerlidir).

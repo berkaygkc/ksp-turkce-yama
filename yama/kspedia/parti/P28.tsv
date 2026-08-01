@@ -1,0 +1,29 @@
+idx	kutu_w	font	kapasite	EN
+1409	1486.29	40	74	A unique world, Kerbin has flat plains, soaring mountains and wide, blue \noceans. Home to the kerbals, it has just the right conditions to support a vast, \nseemingly undepletable population of the eager green creatures.
+1410	1487.32	40	74	Reaching a stable orbit around Kerbin is one of the first things budding space \nprograms strive for. It is said that a kerbal who can get their ship into orbit is \nhalfway to anywhere.
+1411	1450.24	40	72	There are two moons circling Kerbin: the Mun, which is a nearby trip for the \nadventurous, and Minmus... seems minty fresh somehow.
+1412	1421.4	40	71	Scientists speculate about possible ways to make it "Awesome like in the \nstories." Some of those ideas have led to new breakthroughs in aerospace \ntechnology.
+1413	1382.26	40	69	Moho figures in kerbal mythology as a fiery place with oceans of flowing \nlava. In reality, however, it's much less interesting.
+1414	108.15	40	5	Moho
+1415	1370.93	40	68	The sun is the most well known object in the daytime sky. \n\nScientists have noted a particular burning sensation and potential loss \nof vision if it's stared at for long periods of time. \n\nThis is especially important to keep in mind considering the effect shiny \nobjects have on the average kerbal.
+1416	1383.29	40	69	The light at the center of the universe, this yellow star provides light and \nheat for all Kerbalkind.
+1417	247.2	70	7	The Sun
+1418	1729.37	40	86	The solar system consists of seven planets and nine moons. Kerbals have looked up since \nthe dawn of time to figure out just how to reach and explore every one of these shiny dots \nin the sky.
+1419	541.78	70	15	The Solar System
+1420	863.14	40	43	Discovering the amount of Ore is a little bit \nmore challenging though.\n\nYou can only detect the amount of Ore an \nasteroid contains by getting up close to it, \nand then checking its properties. \n\nThis means you have to rendezvous, before \nyou know just how much Ore there might be.
+1421	1989.96	40	99	One point of note when you drill Ore from an asteroid, it does reduce the mass of the asteroid. The Ore \nextracted adds mass to the mining vessel, so unless you discard the Ore after drilling you will have quite \na heavy vessel.
+1422	1876.66	40	93	Every asteroid in the solar system has some amount of Ore in it. Generally speaking, the larger the \nasteroid, the more Ore there is.
+1423	636.54	70	18	The Effect of Mining
+1424	525.3	70	15	Ore on Asteroids
+1425	1975.54	40	98	Due to mining and conversion being long running processes, keeping resources flowing involves some \nstrategic thinking. It is never fun to come back and find out nothing happened in the last year. Here are \nsome things to keep in mind:
+1426	1508.95	40	75	Managing the core heat of these parts is key to a long running operation. If the \ncore heat cannot be maintained then efficency suffers. Optimal core heat is:\n<b>      Drills:              500K</b>\n<b>      Converters:   1000K</b>
+1427	1562.51	40	78	When extracting Ore, or converting it to other resources, you must have room to \nstore the end product. If you are mining and converting then that means thinking \nabout storing two resources.
+1428	1530.58	40	76	All that heat is going to go somewhere, usually throughout your vessel. It's likely \nyou will need to have a number of radiators on the vessel to manage heat. 
+1429	1127.85	40	56	These processes are very hungry for EC, so you need some \ngood EC sources (solar or fuel cells maybe) to back them.
+1430	1079.44	70	30	Resource Conversion Management
+1431	471.74	70	13	Electric Charge
+1432	310.03	70	8	Core Heat
+1433	304.88	70	8	Part Heat
+1434	273.98	70	7	Capacity
+1435	1976.57	40	98	To get the Ore out of the ground you will need to drill! Drills are Electric Charge (EC) hungry devices that \nextract Ore while generating lots of heat. This means that drilling requires a bit of thought and \nmanagement.
+1436	1048.54	40	52	Made for long-term mining operations to extract every \nlast bit of Ore, perhaps as part of a refuelling station.

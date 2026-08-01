@@ -1,0 +1,149 @@
+590	Yapım sırasında yapabileceğin çok şey var. Parçaları seçip hizalayacak, aşamalamayı ayarlayacak ve \nneredeyse kesinlikle ilk seferde unuttuğun bir paraşütü eklemek için geri döneceksin.
+591	Yapım Arayüzü
+592	Editör Bilgisi ve Yardımcıları
+593	Araç Kutusu\nFiltreler
+594	Araç Detayları
+595	Parçalar\nAraç Kutusu
+596	Aşama Yığını
+597	Sahne İşlemleri
+598	Araçlar
+599	Parçalar
+600	Mürettebat
+601	<i><color=#ef2929><i>Not: </i></color>Bunlar oyunun varsayılan kontrollerini gösterir ve ayar özelleştirmelerini yansıtmaz.</i>
+602	Ötele ve döndür arasında geçiş yap (kilitlemek için iki kez dokun)
+603	<i>İleri /</i>\n<i>Geri</i>
+604	<b><i>Yukarı / Aşağı</i></b>
+605	Saat yönünün tersine yatış
+606	Ötele Modu (DOĞ)
+607	İleri ötele
+608	Döndürme Modu (DÖN)
+609	Sağa ötele
+610	Sola ötele
+611	Saat yönünde yatış
+612	Aşağı ötele
+613	Geri ötele
+614	Kenetlenme Modları
+615	Yunuslama ileri
+616	Gazı azalt
+617	Yukarı ötele
+618	Sol / Sağ
+619	Gazı artır
+620	Yunuslama geri
+621	<i>Sapma</i>
+622	Left Ctrl
+623	Sapma sağa
+624	Sapma sola
+625	Spacebar
+626	Yunuslama
+627	Yatış
+628	Simetri çarpanını\ngeriye doğru değiştir
+629	Simetriyi araç/parça etrafında aç/kapat
+630	5° artışlarla döndürmek için basılı tut
+631	Aşama yığınında yukarı / aşağı kaydır
+632	Simetri modunu aç / kapat
+633	Düğüm bağlantısını zorlamak için basılı tut
+634	Açı hizalamayı aç / kapat
+635	Simetri çarpanını değiştir
+636	Parça Ayar Değiştiricileri
+637	Arama kutusunu etkinleştir
+638	Seçili parçayı sil
+639	Parça dönüşünü sıfırla
+640	Simetri ve Hizalama
+641	Son işlemi geri al
+642	Son işlemi yinele
+643	Editör Kontrolleri
+644	Left Shift\n
+645	Left Ctrl\n
+646	Left Alt\n
+647	Genel
+648	Home
+649	Del
+650	End
+651	Parçayı saat yönünün tersine / yönünde yatır
+652	Mutlak / üst parçaya göreceli modu aç/kapat
+653	Araç / üst parça simetrisini aç/kapat
+654	Parçayı ileri / geri yunuslat
+655	Parçayı sola / sağa saptır
+656	Kaydırma Modu/Aracı
+657	Döndürme Modu/Aracı
+658	Yerleştirme Modu/Aracı
+659	Editör Araçları
+660	Kaydırma aracı
+661	Döndürme aracı
+662	Kök değiştirme aracı
+663	Yerleştirme aracı
+664	Araç Dışı Etkinlikler (EVA)
+665	Jetle saat yönünün tersine yatış
+666	Jetpack'e Özel Kontroller
+667	Kafa lambasını aç / kapat
+668	Jetpack'i aç / kapat
+669	Hareket modunu aç/kapat
+670	İleri yürü/jetlen
+671	Jetle saat yönünde yatış
+672	Hareket Kontrolleri
+673	Sağa yürü/jetlen
+674	Sola yürü/jetlen
+675	Geri yürü/jetlen
+676	Kavra / Tırman
+677	Araca bin
+678	Koşmak için tut
+679	Jet aşağı
+680	Left Alt
+681	Jet yukarı
+682	Zıpla
+683	Aşamalamayı kilitle / kilidini aç
+684	Genel Uçuş Kontrolleri
+685	Sonraki aşamayı etkinleştir
+686	Araç Yönelimi
+687	Gaz Kontrolü
+688	Gaz %100
+689	Gaz %0
+690	1'den 10'a özel aksiyon gruplarını etkinleştir
+691	Aktif araçlar arasında geriye doğru geçiş yap
+692	Kamera görünümünü değiştir (oto/serbest/...)
+693	SAS'ı Aç/Kapat
+694	Basılı tutulduğunda SAS durumunu ters çevir
+695	Basılı tutulduğunda tekerlek frenlerini uygula
+696	İptal aksiyon grubunu etkinleştir
+697	IVA / dış görünümü aç/kapat
+698	Aktif araçlar arasında geçiş yap
+699	Aşama yığınında aşağı kaydır
+700	Kenetlenme uçuş modunu ayarla
+701	Aşama yığınında yukarı kaydır
+702	Aşamalama uçuş modunu ayarla
+703	Hassas modu aç/kapat
+704	Uçuş İçi Etkinlikler
+705	Aktif Araç ve Görünüm
+706	Araç ışıklarını aç/kapat
+707	İniş takımını aç/kapat
+708	Araç Kontrolü
+709	Caps Lock
+710	Backspace
+711	Ins
+712	Yunuslama, sapma ve yatış, uçuştaki üç \nkontrol eksenidir. Sağdaki diyagram, çoğu \nkişi için daha tanıdık olan bir uçağa göre \neksenleri gösterir.
+713	Aşağıdaki diyagram, aynı eksenlerin bir Mk1 \nKapsülü'ne sahip bir uzay aracıyla nasıl ilişkili \nolduğunu gösterir (eksen yönlerini belirleyen parça bu kapsüldür.)
+714	Birçok araçta yunuslama, sapma ve yatışın \nnerede olması gerektiğini görsel olarak \ngörebilsen de, bu her zaman böyle olmaz.
+715	Bu kapsüldeki kapak "üst" tarafı belirler\nve "yukarı" yönünü görselleştirmene yardımcı olabilir.
+716	NavBall, tüm araçlar için dönüşü doğru \nşekilde görselleştirmene yardımcı olmak içindir.
+717	Döndürmek İçin NavBall Kullanımı
+718	Uçuşta Yönler
+719	Görünümü çevir - sol / sağ / yukarı / aşağı
+720	Aerodinamik Kuvvetler Katmanını aç/kapat
+721	Sıcaklık Katmanını aç/kapat
+722	Sıcaklık Göstergelerini aç/kapat
+723	Belirli bir hızlı kaydı yükle
+724	Sonuç ekranını aç/kapat
+725	Arayüz görünürlüğünü aç/kapat
+726	Hızlı Yükleme (tuşu basılı tut)
+727	"isim" adıyla hızlı kaydet
+728	Araç etiketlerini aç/kapat
+729	Genel Kontroller
+730	Ekran Öğeleri
+731	Ekran görüntüsü al
+732	Oyunu Kaydet/Yükle
+733	Hızlı Kayıt
+734	Uzaklaştır
+735	Yakınlaştır
+736	Numpad
+737	Kamera
+738	Odağı varsayılan öğeye sıfırla

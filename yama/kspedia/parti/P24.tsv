@@ -1,0 +1,52 @@
+idx	kutu_w	font	kapasite	EN
+1208	1495.56	35	85	These show where you will be closest to your target. The downward marker shows where \nthe active vessel will be, and the upward one the target's position at the same time.
+1209	761.17	35	43	<i><color=#ef2929><i>Note:</i></color> The color of the orbit helps to differentiatebetween the active and target vessels.</i>
+1210	1246.3	35	71	Where the vessel is furthest (Ap) and closest (Pe) to the planet it is orbiting.
+1211	1219.52	40	60	When looking at orbits there are a number of helpful indicators.
+1212	852.84	50	34	Intersect Markers (Closest Approach):
+1213	647.87	50	25	Ascending/Descending Node:
+1214	567.53	50	22	Apoapsis/Periapsis Node:
+1215	268.83	40	13	Active Vessel
+1216	270.89	40	13	Target Vessel
+1217	375.95	70	10	Orbit Nodes
+1218	1747.91	35	99	The color and style of orbit lines provides important information. \n • On a vessel's orbit the gradient is a "trail" with the brightest part of the orbit where the vessel just was. \n • Future orbit paths (after maneuver nodes) are shown with dashed lines.
+1219	1696	35	96	Shows where the orbital path will leave one planet's SOI and enter another's. Each time an orbit changes SOI the orbit color changes. The color of the SOI node relates to the orbital path before the SOI node.
+1220	1695.7	35	96	Where a maneuver has been planned. The orbital path after the maneuver is the same color as the maneuver node.
+1221	535.6	40	26	<b>Mun at SOI Change</b>\n<size=35>Shows where the Mun will be \nat the Pe for this orbit patch.</size>
+1222	242.05	40	12	<color=#f2f2f2>Future Path</color>\n3rd Patch
+1223	242.05	40	12	<color=#f2f2f2>Future Path</color>\n1st Patch
+1224	242.05	40	12	<color=#f2f2f2>Future Path</color>\n2nd Patch
+1225	754.99	50	30	Sphere of Influence Change (SOI):
+1226	512.94	50	20	Orbit Lines and Colors:
+1227	760.14	70	21	Orbit Nodes (continued)
+1228	369.77	50	14	Maneuver Node:
+1229	139.05	40	6	Active \nVessel
+1230	2005.41	40	100	This is the view from the map. Here you see the big picture for the active vessel and other nearby objects \nin space.
+1231	291.49	40	14	Kerbal and \nLanded Vessel
+1232	389.34	40	19	NavBall and Toggle
+1233	570.62	70	16	The Map Interface
+1234	140.08	40	7	Active \nVessel 
+1235	130.81	40	6	Other \nVessel
+1236	248.23	40	12	Vessel Filter
+1237	151.41	40	7	Body\nMarker
+1238	1457.45	40	72	To stay in orbit you need to be in space or the drag from the atmosphere \nwill slow you down. If you were to try orbiting in the atmosphere, you would \nneed to have the engines running all the time - which isn't really orbiting.
+1239	1475.99	40	73	Around Kerbin there is a thin layer of atmosphere. This layer is densest near \nthe ground and thins out to nothing as you get to space. Kerbin isn't the only \nplanet like this, but for this section it is what's important.
+1240	1473.93	40	73	Around Kerbin the atmosphere extends 70km from sea level, to where space \nbegins.
+1241	776.62	70	22	The Atmosphere and You
+1242	1041.33	40	52	Getting back down is relatively simple. You burn in the \nretrograde direction which will slow the vessel \nenough to return to the surface.
+1243	832.24	40	41	You only need to slow the vessel enough to \nget inside the atmosphere, aerodynamic \ndrag will slow you a lot as well.
+1244	501.61	40	25	Oh, and hope you packed \nthe chute...
+1245	1005.28	70	28	Let's See How to Get Back Down
+1246	335.78	35	19	Burn retrograde here
+1247	210.12	35	12	Current Orbit
+1248	117.03	35	6	Landing
+1249	122.57	35	7	Descent
+1250	1539.85	40	76	This plan has two big problems:\n  1. To hit your desired altitude you need to "stop" your ascent at the right height.\n  2. You then need to add all the horizontal velocity to be orbiting.
+1251	1892.11	40	94	So let's look at the simplest method. Going straight up, then turning East once you reach your orbit \naltitude.
+1252	532.51	40	26	Don't forget that what goes \nup <b><i>does</i></b> come down
+1253	1206.13	70	34	Going Straight Up - Your First Mistake
+1254	209.09	35	11	Desired Orbit
+1255	1271.02	40	63	The shape you see below is called a gravity turn. In this ascent you \nuse gravity to translate some of the thrust into horizontal velocity.
+1256	937.3	40	46	A key here is to ensure you do not accelerate too \nfast, wasting fuel fighting the atmosphere.
+1257	1539.85	40	76	This means you need far less fuel at apoapsis to accelerate to the orbital velocity.
+1258	729.24	70	20	Turning "With" Gravity

@@ -1,0 +1,67 @@
+idx	kutu_w	font	kapasite	EN
+1142	411.822	35	23	Shows a separate window to allow for a variety of alarm creation options.
+1143	1407.26	35	80	Show the Alarm tool from the app bar.  Selectable from most game scenes.
+1144	411.822	35	23	Scrollable list of both past and active alarms.
+1145	411.822	35	23	Engage time warp to get to the next alarm.
+1146	413.044	35	23	Delete the  alarm for this line.
+1147	1069.5	70	30	Alarm Clock - Main Window
+1148	565.47	40	28	Alarm Clock Main Window:
+1149	565.47	40	28	Toggle Time Format
+1150	359.8	40	17	Create Alarm:
+1151	359.8	40	17	Delete Alarm:
+1152	359.8	40	17	Alarm List:
+1153	359.8	40	17	Warp Next:
+1154	359.8	40	17	Controls:
+1155	686.97	35	39	<i>Δv</i> Bar Indicates the stages of the vessel required to complete the maneuver.\nA red section at the end of the bar means there’s not enough <i>Δv</i> to perform the maneuver.\r\n
+1156	574.9	35	32	Adjusts Start Burn In time to the percentage of <i>Δv</i> you want to burn before the maneuver node.*
+1157	1731.5	40	86	Allows you to monitor information on the <i>Δv</i> needed to complete the active maneuver.
+1158	614.78	35	35	Calculated time required to complete the maneuver at full throttle.
+1159	1038.4	28	74	* Displayed when Extended Burn Indicator setting is enabled.
+1160	589.6	35	33	Countdown to start burning fuel to complete the maneuver.*
+1161	510.8	35	29	The amount of <i>Δv</i> needed to complete the maneuver.
+1162	609.6	35	34	\rThe game time remaining before the node is reached.
+1163	609.68	40	30	Burn Percentage Before Node:
+1164	1572.8	40	78	Remaining <i>Δv</i>:
+1165	654.3	70	18	Burn Time Indicator
+1166	362.37	40	18	Staging Indicator:
+1167	289.08	40	14	Start Burn In:
+1168	237.84	40	11	Burn Time:
+1169	180.73	40	9	Node In:
+1170	1879	40	93	Provides information about the <i>Δv</i> of your rocket. See the <i>Δv</i> KSPedia page to understand <i>Δv</i> better!
+1171	404.55	35	23	Readout of the current total for all stages. Clicking here also toggles on/off all expanded stage information.
+1172	404.55	35	23	Readout for <i>Δv</i>  of this stage. If this stage generates zero <i>Δv</i> , no value is displayed.
+1173	510.8	35	29	Rocket engines get more efficient at lower air pressure - some more than others! Example:
+1174	404.55	35	23	Click here to toggle this stage's expanded stage information.
+1175	565.47	40	28	Air Pressure and <i>Δv</i> :
+1176	359.8	40	17	Total vessel <i>Δv</i>:
+1177	359.8	35	20	<i>Δv</i> at sea level
+1178	359.8	35	20	<i>Δv</i> in vacuum
+1179	538.16	70	15	Tools - Flight Mode
+1180	359.8	40	17	Stage <i>Δv</i>:
+1181	359.8	40	17	Stage Header:
+1182	93.14	70	2	<i>Δv</i>
+1183	404.55	35	23	Readout for <i>Δv</i> of this stage. If this stage generates zero <i>Δv</i>, no value is displayed.
+1184	510.8	35	29	Which data appears in expanded stage information.
+1185	510.8	35	29	Select the CB for atmospheric\n<i>Δv</i> figures.
+1186	359.8	35	20	Toggles expanded information on all stages.
+1187	359.8	35	20	Selects altitude for the altitude option
+1188	359.8	35	20	Toggle between pressure situations
+1189	565.47	40	28	Celestial body select:
+1190	359.8	40	17	Hide/Show all stages:
+1191	565.47	40	28	Information Display:
+1192	359.8	40	17	Altitude Slider:
+1193	538.16	70	15	Tools - VAB/SPH
+1194	359.8	40	17	Atmosphere:
+1195	1282.35	40	64	 • <i>Drag</i> away from node to increase the burn in that direction.\n • <i>Drag</i> towards the node to decrease the burn in that direction.\n • <i>Scroll</i> the mouse wheel while over the node handles to make fine \n     adjustments.
+1196	2015.71	40	100	This map tool is arguably the most important tool for getting to your chosen destination. With it, you planthe location, direction and orientation of a "burn," a firing of the engines.
+1197	1975.54	40	98	Simply <i>left-click</i> anywhere on your orbital path - the actual orbit or future paths after existing maneuver \nnodes.
+1198	1286.47	40	64	The alternate mode lets you move the node forward and backward \nwhole orbits, or delete the node if you need to clean up.
+1199	1326.64	40	66	When the maneuver node gizmo is active you can adjust the planned \nburn using the six handles:
+1200	1240.12	40	62	With the gizmo open you can right-click to toggle between gizmo \nmodes. 
+1201	1169.05	70	33	The Maneuver Gizmo Alternate Mode
+1202	816.79	70	23	Creating Maneuver Nodes
+1203	761.17	70	21	Adjusting the Maneuver
+1204	352.26	35	20	Gizmo Alternate Mode
+1205	337.84	35	19	Gizmo Primary Mode
+1206	528.39	70	15	Maneuver Nodes
+1207	1516.16	35	86	These show where the active vessel's orbital plane crosses the target vessel's. AN is where \nthe active vessel goes from below the target plane to above it (and vice versa for DN).

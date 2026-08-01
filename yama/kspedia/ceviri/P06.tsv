@@ -1,0 +1,49 @@
+249	Atmosferde hava akışını yönlendirmek için kontrol yüzeylerini kullanabilirsin. Hava akışındaki değişim, uçağın \nyönelimini değiştirir. Bunu yapmana yardımcı olacak birçok parça vardır.
+250	Yatışı Etkiler\nYunuslamayı Etkiler\nSapmayı Etkiler\nSürüklenmeyi Etkiler\nTaşıma Kuvvetini Etkiler
+251	Aşağıda her kontrol türünün \nçok basitleştirilmiş etkileri verilmiştir:
+252	Kanatçık:\nİrtifa Dümeni:\nDümen:\nHava Freni:\nFlap:
+253	Hava Akışını Kontrol Etmek
+254	Kanatçıklar
+255	İrtifa Dümeni
+256	Dümen
+257	Flaplar
+258	Uçağın gökyüzünde ilerlerken, hava direncinin yol açtığı sürüklenme kuvveti onu yavaşlatır. \nBunun üstesinden itki ekleyerek - "dahaaa motor" - ya da aerodinamik şekli iyileştirerek gelirsin.
+259	Sürüklenme, seni yavaşlatan kuvvettir. \nTaşıma kuvveti gittiğin hızla ilişkili olduğundan, \ndaha fazla sürüklenme genellikle daha az hız \nve dolayısıyla daha az taşıma kuvveti demektir.
+260	Xzibit Kerman, Kerbin'deki her istasyonu yakalayabilmek için Velocitize'ın bu sürümünü fena kastı. \nNe yazık ki tüm bu sürüklenmeyle \nçok yavaş olacak.
+261	Sürüklenme ve Taşıma Kuvvetine Etkisi
+262	Sürükleyici Bir Konu
+263	Jet Motorları, uçağımıza <i>itki</i> sağlar. Bu motorlar oksijenlerini almak için hava alıklarını kullanır. Bu, \noksitleyici taşımana gerek olmadığı, ama yalnızca atmosferin yeterince yoğun olduğu yerlerde çalışabileceğin anlamına gelir.
+264	Tek Aşamada Yörüngeye (SSTO) çıkan bir araç yapmaya çalışıyorsan, üst atmosfere kadar çıkmak için jet motorları \nkullanabilir, oradan yörüngeye itmek için ise roketleri kullanabilirsin.
+265	Uçağının jet motorunu beslemek için hava alıklarına ve Sıvı Yakıt'a ihtiyacı vardır.
+266	Jet Motorlarında Neler Farklı
+267	Bu aerodinamik kuvvet, uçak \nhavada ilerlerken hava direncinin \nyol açtığı bir kuvvettir.
+268	Bu aerodinamik kuvvet kanatlar üzerindeki\nhava akışıyla üretilir. 
+269	Bu kuvvet, yerçekiminin uçağı \naşağı çekmesinden kaynaklanır.
+270	Motorların uçağı \nileri doğru \nittiren kuvveti.
+271	* Yere çarpma kuvvetini içermez
+272	Uçaklara Etki Eden Kuvvetler*
+273	İtki
+274	Ağırlık
+275	Sürüklenme
+276	Tüm hava alıkları aynı işlevi görse de, bazılarının tasarımına görsel veya işlevsel açıdan \ndaha uygun olduğunu göreceksin. İş için doğru parçayı seçmek ve yapım sırasında \nteknik özelliklere dikkat etmek önemlidir.
+277	Hava alıkları da motorlar gibi birçok şekil ve boyutta gelir. Akılda tutulması gereken en önemli şey, jet motorları \niçin hava topladıklarıdır; bu miktar hız ve rakıma göre değişir.
+278	Ne kadar hızlı gidersen, o kadar çok hava yakalanır; ne kadar \nyükseğe çıkarsan, o kadar az hava yakalanır (çünkü atmosfer \nyüksek rakımlarda daha incedir).
+279	Doğru Hava Alıklarını Seçmek
+280	Nefes Alma İhtiyacı
+281	Dikey kalkış yapmadığın için kalkışa yardımcı olacak \nşık tekerleklere ihtiyacın olacak. Bunların ayrıca şu can sıkıcı \niniş meselesinde de \nyardımcı olduğu bilinir.
+282	Önde ve arkada tekerlek olduğundan ve en az bir setin kararlılık için \ngeniş aralıklı yerleştirildiğinden emin olmalısın.
+283	Bu yapılandırma birçok durumda\ndik kalma olasılığı daha düşüktür.
+284	Denge ve kararlılık için güzel bir yayılım.
+285	İyi Bir Ayrım Sağlamak
+286	Haydi Yuvarlan
+287	Mutlak/Artımlı: Kontrolörünün/tuşlarının alanı nasıl değiştirdiğini belirler. Mutlak, yunuslama ve sapmaya daha çok benzer şekilde çalışır. Artımlı ise ana gaz kolu gibi çalışır.
+288	Eksen grupları, bir aksiyon grubunun bir parçanın aksiyonunu kontrol etmesine izin vermesi gibi, seçili bir parçanın değerlerini girdi kontrollerinle yönetmene olanak tanır.
+289	Bir parça değerini de aynı şekilde bir Eksen Grubuna eşlersin. Parçayı ve eksen grubunu seç, ardından alanı atamak için tıkla.
+290	Tersine Çevir: Kontrol edilen değerin tepki verdiği yönü ters çevirir
+291	Eksen grupları için iki ek kontrol belirir.
+292	Mutlak/Artımlı
+293	Eksen Grupları
+294	Eksen Grubu
+295	Parça Değeri
+296	Tersine Çevir
+297	Parça

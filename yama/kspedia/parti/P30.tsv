@@ -1,0 +1,54 @@
+idx	kutu_w	font	kapasite	EN
+1479	1071.2	40	53	As vessels grow larger you will find a need for structural \ncomponents. These parts help you to position parts in \njust the right place without needing to repurpose a fuel \ntank.
+1480	1394.62	40	69	The EAS-4 Strut Connector is the kerbal universe equivalent of duct tape. \nYou can use it in just about any situation to join parts together.
+1481	1268.96	40	63	If the connector goes between parts in different stages in a vessel, \nthen it will "break" by design when that stage is activated.
+1482	1080.47	40	54	These are especially useful in space station construction.
+1483	811.64	70	23	Girders, Plates and Struts
+1484	627.27	70	17	Strutting Your Stuff
+1485	1493.5	40	74	With enough practice and a little luck you'll be doing things like this in no time.
+1486	605.64	70	17	Advanced Rocketry
+1487	1505.86	40	75	The kerbal race has always wanted to get into space. Here is some information \non how to make this a reality.
+1488	1430.67	40	71	This information should help you to go from a pile of parts, like below, to a \ncontrollable rocket.
+1489	702.46	70	20	The Basics of Rocketry
+1490	688.04	40	34	The design here is streamlined with \nnosecones and parachutes on the \nflat end plates. These help reduce \nthe drag force as it heads for space.
+1491	698.34	40	34	The design here is (I hope you can \ntell) very bad aerodynamically - \nhowever in terms of fun it's going to \nbe a laugh.
+1492	1877.69	40	93	Designing your rocket with aerodynamics and drag forces in mind can help you with efficency and \nstability.
+1493	1500.71	70	42	Why Do You Need to Care About Aerodynamics?
+1494	692.16	70	19	A Not-So-Good Design
+1495	453.2	70	12	A Good Design
+1496	1005.28	40	50	This means that the engine will not apply rotation to \nthe rocket under thrust. Misaligning this is like using \na fire extinguisher in an office chair.<color=#ef2929>*</color>
+1497	1498.65	35	85	<color=#ef2929><i>*Note:</i></color> Mission Control does not endorse the use of fire extinguishers as office chair propellant.
+1498	1193.77	40	59	To do this, build your rocket keeping the center of thrust (CoT) \npushing through the center of mass (CoM).
+1499	1223.64	40	61	Keeping your thrust centered will also help to keep things going \nwhere you want.
+1500	1106.22	70	31	Center of Thrust vs. Center of Mass
+1501	683.92	70	19	Keeping to the Center
+1502	201.88	40	10	Off-Center
+1503	143.17	40	7	Aligned
+1504	150.38	40	7	Rotated
+1505	1246.3	40	62	What goes up <b><i>does</i></b> come back down. It is much easier, and more \nefficient, to use parachutes when landing on bodies that have an \natmosphere. Compared to an engine burn that is.
+1506	1230.85	40	61	The staging stack icon displays the state of each parachute. The \ncolor of the background shows how safe it is to stage. The icon's \ncolor shows the state of the staged chute.
+1507	1274.11	40	63	Just keep in mind that not all the places you visit have atmosphere.
+1508	748.81	70	21	The Parachute Indicator
+1509	328.57	40	16	Unsafe to Deploy
+1510	291.49	40	14	Risky to Deploy
+1511	276.04	40	13	Safe to Deploy
+1512	461.44	70	13	Landing Softly
+1513	289.43	40	14	Cut / Shredded
+1514	322.39	50	12	Packed Chutes
+1515	289.43	40	14	Semi-Deployed
+1516	320.33	50	12	Staged Chutes
+1517	176.13	40	8	Activated
+1518	182.31	40	9	Deployed
+1519	1583.11	40	79	EC is used for many purposes, but batteries are heavy for a single use item. Luckily \nEC can be generated in a number of ways.
+1520	731.3	40	36	Many engines have built in alternators\nthat will generate varying amounts of\nEC, depending on the throttle setting.
+1521	782.8	40	39	A constant and reliable source of EC, but \nsignificantly heavier than other options.
+1522	943.48	40	47	Lightweight and reliable, these come in a number\nof sizes and shapes.
+1523	569.59	40	28	Consuming LF and OX, these \ncells generate EC when active.
+1524	375.95	35	21	<color=#ef2929>Note:</color> Sunlight required.
+1525	844.6	70	24	Recharging Electric Charge
+1526	463.5	70	13	Thermoelectric\nGenerator
+1527	596.37	70	17	Engine Alternators
+1528	391.4	70	11	Solar Panels
+1529	298.7	70	8	Fuel Cells
+1530	1145.36	40	57	This family of low thrust engines are particularly useful for \nprobes. They run on Xenon Gas and Electric Charge (EC) and\nare particularly useful for long low thrust burns.
+1531	772.5	40	38	As the name suggests these engines are \ntypically used as boosters to get things \nmoving. They carry their own fuel and \nonce lit cannot be throttled or shut off.

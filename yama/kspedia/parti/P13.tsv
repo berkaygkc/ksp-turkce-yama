@@ -1,0 +1,35 @@
+idx	kutu_w	font	kapasite	EN
+513	522.21	40	26	<b>Crew Seats:</b>\n<size=35>Here you will see a segment \nfor each part in the vessel that \nhas seats. \n\nYou can assign kerbals to seats \nfrom the available crew, or \nremove kerbals from seats if \nyou need an empty seat for a \nrescue.</size>
+514	501.61	40	25	<b>Available Kerbals:</b>\n<size=35>The kerbals listed here are \nthe ones on your roster. Pay \nspecial attention to the role \nand skill level of your kerbals, \nespecially in career.\n\nIf you run out you may need \nto hire more.</size>
+515	460.41	40	23	<b>Astronaut Complex:</b>\n<size=35>This will take you to the AC \nwhere you can hire (or fire) \nmembers of your space \nprogram.</size>
+516	1833.4	40	91	The crew tab in the construction interface helps you to assign kerbals to the seats in your vessel.
+517	477.92	70	13	Vessel Crewing
+518	764.26	40	38	<b>Design Checklist:</b>\n<size=35>In the bottom half of the app will be the list \nof checks that may need your attention. You \ndon't have to fix these, but it is always a good \nidea to give them a once over.</size>
+519	748.81	40	37	<b>Basic Information:</b>\n<size=35>Here you will find things like part count, size \nand mass. In career mode you will see when \nyou the hit the limits of your facilities.</size>
+520	1996.14	40	99	This app can save you from disaster - if you're paying attention. The engineer's report lists things of note \nabout the vessel under construction.
+521	695.25	40	34	<b>Checklist Severities:</b>\n<size=35>There are three severity levels for checks:</size>
+522	227.63	35	13	Informational\nWarning\nCritical
+523	682.89	70	19	The Engineer's Report
+524	1033	40	51	<b>Gizmo Frame of Reference:</b>\n<size=35>Underneath the tool icons you will see a frame of reference \nselector when available. This button will toggle the way a part \nis adjusted through the possible options for the active gizmo.</size>
+525	1913.74	40	95	<b>Fine Control Option:</b>\n<size=35>With snap enabled, holding down                   will make the place, offset and rotate tools work in smaller increments.</size>
+526	572.68	40	28	Lets you change the root part \nof any group of parts. It is a \ntwo part process of clicking \nthe group then selecting the \nnew root part.
+527	571.65	40	28	Activate this tool to pick up \nand connect parts. With snap \nenabled, radially placed parts \nwill attach at 15° increments.
+528	572.68	40	28	Provides handles to rotate \nthe part along each axis. With \nsnap enabled this will rotate \nthe part in 15° increments.
+529	558.26	40	27	Provides handles to drag the \npart along each axis. With \nsnap enabled this will move \nthe part in 20cm steps.
+530	1639.76	40	81	In the construction interface there are four tools to help you design the perfect vessel.
+531	439.81	40	21	Place Gizmo (Default)
+532	639.63	70	18	Construction Gizmos
+533	265.74	40	13	Offset Gizmo
+534	276.04	40	13	Rotate Gizmo
+535	153.6	27	11	Left Shift
+536	234.84	40	11	Root Gizmo
+537	941.42	35	53	This info shows the cost of launching the current vessel, \nincluding the resources on board.\n\nThe second value is your available Funds (if you're in \ncareer mode)
+538	564.44	35	32	This marker shows the sum of all \nthe sources of thrust to generate \nthis marker. It displays the CoT of \nall the engines in the vessel.
+539	586.07	35	33	The center of mass is the place \nwhere the sum of all the individual \ncomponents mass is balanced. \nThink of it as the balance point.
+540	571.65	35	32	This marker shows the sum of all \nthe lift forces on the vessel. Much \nmore on this in the section about \naircraft.
+541	1746.88	40	87	Near the snap and symmetry controls you will find buttons to toggle the "center" indicators.
+542	1048.54	70	29	Information on Centers and Costs
+543	448.05	40	22	Center of Thrust (CoT)
+544	450.11	40	22	Vessel Cost and Funds
+545	434.66	40	21	Center of Mass (CoM)
+546	383.16	40	19	Center of Lift (CoL)

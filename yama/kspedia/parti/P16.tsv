@@ -1,0 +1,89 @@
+idx	kutu_w	font	kapasite	EN
+739	409.94	37	22	Toggle NavBall visibility
+740	485.13	37	26	Open debug/cheat window
+741	414.06	37	22	Focus on previous item
+742	404.79	37	21	Physics warp decrease
+743	392.43	37	21	Physics warp increase
+744	727.18	70	20	Map and Time Controls
+745	337.84	37	18	Focus on next item
+746	360.5	37	19	Time warp decrease
+747	445.99	50	17	Time Warp Controls
+748	348.14	37	18	Time warp increase
+749	317.24	37	17	Toggle map mode
+750	331.66	50	13	Debug Options
+751	225.57	50	9	Map View
+752	105.7	35	6	Tab
+753	1460.54	70	41	Mouse Controls - Construction in VAB and SPH
+754	266.77	40	13	Orbit camera\naround vessel
+755	360.5	40	18	Scroll staging stack
+756	363.59	40	18	Select whole vessel
+757	370.8	40	18	Duplicate assembly
+758	401.7	40	20	Keyboard Modifiers
+759	299.73	40	14	Camera Vertical
+760	259.56	40	12	Shift Modifier
+761	318.27	40	15	Open part menu
+762	292.52	40	14	Middle Button
+763	135.96	40	6	Double\nClick
+764	259.56	40	12	Right Button
+765	222.48	40	11	Alt Modifier
+766	233.81	40	11	Left Button
+767	263.68	40	13	Zoom camera
+768	201.88	40	10	Select part
+769	257.5	40	12	Move camera
+770	225.57	40	11	Pan camera
+771	194.67	40	9	Scroll-SPH
+772	196.73	40	9	Scroll-VAB
+773	180.25	40	9	Drag-SPH
+774	182.31	40	9	Drag-VAB
+775	92.7	40	4	Click
+776	266.77	40	13	Orbit camera \naround vessel
+777	348.14	40	17	Target vessel with \ncamera
+778	284.28	40	14	Open multiple \npart menus
+779	736.45	70	21	Mouse Controls - Flight
+780	397.58	40	19	EVA RCS: Turn kerbal
+781	378.01	40	18	Pan and Tilt camera
+782	396.25	40	19	Flight: Set target
+783	396.25	40	19	Map: Set focus
+784	396.25	40	19	Map: Open Menu
+785	177.94	40	8	Scroll
+786	905.37	70	25	RCS Flight Controls and Trim
+787	662.29	50	26	Trimming Pitch/Yaw and Roll
+788	358.44	40	17	Toggle RCS on / off
+789	239.99	50	9	Forward /\nBackward
+790	317.24	40	15	Adjust pitch trim
+791	283.25	40	14	Adjust roll trim
+792	251.32	50	10	<i>Up / Down</i>
+793	358.44	50	14	RCS Translation
+794	296.64	40	14	Adjust yaw trim
+795	248.23	40	12	Reset all trim
+796	1336.94	35	76	<i><color=#ef2929><i>Note:</i></color> These show the stock game controls and do not reflect settings customizations.</i>
+797	1234.97	40	61	How to control vessels and kerbals so you can build and explore.
+798	263.68	70	7	Controls
+799	1969.36	40	98	Throughout the solar system there are many places to see and visit. This includes a number of unusual \nobjects and places of interest.
+800	642.72	40	32	I wonder how many you can find?
+801	743.66	70	21	Other Places of Interest
+802	686.97	35	39	Construction mode has many of the same controls available in the editor.  A kerbal can only work on one part at a time, so placing parts in symmetry, and removing multiple parts at once is not possible.
+803	686.97	35	39	Only parts below a certain weight and size can be constructed with. Constructing in low gravity allows more parts to be changed out.
+804	1731.5	40	86	Engineers on EVA can attach and remove parts from a vessel with their welding laser.
+805	686.97	35	39	Access Construction mode by pressing I or clicking the Construction Mode App.
+806	654.3	70	18	EVA Construction Mode
+807	362.37	40	18	Weight Limits
+808	362.37	40	18	Tools
+809	1047.51	40	52	<b>Level 1:</b>   Roster limit of 5 and no off-Kerbin EVA\n<b>Level 2:</b>   Roster limit of 12 and off-Kerbin EVA allowed\n<b>Level 3:</b>   Roster unlimited and off-Kerbin EVA allowed
+810	1856.06	40	92	The Astronaut Complex contains the living and recreation spaces for all your crewmembers. New \napplicants also apply here to be recruited.
+811	1940.52	40	97	From this facility you can manage your crew roster and check the status of any kerbals who may have \nunfortunately gone missing.
+812	893.01	70	25	The Astronaut Complex (AC)
+813	295.61	50	11	Career Limits
+814	143.17	40	7	Level 1
+815	143.17	40	7	Level 3
+816	143.17	40	7	Level 2
+817	971.29	40	48	<b>Level 1:</b> 1 active strategy and 25% commitment\n<b>Level 2:</b> 3 active strategies and 60% commitment\n<b>Level 3:</b> 5 active strategies and 100% commitment
+818	1905.5	40	95	The Administration Building may not seem like a very exciting place at first, but here is where all the \nstrategic decisions are made.
+819	1731.43	40	86	These strategies can help to focus your space program towards specific rewards and goals.
+820	1165.96	70	33	The Administration Building (Admin)
+821	965.11	40	48	You can access extra information about any of the \nfacilities in the KSC by right-clicking on it.\n\nIn this menu you can see information about its \ncurrent state, capabilities and in career mode \nyou can also manage upgrades.
+822	775.59	40	38	If due to some unforseen rocket, I mean \ncircumstance, a facility is damaged - this \nis where you access the repair function \nas well.
+823	721	35	41	Aftermath of early right turn from the runway
+824	716.88	70	20	Facilities Management
+825	607.7	70	17	Repairing Facilities
+826	1958.03	40	97	This is the Kerbal Space Center (KSC). It is <i>literally</i> the center of the known universe (well, until you look \nup). Here we'll run through the facilities, their career levels and limitations.

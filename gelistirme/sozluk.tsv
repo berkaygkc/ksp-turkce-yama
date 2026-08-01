@@ -1,0 +1,283 @@
+# KSP Türkçe Terim Sözlüğü
+# Politika: teknik/uluslararası terimler İngilizce kalır, gerisi Türkçe.
+# Parça adlarında model kodu korunur, tür adı çevrilir.
+# Sütunlar: İngilizce <TAB> Türkçe <TAB> not
+#
+# === DEĞİŞMEYECEKLER (özel ad / topluluk terimi) ===
+Kerbal	Kerbal	özel ad
+Kerman	Kerman	Kerbal soyadı
+Jebediah	Jebediah	özel ad
+Valentina	Valentina	özel ad
+Wernher	Wernher	özel ad
+Gus	Gus	özel ad
+Linus	Linus	özel ad
+Mortimer	Mortimer	özel ad
+Walt	Walt	özel ad
+Gene	Gene	özel ad
+Kerbin	Kerbin	gök cismi
+Mun	Mun	gök cismi
+Minmus	Minmus	gök cismi
+Duna	Duna	gök cismi
+Ike	Ike	gök cismi
+Eve	Eve	gök cismi
+Gilly	Gilly	gök cismi
+Moho	Moho	gök cismi
+Dres	Dres	gök cismi
+Jool	Jool	gök cismi
+Laythe	Laythe	gök cismi
+Vall	Vall	gök cismi
+Tylo	Tylo	gök cismi
+Bop	Bop	gök cismi
+Pol	Pol	gök cismi
+Eeloo	Eeloo	gök cismi
+Kerbol	Kerbol	gök cismi
+delta-v	delta-v	yerleşik terim
+Δv	Δv	sembol
+apoapsis	apoapsis	yerleşik terim
+periapsis	periapsis	yerleşik terim
+Ap	Ap	kısaltma
+Pe	Pe	kısaltma
+SAS	SAS	kısaltma
+RCS	RCS	kısaltma
+EVA	EVA	kısaltma
+CommNet	CommNet	sistem adı
+KSC	KSC	kısaltma
+VAB	VAB	kısaltma
+SPH	SPH	kısaltma
+TWR	TWR	kısaltma
+Isp	Isp	kısaltma
+biome	biyom	yerleşik terim
+prograde	prograde	navball işareti
+retrograde	retrograde	navball işareti
+normal	normal	navball işareti
+antinormal	antinormal	navball işareti
+radial in	radial in	navball işareti
+radial out	radial out	navball işareti
+Monopropellant	Monopropellant	kaynak adı
+Karbonite	Karbonite	kaynak adı
+#
+# === TEMEL FİZİK / UÇUŞ ===
+thrust	itki
+drag	sürüklenme
+lift	taşıma kuvveti
+weight	ağırlık
+mass	kütle
+altitude	rakım
+velocity	hız
+speed	hız
+acceleration	ivme
+gravity	yerçekimi
+G-force	G kuvveti
+atmosphere	atmosfer
+atmospheric	atmosferik
+vacuum	vakum
+pressure	basınç
+temperature	sıcaklık
+heat	ısı
+overheating	aşırı ısınma
+reentry	atmosfere giriş
+terminal velocity	sınır hız
+escape velocity	kaçış hızı
+angle of attack	hücum açısı
+center of mass	kütle merkezi
+center of thrust	itki merkezi
+center of lift	taşıma merkezi
+drag coefficient	sürüklenme katsayısı
+#
+# === YÖRÜNGE ===
+orbit	yörünge
+orbital	yörüngesel
+suborbital	yörünge altı
+inclination	yörünge eğimi
+eccentricity	dışmerkezlik
+sphere of influence	etki alanı
+trajectory	yörünge izi
+maneuver node	manevra düğümü
+maneuver	manevra
+burn	yakma
+burn time	yakma süresi
+transfer	geçiş
+rendezvous	randevu
+docking	kenetlenme
+undock	kenetlenmeyi çöz
+encounter	karşılaşma
+closest approach	en yakın geçiş
+ascending node	çıkış düğümü
+descending node	iniş düğümü
+circularize	daireselleştir
+#
+# === ARAÇ / PARÇA ===
+vessel	araç
+craft	araç
+part	parça
+stage	aşama
+staging	aşamalama
+decoupler	ayırıcı
+separator	ayraç
+docking port	kenetlenme portu
+strut	destek çubuğu
+fuel line	yakıt hattı
+fairing	kaplama
+nose cone	burun konisi
+adapter	adaptör
+command pod	kumanda kapsülü
+cockpit	kokpit
+crew cabin	mürettebat kabini
+probe core	sonda çekirdeği
+fuel tank	yakıt tankı
+engine	motor
+booster	yardımcı roket
+liquid fuel engine	sıvı yakıt motoru
+solid rocket booster	katı yakıtlı roket
+jet engine	jet motoru
+ion engine	iyon motoru
+intake	hava alığı
+parachute	paraşüt
+heat shield	ısı kalkanı
+landing gear	iniş takımı
+landing leg	iniş ayağı
+wheel	tekerlek
+wing	kanat
+control surface	kontrol yüzeyi
+aileron	kanatçık
+rudder	dümen
+elevator	irtifa dümeni
+solar panel	güneş paneli
+battery	pil
+reaction wheel	reaksiyon tekerleği
+antenna	anten
+ladder	merdiven
+light	ışık
+science part	bilim parçası
+drill	matkap
+converter	dönüştürücü
+radiator	radyatör
+#
+# === KAYNAKLAR ===
+Liquid Fuel	Sıvı Yakıt
+Oxidizer	Oksitleyici
+Solid Fuel	Katı Yakıt
+Electric Charge	Elektrik Yükü
+Intake Air	Alınan Hava
+Ore	Cevher
+Ablator	Ablatör
+Xenon Gas	Ksenon Gazı
+resource	kaynak
+propellant	yakıt
+fuel	yakıt
+#
+# === KONTROL ===
+throttle	gaz
+pitch	yunuslama
+yaw	sapma
+roll	yatış
+translate	ötele
+rotation	dönüş
+translation	öteleme
+brakes	frenler
+gear	iniş takımı
+abort	iptal
+action group	aksiyon grubu
+custom action group	özel aksiyon grubu
+toggle	aç/kapat
+activate	etkinleştir
+deactivate	devre dışı bırak
+autopilot	otopilot
+navball	navball
+#
+# === OYUN AKIŞI ===
+launch	fırlatma
+launchpad	fırlatma rampası
+runway	pist
+recover	kurtar
+revert	geri al
+quicksave	hızlı kayıt
+quickload	hızlı yükleme
+time warp	zaman hızlandırma
+warp	hızlandırma
+tracking station	takip istasyonu
+mission control	görev kontrol
+astronaut complex	astronot kompleksi
+research and development	araştırma ve geliştirme
+administration	yönetim
+career	kariyer
+sandbox	serbest mod
+science mode	bilim modu
+#
+# === BİLİM / EKONOMİ ===
+science	bilim
+experiment	deney
+data	veri
+sample	numune
+report	rapor
+transmit	ilet
+tech tree	teknoloji ağacı
+research	araştırma
+node	düğüm
+unlock	aç
+contract	kontrat
+funds	fon
+reputation	itibar
+reward	ödül
+penalty	ceza
+advance	avans
+deadline	son tarih
+agency	ajans
+#
+# === MÜRETTEBAT ===
+crew	mürettebat
+pilot	pilot
+engineer	mühendis
+scientist	bilim insanı
+tourist	turist
+experience	deneyim
+level	seviye
+hire	işe al
+#
+# === EDİTÖR ===
+symmetry	simetri
+mirror symmetry	ayna simetrisi
+radial symmetry	dairesel simetri
+snap	hizalama
+root part	kök parça
+subassembly	alt montaj
+category	kategori
+sort	sırala
+filter	filtrele
+#
+# === ARAYÜZ ===
+settings	ayarlar
+apply	uygula
+accept	kabul et
+cancel	iptal
+close	kapat
+back	geri
+next	ileri
+previous	önceki
+resume	devam et
+confirm	onayla
+enabled	açık
+disabled	kapalı
+default	varsayılan
+warning	uyarı
+error	hata
+
+# === KALİBRASYONDA EKLENENLER ===
+attitude	yönelim
+attitude hold	yönelim kilidi
+hold	kilit	SAS modu bağlamında
+stability assist	denge desteği
+science return	bilim verimi
+repack	yeniden paketleme
+efficiency	verim
+tolerance	tolerans
+flame-out	alev sönmesi
+relay	aktarma
+deploy	aç
+retract	topla
+extend	uzat
+target	hedef
+tracking	takip
+readout	gösterge
+gauge	gösterge
+toggle	aç/kapat

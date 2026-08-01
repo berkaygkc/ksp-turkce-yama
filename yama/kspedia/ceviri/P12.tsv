@@ -1,0 +1,26 @@
+487	Doğru ekipmanla bir araç, bilim verilerini CommNet üzerinden Kerbin'e iletebilir. Sinyal \ngücü ne kadar yüksek olursa, iletimden o kadar çok bilim elde edilir. Veriyi iletmek yerine \ngeri getirmek her zaman daha iyidir, ama güçlü bir Sinyal büyük fark yaratabilir.
+488	CommNet, yumuşak engelleme kullanır; yani hedef ufkun \naltına indiğinde sinyal hemen kesilmez. Ayrıca atmosferik gök cisimleri, sinyalin atmosfer içinde sekmesine izin vererek \nhedefin ufkun ne kadar altında olabileceği mesafeyi artırır.
+489	Sinyal gücü, DSN'e ya da bir Kontrol Noktasına giden yoldaki tüm bağlantıların sinyal güçlerinin \nçarpımıdır. Örneğin:
+490	Bilim İletimi
+491	Yol Gücü
+492	Engelleme
+493	Aksiyon gruplarıyla tek bir tuşa basarak birden fazla aksiyonu tetikleyebilirsin. Yaygın bir kurulum, \ntüm güneş panellerinin tek bir tuşla açılıp kapanması ya da tüm radyatörlerin açılması olabilir. Burada görülen \ndüzende, grupları değiştirmek için listelenen aksiyonlara tıklarsın.
+494	<b>Parça Aksiyonları:</b>\n<size=35>Bu, düzenleyicide \nseçili parça için \nkullanılabilir aksiyonları \ngösterir.\n\nSeçilen parça simetri \nkullanılarak yerleştirildiyse, \naksiyon simetri grubundaki \ntüm parçaları kapsar.</size>
+495	<b>İptal Aksiyon Grubu:</b>\n<size=35>Bu standart grup, bir fırlatma sorunu durumunda kaçış kulesini ateşleyip mürettebatını kurtarmak için kullanılabilir. Bunun \nolası olduğunu söylemiyoruz ama kazalar olur.</size>
+496	<b>Grup Aksiyonları:</b>\n<size=35>Burada listelenen aksiyonlar, \nvurgulanan grup \netkinleştirildiğinde \ntetiklenir.</size>
+497	<b>Özel Gruplar:</b>\n<size=35>Bunlar, 1'den 0'a kadar \nolan tuşlara basıldığında \ngerçekleşecek aksiyonları tanımlamana olanak tanır.</size>
+498	<b>Standart Gruplar:</b>\n<size=35>Listedeki bu öğeler \naracılığıyla standart \naksiyonlara ekleme yapabilirsin.</size>
+499	<size=35><i>Sahnede bir parçayı seçmek, tanımlanabilmesi için onun mavi renkte vurgulanmasını sağlar</i></size>
+500	Aksiyon Grupları
+501	Aşamalama Yığını ile aracın uçuşunun her aşamasında gerçekleşecek etkinlikleri ayarlayabilirsin. \nUçuş sırasında, bazı ek bilgiler gösteren bir versiyonunu göreceksin. Bunun yanında, yapım \nsahneleri için Uygulama Başlatıcı bulunur.
+502	<b>Aşamalamayı Sıfırla:</b>\n<size=35>Bu, aşamalamayı KSP'nin orijinal \ndurum olarak "düşündüğü" hale sıfırlar... \nuyarılmış ol, bilgisayarların \ndüşünmesine izin vermek daha önce \nsorunlara yol açtı!</size>
+503	Burada bir aracın dört aşamasını \nve her aşamaya atanmış \nparçaları görüyoruz. \n\nBir aşama etkinleştirildiğinde, \no aşamaya atanmış parçalar \netkinleştirilir.
+504	<b>Aşamaları Taşıma:</b>\n<size=35>Bir aşamayı turuncu \nbaşlığından tutup yığındaki sırasını \ndeğiştirmek için sürükleyebilirsin.</size>
+505	<b>Alta Aşama Ekle:</b>\n<size=35>Bu, içine parça sürüklenmeye \nhazır boş bir aşama ekler.</size>
+506	<b>Boş Aşamayı Kaldır:</b>\n<size=35>Simgenin yanındaki aşamayı siler.\nbu yalnızca boş aşamalar için çalışır.</size>
+507	<color=#ef2929>Not: </color>Aşamalama yığını, bazı ufak farklılıklarla birlikte uçuş sırasında da görünür
+508	<b>Parçaları Taşıma:</b>\n<size=35>Simgelerini hareket ettirerek parçaları \naşamalar arasında sürükleyebilirsin.</size>
+509	<b>Uygulama Başlatıcı:</b>\n<size=35>Buradan çeşitli \nbilgilere erişebilirsin.</size>
+510	<b>Boş Aşama:</b>\n<size=35>İçine parça <i>sürüklenmeye</i> \nhazır.</size>
+511	Aşamalama Yığını ve Uygulama Başlatıcı
+512	<b>Kerbalları Taşıma:</b>\n<size=35>Kerbalları <i>sürükleyerek</i> ya da imlecin üzerlerine geldiğinde görünen onay/çarpı düğmelerini kullanarak \npozisyonlara atayabilirsin. Bir koltuğu doldurduğundan emin olmanın birçok yolu vardır, ama yine de bazen unutursun.</size>

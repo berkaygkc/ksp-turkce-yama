@@ -1,0 +1,26 @@
+359	<b>Kadro Sekmeleri:</b>\n<size=35>Buradaki üç sekme sana mevcut, atanmış ve kayıp astronotları gösterir. Üstte, \ntesisin şu anki seviyesiyle sahip olabileceğin azami kadro boyutunu görürsün.</size>
+360	<b>Kayıp Kerballer:</b>\n<size=35>Bu kerballerin kariyerleri sırasında talihsiz \nbir "kaza" geçirmişlerdir. Fazla \nendişelenme, sonunda evin \nyolunu bulacaklardır.\n\n\n</size>
+361	Bu tesis, astronot kadronu yönetmeni sağlar.
+362	Astronot Kompleksi
+363	<b>Strateji Ayrıntıları:</b>\n<size=35>Seçilen stratejinin ayrıntıları ve etkileri burada gösterilir. \n\nTeklif edilen stratejiler için, kabul etmeden önce yapmak istediğin \ntaahhüdü ayarlamak için kaydırıcıyı kullanabilirsin. Aktif \nstratejiler içinse onları iptal etmen için büyük kırmızı bir buton vardır.</size>
+364	<b>Aktif Stratejiler:</b>\n<size=35>Burada şu anda aktif olan \nstratejileri, ayrıca tesisin şu anki \nseviyesinde kabul edebileceğin \nazami sayıyı görebilirsin.</size>
+365	<b>Mevcut Stratejiler:</b>\n<size=35>Bunlar, departman başkanlarının sana sunabileceği \nstratejilerdir. Birini seçmek daha fazla bilgi gösterir.</size>
+366	Yönetim arayüzünde, stratejilerini yönetmek için kullanabileceğin üç ana bölüm vardır.
+367	Yönetim Binası
+368	KSP ile ilgili her şey için burası senin evin. Kerballerini destansı bir uzay macerasına hazırlamak için \nfarklı tesisler arasında gezinirken burayı sıkça göreceksin.
+369	Fon/İtibar/Bilim
+370	Kerbal Uzay Merkezi
+371	Bina\nKısayolları
+372	Zaman Kontrolleri
+373	Uygulama Başlatıcı
+374	Çıkış/Duraklat
+375	<b>Kontrat Listesi:</b>\n<size=35>Buradaki üç sekme sana mevcut, aktif ve tamamlanmış \nkontratları gösterir. Aktif olarak sahip olabileceğin sayı, Görev Kontrol \ntesisinin ne kadar geliştiğine bağlıdır.</size>
+376	<b>Kontrat Ayrıntıları:</b>\n<size=35>Seçilen kontratın ayrıntıları ve tamamlanma durumu burada gösterilir, \nayrıca (canın istemezse) kabul et, reddet ve iptal et butonlarıyla birlikte.\n\n\n</size>
+377	Görev Kontrol, teklif edilen, aktif ya da tamamlanmış olsun, kontratlar hakkında yığınla bilgi barındırır. \nUzay programın için hedefleri seçebilir ve olası ödülleri kontrol edebilirsin.
+378	Görev Kontrol
+379	<b>Rapor Ayrıntıları:</b>\n<size=35>Bu liste, seçtiğin filtreyle eşleşen raporların \nayrıntılarını gösterir. İlerleme çubuğu, o rapor için toplayabileceğin \nbilim miktarına kıyasla şu ana kadar ne kadar bilim \ntopladığını gösterir. Çubuk doluysa, o etkinliği \ntekrarlamanın bir anlamı yoktur.</size>
+380	<b>Araç Çubuğu:</b>\n<size=35>En üstte (soldan sağa) \nTeknoloji ve Bilim \nArşivleri sekmeleri; güncel \nFon, İtibar ve Bilim seviyesi; \nve çıkış yolu bulunur.\n</size>
+381	<b>Rapor Filtreleri:</b>\n<size=35>Burada, sağda gösterilecek raporları filtreleyebilirsin.\nGezegene, deneye, duruma ve biyoma göre filtreleyebilirsin.\n\n\n</size>
+382	AR-GE Bilim Arşivleri, bilimsel keşiflerdeki ilerlemeni gösterir. Topladığın tüm değerli deney \nsonuçlarını burada saklar.
+383	Araştırma ve Geliştirme Bilim Arşivleri
+384	<b>Teknoloji Ayrıntıları:</b>\n<size=35>Seçilen ağaç düğümünün ve ilişkili parçaların \nayrıntıları burada gösterilir. Kilidini açmak için gereken \nönkoşul düğümleri (ve kilitliyse bunun için Bilim harcayacağın butonu) \nve teknolojiyi oluşturan parçaları görebilirsin. Daha zor \nseviyelerde, her parçanın kilidini açmak için Fon harcarsın.</size>

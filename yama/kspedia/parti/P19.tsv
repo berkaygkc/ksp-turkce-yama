@@ -1,0 +1,64 @@
+idx	kutu_w	font	kapasite	EN
+931	1220.46	35	69	Open the Maneuver tool from the app bar for any craft in flight. You’ll need a level 3 Tracking station when playing career.
+932	1220.46	35	69	Select the part of the current crafts orbital plan that you want to create a maneuver in and choose your time format here.
+933	1879	40	93	The maneuver tool gives assistance plotting transfer and intercept maneuvers.
+934	1220.46	35	69	Useful information on the control you’re mousing over will appear here.
+935	1220.46	40	61	Maneuver Configuration:
+936	1220.46	40	61	Maneuver Options:
+937	1220.46	40	61	Create Maneuver:
+938	649.97	70	18	Maneuver Tool\n
+939	1220.46	40	61	Help Text:
+940	1220.46	40	61	App Icon:
+941	2010.56	40	100	The mode control shows important information regarding the inputs and control of your vessel. It can be \nchanged between staging, docking and map modes.
+942	533.54	35	30	Shows specialized control input \nindicators for the two docking \nmodes: rotation (ROT) and \ntranslation (LIN). 
+943	538.69	35	30	Shows the active stage number \nand the stage lock indicator \n(green for go, purple for locked).
+944	519.12	35	29	Note that the PYR Indicators \nchange to blue when precision \nmode is enabled.
+945	534.57	35	30	Shows the state of the three \ninput axes and any trim applied.
+946	436.72	35	24	Activates staging, docking \nand map modes.
+947	484.1	40	24	Pitch/Yaw/Roll Indicators:
+948	353.29	40	17	Staging Indicators:
+949	325.48	40	16	Precision Mode:
+950	283.25	40	14	Mode Buttons:
+951	303.85	40	15	Docking Mode:
+952	424.36	70	12	Mode Control
+953	1915.8	40	95	This helps you understand your vessel's orientation. Think of it as a three-dimensional compass: the \nblue half of the sphere indicating away from the body you're orbiting (sometimes known as the sky \nwhen you are landed), the brown half is towards it (ground) and the line between them an artificial \nhorizon.
+954	1521.31	40	76	On the NavBall you will see a range of symbols that indicate points of reference:
+955	291.49	40	14	Stability Assist\nMode Indicator
+956	452.17	40	22	Stability Assist Indicator
+957	332.69	40	16	Throttle Indicator
+958	317.24	40	15	Artificial Horizon
+959	380.07	40	19	Maneuver Prograde
+960	534.57	70	15	NavBall Markers
+961	279.13	40	13	Level Indicator
+962	290.46	40	14	Vessel Heading
+963	271.92	40	13	G-Force Meter
+964	255.44	40	12	RCS Indicator
+965	232.78	40	11	Anti-Normal
+966	381.1	70	10	The NavBall
+967	214.24	40	10	Retrograde
+968	202.91	40	10	Radial-Out
+969	167.89	40	8	Radial-In
+970	176.13	40	8	Prograde
+971	143.17	40	7	Normal
+972	686.97	35	39	To fix a part, EVA an engineer with repair kits in their inventory.  Get close to the damaged part, open its action menu, and click Repair.
+973	686.97	35	39	Repair kits are consumed to effect the repair. Larger parts will need the supplies from multiple repair kits to repair them.
+974	1731.5	40	86	Some parts can get damaged due to challenges posed by space travel.
+975	686.97	35	39	Kerbals can fix many of those broken parts by using a repair kit.
+976	362.37	40	18	Effecting Repairs
+977	654.3	70	18	Part Repairs
+978	362.37	40	18	Repair Kits
+979	1961.12	37	106	During flight you can monitor the fear - I mean excitement - of your astronauts via the portraits in the bottom-\nright corner. Hovering over a specific kerbal will give you detailed info on them.
+980	517.06	35	29	Also known as Intravehicular \nActivity. Changes the camera \nto show you this kerbal's point \nof view.
+981	564.44	35	32	The kerbal's name. Their role and \nskill level will be shown when the \ncursor is over a portrait.
+982	713.79	35	40	Reveal the vessel's interior spaces. It's like \nlooking at the man behind the curtain.
+983	1153.6	33	69	*EVA while flying in atmosphere can be detrimental to a kerbal's health.
+984	513.97	35	29	Extravehicular Activity: this \nkerbal will exit the spacecraft.*
+985	435.69	35	24	Adjust how many portaits \nare shown in the list.
+986	454.23	40	22	Interior Overlay Mode
+987	391.4	40	19	Kerbal Information
+988	350.2	40	17	View Action (IVA)
+989	372.86	40	18	Add/Remove Slots
+990	325.48	40	16	Kerbal Portraits
+991	221.45	40	11	EVA Action
+992	1995.11	40	99	The staging stack helps you to visualize the vessel's current and upcoming stages. In flight mode It \nshows you how much fuel is attached to running engines, and also lets you adjust the stages "on the fly."
+993	610.79	40	30	<b>Remove Empty Stage:</b>\n<size=35>Deletes the stage next to the icon.</size>\n<i><size=35><color=#ef2929><i>Note:</i></color></size><size=35><i> this only works for empty stages</i></size>.</i>

@@ -1,0 +1,39 @@
+idx	kutu_w	font	kapasite	EN
+827	1964.21	40	98	The Launchpad is where vessels built at the VAB start their flights. We are reasonably confident it's at a \nsafe enough distance from everything else.
+828	1779.84	40	88	It is primarily designed for vertical launches, but don't let that stop you from trying variations.
+829	560.32	40	28	Level 1: 20.0 x 21.2m - 18.0t\nLevel 2: 36.0 x 39.6m - 140.0t\nLevel 3: Unlimited
+830	467.62	70	13	The Launchpad
+831	1938.46	40	96	At the Mission Control facility, all available contracts can be managed. It also offers a very nice view of \nthe launch sites, for any brave enough to be so close to a launching vessel.
+832	1032.06	40	51	<b>Level 1:</b> 2 active contracts, flight planning unavailable\n<b>Level 2:</b> 7 active contracts and flight planning\n<b>Level 3:</b> Unlimited active contracts and flight planning
+833	1980.69	40	99	You can pick and choose the next goals for your space program, and check out the prospective rewards.
+834	668.47	70	19	Mission Control (MC)
+835	1131.97	40	56	<b>Level 1:</b> 100 Science point limit and no surface samples or\n                resource transfer\n<b>Level 2:</b> 500 Science point limit, surface samples and\n                resource transfer allowed\n<b>Level 3:</b> Unlimited science points
+836	1800.44	40	90	At the R&D facility, the team of scientists works hard to crunch the data received from mission \nexperiments. Here, all researched technologies can be viewed, and new ones researched.
+837	1760.27	40	88	You can also review your experimentation history in the archives -- if you're feeling nostalgic.
+838	1057.81	70	30	Research and Development (R&D)
+839	1963.18	40	98	At the Runway, craft built in the SPH have a long flat surface to reach take-off speed. Conceivably, such \naircraft could even land back on it...
+840	1931.25	40	96	The 2.5km length is sufficent for a range of designs and sizes, making it the perfect place for all kinds \nof tests.
+841	564.44	40	28	<b>Level 1:</b> 20.0 x 15.0m - 18.0t\n<b>Level 2:</b> 36.0 x 28.0m - 140.0t\n<b>Level 3:</b> Unlimited
+842	386.25	70	11	The Runway
+843	1995.11	40	99	This facility is similar to the VAB, both being used for construction. The primary difference being the SPH \nis designed for building horizontally launched craft, that then use the attached Runway.
+844	879.62	40	43	<b>Level 1:</b> 30 parts and no action groups\n<b>Level 2:</b> 255 parts and basic action groups\n<b>Level 3:</b> Unlimited parts and all action groups
+845	1597.53	40	79	It is from here that many planes have been designed to investigate the home planet.
+846	941.42	70	26	The Spaceplane Hangar (SPH)
+847	1202.01	40	60	<b>Level 1:</b> Orbits in map and flight planning (with upgraded MC)\n<b>Level 2:</b> Patched conics visible in map\n<b>Level 3:</b> Patched conics in map and unknown object tracking
+848	1933.31	40	96	At the Tracking Station, all ongoing missions can be viewed and flown. Landed craft can be recovered \nfrom here as well.
+849	1659.33	40	82	It's a great place to get an overall view of your space program and who is out exploring.
+850	795.16	70	22	The Tracking Station (TS)
+851	1855.03	40	92	The Vehicle Assembly Building (or VAB to those in the know) is the place where rockets and other \nvertically launched spacecraft are designed.
+852	1217.46	35	69	<color=#ef2929>Note: </color>Ignition of rocket engines inside the VAB voids the KSC insurance policy.
+853	1128.88	40	56	From here they are moved over to the launchpad for liftoff.
+854	1158.75	70	33	The Vehicle Assembly Building (VAB)
+855	2017.77	40	100	Alright, it does show a few more things than just altitude, and does let you control a number of functions. \nYou can see these below.
+856	1891.08	40	94	This is the altimeter control - and the gear toggle, and the brake toggle, and the abort button, and...
+857	579.89	35	33	Recover vessel (available when \nlanded on Kerbin) or Space Center \nto return there.
+858	857.99	35	49	* May contain "some" other information and controls.
+859	317.24	35	18	Altitude above sea \nlevel, NOT above \nground level.
+860	287.37	35	16	Trigger the abort \naction group.
+861	489.25	40	24	Vertical Speed Indicator
+862	262.65	40	13	Atmospheric\nPressure
+863	391.4	40	19	Transition Buttons:
+864	271.92	40	13	Landing Gear\nToggle

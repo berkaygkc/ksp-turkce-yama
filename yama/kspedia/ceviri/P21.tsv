@@ -1,0 +1,43 @@
+1041	Güneş ve gezegensel radyasyon aracını ısıtsa da, \naracındaki parçalar genellikle çok daha büyük bir endişe kaynağıdır.
+1042	Burada ana örnek olarak motorlar kullanılacak, ancak ısı üreten \nbaşka parçalar da var, örneğin RTG'ler.
+1043	 * Gök cismi radyasyonu, yer \nkazanmak için gösterilmemiştir.
+1044	Motorlar ve Isı Kaynakları
+1045	Motorlardan Gelen Akış
+1046	Motor\nModülü
+1047	Roket Motoru
+1048	Egzoz
+1049	Aşağıdaki diyagram, tüm bu sistemlerin basit bir araçta \nnasıl bir araya geldiğini gösterir.
+1050	Güneş ve gök cismi radyasyonu \ntüm gövde bileşenlerini etkiler
+1051	Akışı Hissetmek
+1052	Egzoz\n / Atık
+1053	Radyatör\nPaneli
+1054	Mini ISRU
+1055	RCS Tankı
+1056	Kapsül
+1057	KSP ısıl modelinde "temel" kurallar şunlardır:\n • Her parçanın bağlı bir iç kısım ve gövde bileşeni vardır;\n • Bağlı parçaların kendi bileşenleri de birbirine bağlıdır - \n    yani Gövde↔Gövde ve İç Kısım↔İç Kısım\n • Isı, sıcaklığı zamanla eşitlemek için bağlı bileşenler \n    arasında "akar" - bu iletim yoluyla olur;\n • Radyasyon ve konveksiyon yoluyla ısı, gövde ile çevre \n    (atmosfer / uzay) arasında "akar"; \n • Güneş ve gezegensel cisimler, bir aracın gövdesini \n    ısıtan radyasyon yayar;
+1058	Isı yönetimi ve ısıl sistemler oldukça karmaşık konulardır, \nama artık yörünge mekaniğinde uzman olduğuna göre doğrudan \nkonuya gireceğiz.
+1059	Aşağıdaki ekranlar belirli parça türlerini, \nsonunda da hepsini eylem halinde görebilmen için \ntüm bir aracı ele alacak.
+1060	Bu diyagram, bu kuralların en basit araçla -- \nbirbirine bağlı iki parçayla -- nasıl \nuygulandığını gösterir.
+1061	Isı Akış Diyagramı
+1062	Parçalar ve Isı
+1063	Radyatör panelleri, bağlı oldukları parçadan \nve o parçaya bağlı diğer parçalardan \nısı çeker. \n\nBunu radyatörün ebeveyn parçası artı \nbir adım daha (ya da ebeveyn + 1) olarak düşünebilirsin.
+1064	Bu tuhaf şekilli parça düzeneğinde, C parçasına bağlı bir radyatör paneli, o parçadan ve ona bir adım uzaklıktaki parçalardan (B, C ve D) ısı çeker.
+1065	Yüzeye ve kenara montajlı modeller halinde gelen bu \ncihazlar, yakındaki parçalardan ve yakındaki çekirdek \nmodüllerinden ısı pompalar.
+1066	Aracını soğutman gereken pek çok zaman \nolacak. İşte tam da burada radyatörler yardımcı olabilir.
+1067	Bunu iletim yoluyla ve ısıyı uzaya yaymak için \ngeniş yüzey alanlarını kullanarak yaparlar.
+1068	"Yakındaki" Parçalar Nedir?
+1069	Biraz Isıdan Kurtulmak
+1070	Radyatör Panelleri
+1071	Bir araç atmosfere yüksek hızla girerse, atmosfere giriş çok fazla ısı üretir. Bu ısı, \naracı serin tutmak için Ablator yakan bir ısı kalkanı tarafından "emilebilir".
+1072	Bu parça, indirilmiş haldeyken aldatıcı derecede küçüktür. Ancak \naçıldığında, devasa 10m çapındaki kalkanının \narkasından büyük bir aracı koruyabilir.
+1073	Çeşitli boyutlarda bulunan bu ağır kalkanlar, \natmosfere giriş sırasında koruma sağlayan çok yönlü parçalardır.
+1074	Kütleleri nedeniyle aracında drogue paraşütlerine \nihtiyaç duyabileceğini unutma.
+1075	Atmosfere Giriş Sırasında Koruma
+1076	Katı Isı Kalkanları
+1077	Şişirilebilir Kalkan
+1078	3,75m
+1079	2,5m
+1080	KerbNet, her sonda çekirdeğinde ve bazı daha özel parçalarda etkindir. Her parçanın, mevcut verinin \nayrıntısını ve türünü etkileyen farklı yetenekleri vardır. KerbNet, bu veriye erişmek için \nKerbal Uzay Merkezi ile bir iletişim bağlantısı gerektirir.
+1081	KerbNet, uzay programının sensörlerini doğrudan Kerbin'in \nbilim camiasına bağlamasını sağlayan bir bilgi ağıdır. Bu da daha verimli görevler planlamana olanak tanır.
+1082	KerbNet
+1083	Aracının rakımına ve yeteneklerine göre \nharitayı yakınlaştırmanı ya da uzaklaştırmanı \nsağlar. Bazı sensörler, belirli koşullar \naltında büyük ölçüde genişletilmiş bir görüş \nalanına sahip olabilir.

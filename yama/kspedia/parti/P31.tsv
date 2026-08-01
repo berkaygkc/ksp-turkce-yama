@@ -1,0 +1,42 @@
+idx	kutu_w	font	kapasite	EN
+1532	851.81	40	42	The primary engines for rockets. These have \nvariable thrust and require tanks of liquid \nfuel (LF) and oxidizer (OX) attached.
+1533	841.51	70	24	Solid Rocket Booster (SRB)
+1534	752.93	70	21	Liquid Fuel Engine (LFE)
+1535	756.02	70	21	Types of Rocket Engines
+1536	329.6	70	9	Ion Engine
+1537	809.58	40	40	When your vertical thrust is greater than \nyour weight + drag you are on your way\nto the stars. \n\nIf it's the other way around you're headed \nfor less "stellar" destinations.
+1538	592.25	40	29	This aerodynamic force is \ncaused by air resistance as the \nrocket moves through the air.
+1539	573.71	40	28	This force comes from gravity \npulling down on the rocket.
+1540	591.22	40	29	The force of the engines \npropelling the rocket forwards.
+1541	934.21	70	26	Forces That Apply to Rockets*
+1542	1189.65	40	59	Kerbals leave and enter vessels through the hatches on their \nvessels. The hatches are not always in the same spot, but they \nare clearly marked.
+1543	1273.08	40	63	There is a range of ladders to help you get aboard for that return \nleg. Sometimes the hatch is just out of reach without some helpful \nsteps.
+1544	1193.77	40	59	Be sure not to land on or obstruct a hatch if you want to use it.
+1545	588.13	70	16	Getting In and Out
+1546	525.3	70	15	Climbing Aboard
+1547	1395	40	69	This probe core mode helps to save the electric charge in your batteries by reducing the electricity usage of the core. The trade-off is that when you hibernate a probe core, it loses some functionality and goes into Limited Control Mode. Hibernation is activated via the Part Action menu; enabling Advanced Tweakables also allows you to set hibernation to happen automatically during timewarp.
+1548	1909	40	95	Being in this mode means<color=#ef2929>* </color>that the probe core loses the ability to set maneuver nodes. It also can't steer (except by choosing SAS modes) or use fine throttle control. Of course, if you have Kerbals aboard (or additional probe cores) then they may still provide some of these functions for the vessel.
+1549	1198	40	59	For most probe cores, power usage drops to 1% of normal in hibernation mode. A few high tech probe cores can do even better than that! So hibernating can really help when taking a trip to the dim outer reaches of the system and your EC generation rates are low to none.
+1550	1714	35	97	<color=#ef2929>* </color>For more information about control modes, see: Communications Network/CommNet/Control Links
+1551	990	70	28	Limited Control Mode
+1552	990	70	28	Hibernation Mode\n\n
+1553	749.84	40	37	Surely the most common of resources. \nLiquid Fuel (LF) And Oxidizer (OX) are \nused together to power the majority of \nrocket engines.
+1554	814.73	40	40	The fuel that is used by highly efficient ion \nengines. Ion engines also need EC to run.
+1555	877.56	40	43	EC is used by all electronic parts and is critical \nfor unmanned craft.
+1556	747.78	40	37	Used mostly by the RCS, this is the fuel \nfor "control" thrusters.
+1557	623.15	70	17	Electric Charge (EC)
+1558	682.89	70	19	MonoPropellant (MP)
+1559	391.4	70	11	Rocket Fuels
+1560	330.63	70	9	Xenon Gas
+1561	1868.42	40	93	When considering that we are literally hurling stuff into space here, sometimes there is a need for \nprotection from the elements - both during liftoff and re-entry.
+1562	1288.53	40	64	There are a range of experiments you can perform with equipment \nranging from full blown labs down to delicate gravioli detectors.
+1563	1134.03	40	56	These utility parts can hold a number of small components \nto protect them from drag, heat and minor collision.
+1564	1203.04	70	34	Protecting Delicate Science Equipment
+1565	582.98	70	16	Service Containers
+1566	413.03	70	11	Science Parts
+1567	1018.67	40	50	By building so the center of lift (CoL) is behind the \ncenter of mass (CoM), the aerodynamic forces on the \nrocket will help to keep it stable.
+1568	883.74	40	44	This method is using some of the principles \nof static stability to help keep you going in the \nright direction.
+1569	1012.49	40	50	Designing a rocket so that it will "want" to fly straight \nis one of the first challenges you face.
+1570	1011.46	70	28	Center of Lift vs. Center of Mass
+1571	999.1	70	28	Let's Get Things Nice and Stable
+1572	475.86	70	13	Static Stability

@@ -1,0 +1,34 @@
+48	Büyüt\n
+49	GAP Araçları
+50	Görev brifingi penceresi, afişler, puanlama, ödüller ve daha fazlasıyla ilgili bilgileri gözden geçirmene olanak tanır.
+51	Modlar ve Parça Paketleri Bilgisi
+52	Hedefler Genel Bakışı
+53	Puanlama Genel Bakışı
+54	Görev Brifingi
+55	Görev Afişleri
+56	Görevi Dışa Aktar 
+57	Görevi Yeniden Adlandır
+58	Ödüller Kurulumu
+59	Bazı Düğümler, daha fazla Görev seçeneği oluşturmak için diğer düğümlere kenetlenebilir, örneğin:\n\t\t• Mantık Düğümleri, Başlangıç Düğümü veya Puan Düğümleri dışında her şeye kenetlenebilir\n\t\t• Oluşturma Düğümleri, Başlangıç Düğümüne kenetlenebilir\n
+60	Hangi Düğümlerin diğer Düğümlere kenetlenebileceğini görmek için, Düğüm tuval etrafında sürüklenirken göstergeye bak. Bu bilgiyi Düğümün kenar çubuğundaki araç ipucundan da alabilirsin.
+61	Oynatma sırasında bir düğüme ulaşıldığında, kenetli tüm düğümler hemen test edilir ve bunu izleyicini farklı yollara yönlendirmek için kullanabilirsin.
+62	Bazı Düğümler, yığınlar oluşturmak için başka kenetli Düğümlerle kenetlenebilir. Hangi kombinasyonları bulabileceğini görmek için denemeler yap!
+63	Düğüm Kenetlenmesi
+64	Düğümler tuval üzerinde herhangi bir yere yerleştirilebilir ve serbestçe sürüklenebilir. Düğümleri birbirine bağlamak için kullandığın bir <b>Giriş</b> ve bir <b>Çıkış</b><b> Bağlayıcısı</b> vardır. Dallanan yollar oluşturmak için bir düğümden birden fazla bağlayıcı sürüklenebilir - Görevlerine ekstra derinlik katmak için dallanan yolları kullan.\n\nDüğümler ve Bağlayıcılar Fare ile seçilebilir ve şununla silinebilir: 
+65	Bir Düğümü ayarlarında Bitiş Düğümü olarak işaretlemek, oyuncu o düğüme ulaştığında Görevin sona ereceği anlamına gelir.
+66	Düğümler / Bağlayıcılar
+67	Sil
+68	<b>Görev Özeti Ekranında </b>her hedef için Oyuncunun puanının yanı sıra genel puanının da dökümü bulunur - bu daha sonra tamamlanan Görevler için Görevler Ekranında gösterilir.
+69	Oyuncular için puanlama ayarlamak, başarılarını ölçmelerinin ve gelişmeye çalışmalarının harika bir yoludur. Diğer düğümler gibi görevin boyunca puanlama düğümleri ekleyebilirsin.
+70	Görev oluşturucusu olarak, belirli puan eşiklerine ulaşan oyunculara <b>Ödüller</b> de verebilirsin. Ayrıca kendi ayarlayabileceğin özel durumlar için de bazı ödüller bulunur.
+71	Yeniden Oynatma / Puan / Bitiş
+72	Ayarlar Aksiyon Paneli (SAP), bir görevde o anda seçili olan Düğümün ayarlarını tanımladığın yerdir. SAP yukarı aşağı kaydırılabilir ve istenildiği kadar çok ya da az bilgi vermek için başlıklar büyütülüp küçültülebilir.
+73	SAP'taki bir Sabitleme simgesine tıklamak, o ayarı Tuval üzerindeki Düğümde gösterir.
+74	Burada, Tuval üzerindeki Düğüm Başlığında görünen Başlığı değiştirebilirsin.
+75	SAP
+76	<b>Görevler</b>, <b>Tuval </b>üzerine yerleştirilip birbirine bağlanan <b>Düğümlerden </b>oluşur. <b>Kenar Çubuğu</b>, Görevi oluşturmak için kullanabileceğin tüm düğümleri bulduğun yerdir.
+77	Düğümler <b> Kategorilere</b> ayrılmıştır - her Kategori, benzer davranış veya işleve sahip Düğümler içerir.
+78	Fareni bir Düğümün üzerine getirmek, o Düğüm hakkında yararlı bilgiler verir.
+79	Kenar Çubuğunun üstündeki Arama özelliğini kullanarak Düğümleri hızlıca bulabilirsin.
+80	Kenar Çubuğu
+81	Görevini kurulurken test edebilirsin. Görevi test etmek, ulaştığın her hedefi isteğe bağlı olarak bir kontrol noktası olarak kaydeder. Görev Oluşturucuya geri döndüğünde, değişmemiş Kontrol Noktalarına daha sonra geri dönebilirsin, böylece her oynayışta görevini baştan test etmen gerekmez.

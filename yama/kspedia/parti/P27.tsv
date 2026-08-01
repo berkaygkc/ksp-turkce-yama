@@ -1,0 +1,44 @@
+idx	kutu_w	font	kapasite	EN
+1366	1967.3	40	98	Radial-In / Radial-Out are the directions at 90 degrees to the current path of travel, pointing in and out. \nBurning these directions "rolls" the orbit as you can see below.
+1367	730.27	40	36	      Burning in towards the planet will\n  lower the orbit ahead of your vessel.
+1368	730.27	40	36	Burning out along the plane will raise\nyour orbit ahead of your vessel.
+1369	931.12	70	26	Adjusting Your Orbit Radially
+1370	81.37	35	4	New\nOrbit
+1371	724.09	40	36	Burning retrograde will <b><i>decrease</i></b> your\norbital velocity and <b><i>lower</i></b> the altitude\non the opposite side to your burn.
+1372	699.37	40	34	Burning prograde will <b><i>increase</i></b> your\norbital velocity and <b><i>raise</i></b> the altitude\non the opposite side to your burn.
+1373	1703.62	40	85	You thrust in the prograde and retrograde directions to adjust the eccentricity of an orbit.
+1374	690.1	70	19	Adjusting Eccentricity
+1375	1889.02	40	94	How to make maneuvers that adjust your vessel's orbit. Bringing all these together you can end up \nplanning - and executing - a flight like below to visit other worlds.
+1376	302.82	35	17	Mun Orbit \nInjection Maneuver
+1377	157.59	35	9	Ejection\nManeuver
+1378	595.34	70	17	Orbital Maneuvers
+1379	134.93	35	7	Enter \nMun SOI
+1380	185.4	35	10	Mun's Orbit
+1381	182.31	35	10	ToTheMun1
+1382	1425.52	40	71	Dres is a very small planet. It was the first planet considered to be a dwarf. \nIts orbit is highly irregular and, together with its size, it took a long time to \ndiscover since half the time it was not where scientists expected to find a \nplanet.
+1383	1420.37	40	71	Some astronomers have noticed variations in gravitational measurements \naround Dres. While only slight, perhaps there is something more to this \ngray dwarf.
+1384	1397.71	40	69	Due to its nature of frequenting the bad parts of space, this dwarf planet \nwas officially labeled as "Not to be trusted" by the scientific community.
+1385	639.63	50	25	Kerbal Astronomical Society
+1386	87.55	40	4	Dres
+1387	1384.32	40	69	Also known as the red dot that you can see if you squint at it really hard, \nDuna has long been a wonder to all kerbals.
+1388	1352.39	40	67	The planet has been held in much awe due to its striking red color and \nstark contrast to the color green.
+1389	731.3	40	36	Ike is Duna's only moon, with steep \nrocky slopes; it's a challenging crash... \nI mean landing.
+1390	101.97	40	5	Duna
+1391	59.74	40	2	Ike
+1392	1425.52	40	71	There’s been a considerable amount of controversy around the status of \nEeloo as being a proper planet or just a "lump of ice going around the \nsun." \n\nThe debate is still ongoing, as most academic summits held to address the \nissue have devolved into, on good days, petty name calling, and on worse \nones, all-out brawls.
+1393	1301.92	40	65	The furthest planet from the sun, Eeloo is like a riddle, wrapped in a \nmystery, inside an enigma, covered in ice.
+1394	105.06	40	5	Eeloo
+1395	1409.04	40	70	It is considered by some to be an almost sister planet to Kerbin. Well, \ndespite the purple, and the toxic atmosphere, and the extreme pressures \nand temperatures. Actually, it’s not very similar at all, is it? Who are those \npeople?
+1396	827.09	40	41	Gilly is a lumpy rock wandering around the \norbit of Eve. It is by far the smallest natural \nsatellite that the Kerbal Astronomical \nSociety has discovered.
+1397	1444.06	40	72	Eve is certainly the purplest object in the solar system. It's one of the larger, \nmost visible objects, mainly because of its very, very purple tint.
+1398	87.55	40	4	Gilly
+1399	65.92	40	3	Eve
+1400	1504.83	40	75	Jool is particularly known for being a rather large, predominantly green planet. \nKerbalkind has longed to visit it since it was first spotted in the sky. \n\nPhilosophers reason that the swirling green planet must be a really nice place \nto visit, on account of its wholesome coloration.
+1401	1162.87	40	58	Jool has five moons orbiting it: Laythe, Vall, Tylo, Bop and Pol.
+1402	925.97	40	46	If you look at Jool through a telescope, it is fuzzy.
+1403	131.84	40	6	Laythe
+1404	79.31	40	3	Tylo
+1405	74.16	40	3	Vall
+1406	73.13	40	3	Jool
+1407	74.16	40	3	Bop
+1408	59.74	40	2	Pol

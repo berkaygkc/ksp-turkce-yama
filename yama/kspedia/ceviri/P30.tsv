@@ -1,0 +1,53 @@
+1479	Araçlar büyüdükçe yapısal \nbileşenlere ihtiyaç duyarsın. Bu parçalar, bir yakıt \ntankını amacı dışında kullanmana gerek kalmadan diğer \nparçaları tam istediğin yere yerleştirmene yardımcı olur.
+1480	EAS-4 Destek Çubuğu Bağlantısı, kerbal evrenindeki koli bandının karşılığıdır. \nParçaları birbirine bağlamak için hemen her durumda kullanabilirsin.
+1481	Eğer bağlantı, bir araçta farklı aşamalardaki parçalar arasında kullanılıyorsa, \no aşama etkinleştirildiğinde tasarım gereği "kırılır".
+1482	Bunlar özellikle uzay istasyonu inşasında oldukça faydalıdır.
+1483	Kirişler, Plakalar ve Destek Çubukları
+1484	Destek Çubuklarıyla Güçlendirme
+1485	Yeterli pratik ve biraz şansla, çok geçmeden böyle şeyler yapabilir hale geleceksin.
+1486	İleri Düzey Roketçilik
+1487	Kerbal ırkı her zaman uzaya çıkmak istemiştir. Bunu gerçeğe dönüştürmenin \nyolları hakkında bazı bilgiler burada.
+1488	Bu bilgiler, aşağıdaki gibi bir parça yığınından kontrol edilebilir bir \nrokete geçmene yardımcı olacaktır.
+1489	Roketçiliğin Temelleri
+1490	Buradaki tasarım, düz uç plakaları \nüzerindeki burun konileri ve \nparaşütlerle akışkan hale getirilmiş. Bunlar, uzaya \ngiderken sürüklenme kuvvetini azaltmaya yardımcı olur.
+1491	Buradaki tasarım (umarım anlaşılıyordur) \naerodinamik açıdan çok kötü - \nama eğlence açısından \ngülmece garanti.
+1492	Roketini aerodinamik ve sürüklenme kuvvetlerini göz önünde bulundurarak tasarlamak, verim ve \nkararlılık açısından sana yardımcı olabilir.
+1493	Neden Aerodinamiğe Önem Vermelisin?
+1494	Pek de İyi Olmayan Bir Tasarım
+1495	İyi Bir Tasarım
+1496	Bu, motorun itki altındayken rokete dönüş \nuygulamayacağı anlamına gelir. Bunu yanlış hizalamak, ofis \nsandalyesinde yangın söndürücü kullanmak gibidir.<color=#ef2929>*</color>
+1497	<color=#ef2929><i>*Not:</i></color> Görev Kontrol, yangın söndürücülerin ofis sandalyesi yakıtı olarak kullanılmasını onaylamaz.
+1498	Bunu yapmak için, itki merkezinin (CoT) kütle merkezinin (CoM) \nüzerinden geçecek şekilde roketini inşa et.
+1499	İtkini merkezlenmiş tutmak, işlerin istediğin yöne \ngitmesine de yardımcı olur.
+1500	İtki Merkezi ve Kütle Merkezi
+1501	Merkezde Kalmak
+1502	Merkez Dışı
+1503	Hizalı
+1504	Dönük
+1505	Yukarı çıkan her şey <b><i>mutlaka</i></b> geri iner. Atmosferi olan gök cisimlerine \ninerken paraşüt kullanmak, motor yakımıyla kıyaslandığında çok daha kolay \nve verimlidir.
+1506	Aşamalama yığını simgesi her paraşütün durumunu gösterir. Arka planın \nrengi, o aşamayı tetiklemenin ne kadar güvenli olduğunu gösterir. Simgenin \nrengi ise aşamalanmış paraşütün durumunu gösterir.
+1507	Sadece ziyaret ettiğin her yerin atmosferi olmadığını unutma.
+1508	Paraşüt Göstergesi
+1509	Açmak Güvenli Değil
+1510	Açmak Riskli
+1511	Açmak Güvenli
+1512	Yumuşak İniş
+1513	Kesilmiş / Yırtılmış
+1514	Kapalı Paraşütler
+1515	Yarı Açılmış
+1516	Açılan Paraşütler
+1517	Etkin
+1518	Açılmış
+1519	EC birçok amaç için kullanılır, ancak piller tek işlevli bir eşya olarak ağırdır. Neyse ki \nEC birçok farklı şekilde üretilebilir.
+1520	Birçok motorda, gaz ayarına bağlı olarak\ndeğişen miktarlarda EC üretecek\nalternatörler bulunur.
+1521	Sabit ve güvenilir bir EC kaynağı, ancak \ndiğer seçeneklerden belirgin şekilde daha ağır.
+1522	Hafif ve güvenilir, çeşitli boyut\nve şekillerde bulunurlar.
+1523	LF ve OX tüketen bu \nhücreler, aktifken EC üretir.
+1524	<color=#ef2929>Not:</color> Güneş ışığı gereklidir.
+1525	Elektrik Yükünü Şarj Etmek
+1526	Termoelektrik\nJeneratör
+1527	Motor Alternatörleri
+1528	Güneş Panelleri
+1529	Yakıt Hücreleri
+1530	Bu düşük itkili motor ailesi özellikle sondalar için \nkullanışlıdır. Ksenon Gazı ve Elektrik Yükü (EC) ile çalışırlar ve\nuzun süreli düşük itkili yakmalar için oldukça kullanışlıdırlar.
+1531	İsminden de anlaşılacağı gibi bu motorlar \ngenellikle bir şeyleri harekete geçirmek için \nyardımcı roket olarak kullanılır. Kendi yakıtlarını taşırlar ve \nateşlendikten sonra gazı ayarlanamaz veya kapatılamaz.

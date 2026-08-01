@@ -1,0 +1,48 @@
+idx	kutu_w	font	kapasite	EN
+1	1910.4	40	95	The Mission Builder is the place you go to Create your own flight plans and challenges. Then you can Launch them yourself, and even Share with the world.
+2	800.31	70	22	Builder
+3	1910.4	40	95	At the top of the Builder is the Toolbar. On here you will find the icons needed to create a New Mission, Save and Load Missions, and get a Mission Overview and Test your Mission.
+4	700	35	40	This will show you all applicable Mission critical information in the Tracking Station view. \nUse this to get an overview of your Mission in relation to the Solar System.
+5	500	35	28	Use this to review your Mission and make any amendments to the Global Score or Awards.
+6	400	35	22	Test your mission progressively as you build it.
+7	500	40	25	View in Tracking Station:
+8	500	40	25	Exit Mission Builder
+9	500	40	25	Mission Briefing:
+10	800.31	70	22	Builder Toolbar
+11	500	40	25	Test Mission:
+12	300	40	15	Open Mission
+13	300	40	15	Save Mission
+14	300	40	15	New Mission
+15	1931.3	40	96	The Canvas is where nodes are placed and linked together to form the Mission. Once you have two or more nodes on the Canvas you can link them together to build the paths your Mission will take. You can pan the Canvas around and zoom in and out to get as much (or as little) information on the screen as you so wish.
+16	309.6	35	17	Hide/Unhide <b>Sidebar </b>and <b>Action Pane</b>
+17	359.7	35	20	Validation Report
+18	683	35	39	Edit Mission name
+19	327.7	35	18	Maximise/Restore
+20	341.3	35	19	Run Validation
+21	279.8	35	15	Arrange Nodes
+22	390	35	22	Zoom in/out\n
+23	279.8	35	15	Reset Panels
+24	279.8	35	15	Fit in View
+25	220.3	35	12	Undo/Redo
+26	800.31	70	22	Canvas
+27	1922.6	40	96	To <b>share</b> a mission you will need to <b>export</b> it. Exporting the mission will package up all necessary data into a handy file that can then be shared with the world. \n\nTo <b>import</b> a Mission you will need to download the zip file and then unpack the imported Mission Folder to your Missions folder in your KSP directory.\n\n
+28	814.3	40	40	Keep an eye on the <b>Mission Validation Report</b> icon - if it’s red it will indicate there could be problems with the Mission, if it’s green everything is good to go.
+29	1200.8	40	60	Click here to manually run a Mission Validation - the Missions status will be shown on the Mission Validation Report icon.
+30	380.8	34	22	Exported Mission can be found in the <b> _Exports </b> folder in your main KSP directory.
+31	1713.8	70	48	Importing / Exporting / Validation
+32	598.6	35	34	The Builder version of the App can help when building a vessel - it will let you know vessel restrictions and any other stipulations that must be adhered to.\n\nIn the Builder you can use the Mission App to switch between the Vessel currently being worked on. You can also choose to move the creation of the Vessel between the VAB and SPH.\r\n
+33	598.6	35	34	The in flight version will show you what objectives you have achieved or those that are coming up - it will also show you where the end of a Mission is and where any branching paths may occur.
+34	1904	40	95	The Mission App has two ways in which it will help you during a mission - it has a Builder version and a flight version.\n\n
+35	800.31	70	22	Mission App
+36	1944.4	40	97	The Graphical Action Pane (GAP) is a graphical representation of some of the settings shown in the SAP.\nThe GAP is opened by clicking on a  setting in the SAP - settings with GAP functionality are shown with an eye icon next to them.
+37	800.31	40	40	Using the GAP you can perform a multitude of tasks such as selecting parts that can (or can’t) be used, altering the desired Orbit of a celestial body, placing a target on a planet, and many many more.
+38	800.31	40	40	Depending on the item being viewed the GAP can be zoomed in, zoomed out, rotated and interacted with in lots of different ways.
+39	800.31	70	22	GAP
+40	1874.1	40	93	Contextual icons are shown on the GAP giving you quick access to functions. The ones shown here are in relation to what is seen when tweaking an Orbit.
+41	790.3	40	39	The Celestial Body Selector
+42	357.9	40	17	Display Resources\n
+43	338.9	40	16	Filter Buttons
+44	302.3	40	15	Context Panel
+45	321.4	40	16	Light Slider
+46	312.4	40	15	Lock Button
+47	477.3	40	23	Zoom Slider
